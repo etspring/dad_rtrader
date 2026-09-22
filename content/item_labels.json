@@ -1,0 +1,3078 @@
+{
+  "DesignDataItem:Id_Item_AdventurerBoots": {
+    "en": "Adventurer Boots",
+    "ru": "Сапоги Авантюриста"
+  },
+  "DesignDataItem:Id_Item_AdventurerBoots_RS": {
+    "en": "Rubysilver Adventurer Boots",
+    "ru": "Сапоги Авантюриста из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_AdventurerCloak": {
+    "en": "Adventurer Cloak",
+    "ru": "Плащ Авантюриста"
+  },
+  "DesignDataItem:Id_Item_AdventurerTunic": {
+    "en": "Adventurer Tunic",
+    "ru": "Туника Авантюриста"
+  },
+  "DesignDataItem:Id_Item_Ale": {
+    "en": "Ale",
+    "ru": "Эль"
+  },
+  "DesignDataItem:Id_Item_Anchor": {
+    "en": "Anchor",
+    "ru": "Якорь"
+  },
+  "DesignDataItem:Id_Item_AncientStingrayEgg": {
+    "en": "Ancient Stingray Egg",
+    "ru": "Древнее Яйцо Ската"
+  },
+  "DesignDataItem:Id_Item_AntiquatedCoin": {
+    "en": "Antiquated Coin",
+    "ru": "Старинная Монета"
+  },
+  "DesignDataItem:Id_Item_AquaglowLantern": {
+    "en": "Aquaglow Lantern",
+    "ru": "Лампа Подводного Сияния"
+  },
+  "DesignDataItem:Id_Item_ArcaneEssence": {
+    "en": "Arcane Essence",
+    "ru": "Эссенция Арканы"
+  },
+  "DesignDataItem:Id_Item_ArcaneGarb": {
+    "en": "Arcane Garb",
+    "ru": "Одеяние Арканы"
+  },
+  "DesignDataItem:Id_Item_ArcaneGloves": {
+    "en": "Arcane Gloves",
+    "ru": "Перчатки Арканы"
+  },
+  "DesignDataItem:Id_Item_ArcaneHood": {
+    "en": "Arcane Hood",
+    "ru": "Капюшон Арканы"
+  },
+  "DesignDataItem:Id_Item_Armet": {
+    "en": "Armet",
+    "ru": "Армет"
+  },
+  "DesignDataItem:Id_Item_ArmillarySphere": {
+    "en": "Armillary Sphere",
+    "ru": "Армиллярная Сфера"
+  },
+  "DesignDataItem:Id_Item_ArmingSword": {
+    "en": "Arming Sword",
+    "ru": "Рыцарский Меч"
+  },
+  "DesignDataItem:Id_Item_ArmorScrap": {
+    "en": "Armor Scrap",
+    "ru": "Обломки Брони"
+  },
+  "DesignDataItem:Id_Item_Arrow": {
+    "en": "Arrow",
+    "ru": "Стрела"
+  },
+  "DesignDataItem:Id_Item_Awl": {
+    "en": "Awl",
+    "ru": "Шило"
+  },
+  "DesignDataItem:Id_Item_AxeOfRighteousness": {
+    "en": "Axe of Righteousness",
+    "ru": "Топор Праведности"
+  },
+  "DesignDataItem:Id_Item_BadgerPendant": {
+    "en": "Badger Pendant",
+    "ru": "Кулон Барсука"
+  },
+  "DesignDataItem:Id_Item_Ball": {
+    "en": "Ball",
+    "ru": "Ядро"
+  },
+  "DesignDataItem:Id_Item_Bandage": {
+    "en": "Bandage",
+    "ru": "Бинт"
+  },
+  "DesignDataItem:Id_Item_BansheeSonnet": {
+    "en": "Banshee Sonnet",
+    "ru": "Сонет Банши"
+  },
+  "DesignDataItem:Id_Item_BarbutaHelm": {
+    "en": "Barbuta Helm",
+    "ru": "Барбют"
+  },
+  "DesignDataItem:Id_Item_BarbutaHelm_RS": {
+    "en": "Rubysilver Barbuta Helm",
+    "ru": "Барбют из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_BardicPants": {
+    "en": "Bardic Pants",
+    "ru": "Штаны Барда"
+  },
+  "DesignDataItem:Id_Item_Bardiche": {
+    "en": "Bardiche",
+    "ru": "Бердыш"
+  },
+  "DesignDataItem:Id_Item_BareHandRight": {
+    "en": "Bare Hand Right",
+    "ru": "Правая Рука"
+  },
+  "DesignDataItem:Id_Item_BareHands": {
+    "en": "Bare Hands",
+    "ru": "Голые Руки"
+  },
+  "DesignDataItem:Id_Item_BarrelHoop": {
+    "en": "Barrel Hoop",
+    "ru": "Обруч Для Бочки"
+  },
+  "DesignDataItem:Id_Item_BatClaw": {
+    "en": "Bat Claw",
+    "ru": "Коготь Летучей Мыши"
+  },
+  "DesignDataItem:Id_Item_BatWing": {
+    "en": "Bat Wing",
+    "ru": "Крыло Летучей Мыши"
+  },
+  "DesignDataItem:Id_Item_BattleAxe": {
+    "en": "Battle Axe",
+    "ru": "Боевой Топор"
+  },
+  "DesignDataItem:Id_Item_BattleWornArmorFragment": {
+    "en": "Battle-Worn Armor Fragment",
+    "ru": "Осколок Боевых Доспехов"
+  },
+  "DesignDataItem:Id_Item_Bavin": {
+    "en": "Bavin",
+    "ru": "Чурбан"
+  },
+  "DesignDataItem:Id_Item_BearPendant": {
+    "en": "Bear Pendant",
+    "ru": "Кулон Медведя"
+  },
+  "DesignDataItem:Id_Item_BeetleWings": {
+    "en": "Beetle Wings",
+    "ru": "Крылья Жука"
+  },
+  "DesignDataItem:Id_Item_Bellows": {
+    "en": "Bellows",
+    "ru": "Кузнечные Мехи"
+  },
+  "DesignDataItem:Id_Item_Billet": {
+    "en": "Billet",
+    "ru": "Полено"
+  },
+  "DesignDataItem:Id_Item_Birdcage": {
+    "en": "Birdcage",
+    "ru": "Птичья Клетка"
+  },
+  "DesignDataItem:Id_Item_BlackRose": {
+    "en": "Black Rose",
+    "ru": "Чёрная Роза"
+  },
+  "DesignDataItem:Id_Item_BlackThreadSpool": {
+    "en": "Black Thread Spool",
+    "ru": "Катушка с Чёрной Нитью"
+  },
+  "DesignDataItem:Id_Item_BlacksmithTongs": {
+    "en": "Blacksmith Tongs",
+    "ru": "Кузнечные Клещи"
+  },
+  "DesignDataItem:Id_Item_BladeOfRighteousness": {
+    "en": "Blade of Righteousness",
+    "ru": "Клинок Праведности"
+  },
+  "DesignDataItem:Id_Item_BlazingTail": {
+    "en": "Blazing Tail",
+    "ru": "Пылающий Хвост"
+  },
+  "DesignDataItem:Id_Item_BlemishedPearl": {
+    "en": "Blemished Pearl",
+    "ru": "Испорченный Жемчуг"
+  },
+  "DesignDataItem:Id_Item_BloodsapBlade": {
+    "en": "Bloodsap Blade",
+    "ru": "Вампирский Клинок"
+  },
+  "DesignDataItem:Id_Item_BloodwovenGloves": {
+    "en": "Bloodwoven Gloves",
+    "ru": "Кровотканые Перчатки"
+  },
+  "DesignDataItem:Id_Item_BloodwovenRobe": {
+    "en": "Bloodwoven Robe",
+    "ru": "Кровотканая Мантия"
+  },
+  "DesignDataItem:Id_Item_BlueEyeballs": {
+    "en": "Blue Eyeballs",
+    "ru": "Голубое Глазное Яблоко"
+  },
+  "DesignDataItem:Id_Item_BlueSapphire": {
+    "en": "Blue Sapphire (Exquisite)",
+    "ru": "Синий Сапфир (Изящный)"
+  },
+  "DesignDataItem:Id_Item_BlueThreadSpool": {
+    "en": "Blue Thread Spool",
+    "ru": "Катушка с Синей Нитью"
+  },
+  "DesignDataItem:Id_Item_Bolas": {
+    "en": "Bolas",
+    "ru": "Болас"
+  },
+  "DesignDataItem:Id_Item_Bolt": {
+    "en": "Bolt",
+    "ru": "Болт"
+  },
+  "DesignDataItem:Id_Item_Bone": {
+    "en": "Bone",
+    "ru": "Кость"
+  },
+  "DesignDataItem:Id_Item_BoneHelm": {
+    "en": "Bone Helm",
+    "ru": "Костяной Шлем"
+  },
+  "DesignDataItem:Id_Item_BonePowder": {
+    "en": "Bone Powder",
+    "ru": "Костный Порошок"
+  },
+  "DesignDataItem:Id_Item_Boneshaper": {
+    "en": "Boneshaper",
+    "ru": "Костоправ"
+  },
+  "DesignDataItem:Id_Item_BowOfRighteousness": {
+    "en": "Bow of Righteousness",
+    "ru": "Лук Праведности"
+  },
+  "DesignDataItem:Id_Item_Bowstring": {
+    "en": "Bowstring",
+    "ru": "Тетива"
+  },
+  "DesignDataItem:Id_Item_BrandoftheSubservient": {
+    "en": "Brand of the Subservient",
+    "ru": "Клеймо Подчиненного"
+  },
+  "DesignDataItem:Id_Item_BraveHunterPants": {
+    "en": "Brave Hunter's Pants",
+    "ru": "Штаны Отважного Охотника"
+  },
+  "DesignDataItem:Id_Item_BreathOfTheDeceased": {
+    "en": "Breath of the Deceased",
+    "ru": "Дыхание Усопшего"
+  },
+  "DesignDataItem:Id_Item_Brimstone": {
+    "en": "Brimstone",
+    "ru": "Сера"
+  },
+  "DesignDataItem:Id_Item_BrokenBoneSpike": {
+    "en": "Broken Bone Spike",
+    "ru": "Сломанный Костяной Шип"
+  },
+  "DesignDataItem:Id_Item_BrokenFrame": {
+    "en": "Broken Frame",
+    "ru": "Сломанная Рама"
+  },
+  "DesignDataItem:Id_Item_BrokenGlasses": {
+    "en": "Broken Glasses",
+    "ru": "Сломанные Очки"
+  },
+  "DesignDataItem:Id_Item_BrokenJarShard": {
+    "en": "Broken Jar Shard",
+    "ru": "Осколок Разбитой Банки"
+  },
+  "DesignDataItem:Id_Item_BrokenPickaxe": {
+    "en": "Broken Pickaxe",
+    "ru": "Сломанная Кирка"
+  },
+  "DesignDataItem:Id_Item_BrokenSkull": {
+    "en": "Broken Skull",
+    "ru": "Сломанный Череп"
+  },
+  "DesignDataItem:Id_Item_BrokenTelescopeHead": {
+    "en": "Broken Telescope Head",
+    "ru": "Сломанная Головка Телескопа"
+  },
+  "DesignDataItem:Id_Item_BrokenWarHorn": {
+    "en": "Broken War Horn",
+    "ru": "Сломанный Боевой Рог"
+  },
+  "DesignDataItem:Id_Item_BrokenWheel": {
+    "en": "Broken Wheel",
+    "ru": "Сломанное Колесо"
+  },
+  "DesignDataItem:Id_Item_BrokenWoodenBarrelFragment": {
+    "en": "Broken Wooden Barrel Fragment",
+    "ru": "Фрагмент Разбитой Деревянной Бочки"
+  },
+  "DesignDataItem:Id_Item_BronzeLadle": {
+    "en": "Bronze Ladle",
+    "ru": "Бронзовый Ковш"
+  },
+  "DesignDataItem:Id_Item_BronzeScale": {
+    "en": "Bronze Scale",
+    "ru": "Бронзовые Весы"
+  },
+  "DesignDataItem:Id_Item_Broom": {
+    "en": "Broom",
+    "ru": "Метла"
+  },
+  "DesignDataItem:Id_Item_BuckledBoots": {
+    "en": "Buckled Boots",
+    "ru": "Ботинки с Пряжками"
+  },
+  "DesignDataItem:Id_Item_Buckler": {
+    "en": "Buckler",
+    "ru": "Баклер"
+  },
+  "DesignDataItem:Id_Item_BugShell": {
+    "en": "Bug Shell",
+    "ru": "Панцирь Жука"
+  },
+  "DesignDataItem:Id_Item_ButtonedBoots": {
+    "en": "Buttoned Boots",
+    "ru": "Сапоги на Пуговицах"
+  },
+  "DesignDataItem:Id_Item_ButtonedLeggings": {
+    "en": "Buttoned Leggings",
+    "ru": "Штаны на Пуговицах"
+  },
+  "DesignDataItem:Id_Item_Bycocket": {
+    "en": "Bycocket",
+    "ru": "Байкетка"
+  },
+  "DesignDataItem:Id_Item_CampfireKit": {
+    "en": "Campfire Kit",
+    "ru": "Набор для Костра"
+  },
+  "DesignDataItem:Id_Item_CandyCane": {
+    "en": "Candy Cane",
+    "ru": "Карамельная Трость"
+  },
+  "DesignDataItem:Id_Item_CandyCorns": {
+    "en": "Candy Corn",
+    "ru": "Сладкая Кукуруза"
+  },
+  "DesignDataItem:Id_Item_CaptainsCorrodedKey": {
+    "en": "Captain's Corroded Key",
+    "ru": "Проржавевший Ключ Капитана"
+  },
+  "DesignDataItem:Id_Item_CapturedEnergyFlakes": {
+    "en": "Captured Energy Flakes",
+    "ru": "Пойманные Хлопья Энергии"
+  },
+  "DesignDataItem:Id_Item_CapturedManaFlakes": {
+    "en": "Captured Mana Flakes",
+    "ru": "Пойманные Хлопья Маны"
+  },
+  "DesignDataItem:Id_Item_CastillonDagger": {
+    "en": "Castillon Dagger",
+    "ru": "Кастильский Кинжал"
+  },
+  "DesignDataItem:Id_Item_CaveTrollsPreciousRock": {
+    "en": "Cave Trolls Precious Rock",
+    "ru": "Драгоценный Камень Пещерного Тролля"
+  },
+  "DesignDataItem:Id_Item_CentaurHoof": {
+    "en": "Centaur Hoof",
+    "ru": "Копыто Кентавра"
+  },
+  "DesignDataItem:Id_Item_CentaurMadness": {
+    "en": "Centaur's Madness",
+    "ru": "Безумие Кентавра"
+  },
+  "DesignDataItem:Id_Item_CeremonialDagger": {
+    "en": "Ceremonial Dagger (Exquisite)",
+    "ru": "Церемониальный Кинжал (Изящный)"
+  },
+  "DesignDataItem:Id_Item_CeremonialHeaddress": {
+    "en": "Ceremonial Headdress",
+    "ru": "Церемониальный Головной Убор"
+  },
+  "DesignDataItem:Id_Item_CeremonialStaff": {
+    "en": "Ceremonial Staff",
+    "ru": "Церемониальный Посох"
+  },
+  "DesignDataItem:Id_Item_ChampionArmor": {
+    "en": "Champion Armor",
+    "ru": "Броня Защитника"
+  },
+  "DesignDataItem:Id_Item_ChapelDeFer": {
+    "en": "Chapel De Fer",
+    "ru": "Шапель"
+  },
+  "DesignDataItem:Id_Item_Chaperon": {
+    "en": "Chaperon",
+    "ru": "Шаперон"
+  },
+  "DesignDataItem:Id_Item_Charcoal": {
+    "en": "Charcoal",
+    "ru": "Древесный Уголь"
+  },
+  "DesignDataItem:Id_Item_CharmofFortune": {
+    "en": "Charm of Fortune",
+    "ru": "Талисман Удачи"
+  },
+  "DesignDataItem:Id_Item_CharredFang": {
+    "en": "Charred Fang",
+    "ru": "Обгоревший Клык"
+  },
+  "DesignDataItem:Id_Item_ChocolateChipMuffin": {
+    "en": "Chocolate Chip Muffin",
+    "ru": "Шоколадный Маффин"
+  },
+  "DesignDataItem:Id_Item_ChroniclesoftheCursedCrown": {
+    "en": "Chronicles of the Cursed Crown",
+    "ru": "Хроники Проклятой Короны"
+  },
+  "DesignDataItem:Id_Item_ClarityPotion": {
+    "en": "Potion of Clarity",
+    "ru": "Зелье Ясности"
+  },
+  "DesignDataItem:Id_Item_CloakofDarkness": {
+    "en": "Cloak of Darkness",
+    "ru": "Плащ Тьмы"
+  },
+  "DesignDataItem:Id_Item_ClothPants": {
+    "en": "Cloth Pants",
+    "ru": "Суконные Штаны"
+  },
+  "DesignDataItem:Id_Item_Club": {
+    "en": "Club",
+    "ru": "Дубина"
+  },
+  "DesignDataItem:Id_Item_Coal": {
+    "en": "Coal",
+    "ru": "Уголь"
+  },
+  "DesignDataItem:Id_Item_CobaltChapelDeFer": {
+    "en": "Cobalt Chapel De Fer",
+    "ru": "Кобальтовый Шапель"
+  },
+  "DesignDataItem:Id_Item_CobaltFrock": {
+    "en": "Cobalt Frock",
+    "ru": "Кобальтовая Ряса"
+  },
+  "DesignDataItem:Id_Item_CobaltHat": {
+    "en": "Cobalt Hat",
+    "ru": "Кобальтовая Шляпа"
+  },
+  "DesignDataItem:Id_Item_CobaltHeavyGauntlet": {
+    "en": "Cobalt Heavy Gauntlet",
+    "ru": "Кобальтовые Латные Рукавицы"
+  },
+  "DesignDataItem:Id_Item_CobaltHood": {
+    "en": "Cobalt Hood",
+    "ru": "Кобальтовый Капюшон"
+  },
+  "DesignDataItem:Id_Item_CobaltIngots": {
+    "en": "Cobalt Ingot",
+    "ru": "Слиток Кобальта"
+  },
+  "DesignDataItem:Id_Item_CobaltLeatherGloves": {
+    "en": "Cobalt Leather Gloves",
+    "ru": "Кобальтовые Кожаные Перчатки"
+  },
+  "DesignDataItem:Id_Item_CobaltLightfootBoots": {
+    "en": "Cobalt Lightfoot Boots",
+    "ru": "Кобальтовые Лёгкие Ботинки"
+  },
+  "DesignDataItem:Id_Item_CobaltOres": {
+    "en": "Cobalt Ore",
+    "ru": "Кобальтовая Руда"
+  },
+  "DesignDataItem:Id_Item_CobaltPlateBoots": {
+    "en": "Cobalt Plate Boots",
+    "ru": "Кобальтовые Латные Ботинки"
+  },
+  "DesignDataItem:Id_Item_CobaltPlatePants": {
+    "en": "Cobalt Plate Pants",
+    "ru": "Кобальтовые Латные Поножи"
+  },
+  "DesignDataItem:Id_Item_CobaltPowder": {
+    "en": "Cobalt Powder",
+    "ru": "Порошок Кобальта"
+  },
+  "DesignDataItem:Id_Item_CobaltRegalGambeson": {
+    "en": "Cobalt Regal Gambeson",
+    "ru": "Кобальтовый Королевский Гамбезон"
+  },
+  "DesignDataItem:Id_Item_CobaltTemplarArmor": {
+    "en": "Cobalt Templar Armor",
+    "ru": "Кобальтовая Броня Тамплиера"
+  },
+  "DesignDataItem:Id_Item_CobaltTrousers": {
+    "en": "Cobalt Trousers",
+    "ru": "Кобальтовые Штаны"
+  },
+  "DesignDataItem:Id_Item_CobaltVikingHelm": {
+    "en": "Cobalt Viking Helm",
+    "ru": "Кобальтовый Шлем Викинга"
+  },
+  "DesignDataItem:Id_Item_CockatriceEgg": {
+    "en": "Cockatrice’s Egg",
+    "ru": "Яйцо Кокатрикса"
+  },
+  "DesignDataItem:Id_Item_CockatricesLuckyFeather": {
+    "en": "Cockatrice’s Lucky Feather",
+    "ru": "Счастливое Перо Кокатрикса"
+  },
+  "DesignDataItem:Id_Item_Coif": {
+    "en": "Coif",
+    "ru": "Койф"
+  },
+  "DesignDataItem:Id_Item_ConchShell": {
+    "en": "Conch Shell",
+    "ru": "Раковина"
+  },
+  "DesignDataItem:Id_Item_CopperIngots": {
+    "en": "Copper Ingot",
+    "ru": "Слиток Меди"
+  },
+  "DesignDataItem:Id_Item_CopperOres": {
+    "en": "Copper Ore",
+    "ru": "Медная Руда"
+  },
+  "DesignDataItem:Id_Item_CopperPowder": {
+    "en": "Copper Powder",
+    "ru": "Порошок Меди"
+  },
+  "DesignDataItem:Id_Item_CopperlightAttire": {
+    "en": "Copperlight Attire",
+    "ru": "Медный Наряд"
+  },
+  "DesignDataItem:Id_Item_CopperlightGauntlets": {
+    "en": "Copperlight Gauntlets",
+    "ru": "Медные Лёгкие Рукавицы"
+  },
+  "DesignDataItem:Id_Item_CopperlightKettleHat": {
+    "en": "Copperlight Kettle Hat",
+    "ru": "Медный Котелок"
+  },
+  "DesignDataItem:Id_Item_CopperlightLeggings": {
+    "en": "Copperlight Leggings",
+    "ru": "Медные Кожаные Штаны"
+  },
+  "DesignDataItem:Id_Item_CopperlightLightfootBoots": {
+    "en": "Copperlight Lightfoot Boots",
+    "ru": "Медные Лёгкие Ботинки"
+  },
+  "DesignDataItem:Id_Item_CopperlightOutfit": {
+    "en": "Copperlight Outfit",
+    "ru": "Медное Платье"
+  },
+  "DesignDataItem:Id_Item_CopperlightPants": {
+    "en": "Copperlight Pants",
+    "ru": "Медные Штаны"
+  },
+  "DesignDataItem:Id_Item_CopperlightPlateBoots": {
+    "en": "Copperlight Plate Boots",
+    "ru": "Медные Латные Ботинки"
+  },
+  "DesignDataItem:Id_Item_CopperlightPlatePants": {
+    "en": "Copperlight Plate Pants",
+    "ru": "Медные Латные Поножи"
+  },
+  "DesignDataItem:Id_Item_CopperlightRivetedGloves": {
+    "en": "Copperlight Riveted Gloves",
+    "ru": "Медные Клёпаные Перчатки"
+  },
+  "DesignDataItem:Id_Item_CopperlightSanctumPlateArmor": {
+    "en": "Copperlight Sanctum Plate Armor",
+    "ru": "Медная Храмовая Пластинчатая Броня"
+  },
+  "DesignDataItem:Id_Item_CopperlightShadowHood": {
+    "en": "Copperlight Shadow Hood",
+    "ru": "Медный Капюшон Тени"
+  },
+  "DesignDataItem:Id_Item_CopperlightStrawHat": {
+    "en": "Copperlight Straw Hat",
+    "ru": "Медная Соломенная Шляпа"
+  },
+  "DesignDataItem:Id_Item_CopperlightTunic": {
+    "en": "Copperlight Tunic",
+    "ru": "Медная Туника"
+  },
+  "DesignDataItem:Id_Item_CoralFragment": {
+    "en": "Coral Fragment",
+    "ru": "Фрагмент Коралла"
+  },
+  "DesignDataItem:Id_Item_CoreofCinder": {
+    "en": "Core of Cinder",
+    "ru": "Ядро Золы"
+  },
+  "DesignDataItem:Id_Item_CorruptedHeart": {
+    "en": "Corrupted Heart",
+    "ru": "Испорченное Сердце"
+  },
+  "DesignDataItem:Id_Item_CourtlyDress": {
+    "en": "Courtly Dress",
+    "ru": "Придворное Платье"
+  },
+  "DesignDataItem:Id_Item_CowlofDarkness": {
+    "en": "Cowl of Darkness",
+    "ru": "Клобук Тьмы"
+  },
+  "DesignDataItem:Id_Item_CrackedLog": {
+    "en": "Cracked Log",
+    "ru": "Треснувшее Бревно"
+  },
+  "DesignDataItem:Id_Item_CrackedTusk": {
+    "en": "Cracked Tusk",
+    "ru": "Треснутый Бивень"
+  },
+  "DesignDataItem:Id_Item_CrimsonThreadSpool": {
+    "en": "Crimson Thread Spool",
+    "ru": "Катушка Алой Нити"
+  },
+  "DesignDataItem:Id_Item_CrocodilianEyeball": {
+    "en": "Crocodilian Eyeball",
+    "ru": "Крокодилье Глазное Яблоко"
+  },
+  "DesignDataItem:Id_Item_Crossbow": {
+    "en": "Crossbow",
+    "ru": "Арбалет"
+  },
+  "DesignDataItem:Id_Item_CrownoftheMidnightStag": {
+    "en": "Crown of the Midnight Stag",
+    "ru": "Корона Полуночного Оленя"
+  },
+  "DesignDataItem:Id_Item_CrusaderArmor": {
+    "en": "Crusader Armor",
+    "ru": "Броня Крестоносца"
+  },
+  "DesignDataItem:Id_Item_CrystalBall": {
+    "en": "Crystal Ball",
+    "ru": "Хрустальный Шар"
+  },
+  "DesignDataItem:Id_Item_CrystalFrostRing": {
+    "en": "Crystal Frost Ring",
+    "ru": "Кольцо Хрустального Мороза"
+  },
+  "DesignDataItem:Id_Item_CrystalSword": {
+    "en": "Crystal Sword",
+    "ru": "Хрустальный Меч"
+  },
+  "DesignDataItem:Id_Item_CuffedBoots": {
+    "en": "Cuffed Boots",
+    "ru": "Сапоги с Манжетами"
+  },
+  "DesignDataItem:Id_Item_CursedBandage": {
+    "en": "Cursed Bandage",
+    "ru": "Проклятый Бинт"
+  },
+  "DesignDataItem:Id_Item_CursedBell": {
+    "en": "Cursed Bell",
+    "ru": "Проклятый Колокол"
+  },
+  "DesignDataItem:Id_Item_CursedCrown": {
+    "en": "Cursed Crown",
+    "ru": "Проклятая Корона"
+  },
+  "DesignDataItem:Id_Item_Cutlass": {
+    "en": "Cutlass",
+    "ru": "Сабля"
+  },
+  "DesignDataItem:Id_Item_CuttlefishInkSac": {
+    "en": "Cuttlefish Ink Sac",
+    "ru": "Мешочек с Чернилами Каракатицы"
+  },
+  "DesignDataItem:Id_Item_CyclopsClub": {
+    "en": "Cyclops’s Club",
+    "ru": "Дубина Циклопа"
+  },
+  "DesignDataItem:Id_Item_CyclopsEye": {
+    "en": "Cyclops Eye",
+    "ru": "Глаз Циклопа"
+  },
+  "DesignDataItem:Id_Item_CyclopsPreciousMirror": {
+    "en": "Cyclops Precious Mirror",
+    "ru": "Драгоценное Зеркало Циклопа"
+  },
+  "DesignDataItem:Id_Item_CyclopsRags": {
+    "en": "Cyclops Rags",
+    "ru": "Тряпки Циклопа"
+  },
+  "DesignDataItem:Id_Item_CyclopsVisionCrystal": {
+    "en": "Cyclops Vision Crystal",
+    "ru": "Кристалл Зрения Циклопа"
+  },
+  "DesignDataItem:Id_Item_DaggerOfRighteousness": {
+    "en": "Dagger of Righteousness",
+    "ru": "Кинжал Праведности"
+  },
+  "DesignDataItem:Id_Item_DarkCassock": {
+    "en": "Dark Cassock",
+    "ru": "Тёмная Ряса"
+  },
+  "DesignDataItem:Id_Item_DarkCuirass": {
+    "en": "Dark Cuirass",
+    "ru": "Тёмная Кираса"
+  },
+  "DesignDataItem:Id_Item_DarkLeatherLeggings": {
+    "en": "Dark Leather Leggings",
+    "ru": "Штаны из Тёмной Кожи"
+  },
+  "DesignDataItem:Id_Item_DarkMatter": {
+    "en": "Dark Matter",
+    "ru": "Тёмная Материя"
+  },
+  "DesignDataItem:Id_Item_DarkMatterTunic": {
+    "en": "Dark Matter Tunic",
+    "ru": "Туника из Тёмной Материи"
+  },
+  "DesignDataItem:Id_Item_DarkPaddedHose": {
+    "en": "Dark Padded Hose",
+    "ru": "Тёмные Стёганые Леггинсы"
+  },
+  "DesignDataItem:Id_Item_DarkPlateArmor": {
+    "en": "Dark Plate Armor",
+    "ru": "Тёмный Латный Доспех"
+  },
+  "DesignDataItem:Id_Item_DarkgroveHood": {
+    "en": "Darkgrove Hood",
+    "ru": "Капюшон Тёмной Рощи"
+  },
+  "DesignDataItem:Id_Item_DarkgroveRobe": {
+    "en": "Darkgrove Robe",
+    "ru": "Мантия Тёмной Рощи"
+  },
+  "DesignDataItem:Id_Item_DarkleafBoots": {
+    "en": "Darkleaf Boots",
+    "ru": "Сапоги Тёмных Листьев"
+  },
+  "DesignDataItem:Id_Item_DashingBoots": {
+    "en": "Dashing Boots",
+    "ru": "Эффектные Сапоги"
+  },
+  "DesignDataItem:Id_Item_DeathstepBoots": {
+    "en": "Deathstep Boots",
+    "ru": "Сапоги Смертельной Поступи"
+  },
+  "DesignDataItem:Id_Item_DemonBlood": {
+    "en": "Demon Blood",
+    "ru": "Кровь Демона"
+  },
+  "DesignDataItem:Id_Item_DemonDogThorns": {
+    "en": "Demon Dog Thorn",
+    "ru": "Шип Демонического Пса"
+  },
+  "DesignDataItem:Id_Item_DemonGripGloves": {
+    "en": "Demon Grip Gloves",
+    "ru": "Перчатки Хватки Демона"
+  },
+  "DesignDataItem:Id_Item_DemonWingMembrane": {
+    "en": "Demon Wing Membrane",
+    "ru": "Мембрана Демонического Крыла"
+  },
+  "DesignDataItem:Id_Item_DemoncladLeggings": {
+    "en": "Demonclad Leggings",
+    "ru": "Демонические Поножи"
+  },
+  "DesignDataItem:Id_Item_DemonsGlee": {
+    "en": "Demon's Glee",
+    "ru": "Ликование Демона"
+  },
+  "DesignDataItem:Id_Item_Diamond": {
+    "en": "Diamond (Exquisite)",
+    "ru": "Бриллиант (Изящный)"
+  },
+  "DesignDataItem:Id_Item_DiaryoftheToz": {
+    "en": "Diary of the Toz",
+    "ru": "Дневник Тоза"
+  },
+  "DesignDataItem:Id_Item_DivineAxe": {
+    "en": "Divine Axe",
+    "ru": "Божественный Топор"
+  },
+  "DesignDataItem:Id_Item_DivineBlade": {
+    "en": "Divine Blade",
+    "ru": "Божественный Клинок"
+  },
+  "DesignDataItem:Id_Item_DivineBow": {
+    "en": "Divine Bow",
+    "ru": "Божественный Лук"
+  },
+  "DesignDataItem:Id_Item_DivineDagger": {
+    "en": "Divine Dagger",
+    "ru": "Божественный Кинжал"
+  },
+  "DesignDataItem:Id_Item_DivineRod": {
+    "en": "Divine Rod",
+    "ru": "Божественный Жезл"
+  },
+  "DesignDataItem:Id_Item_DivineShortSword": {
+    "en": "Divine Short Sword",
+    "ru": "Божественный Короткий Меч"
+  },
+  "DesignDataItem:Id_Item_DivineStaff": {
+    "en": "Divine Staff",
+    "ru": "Божественный Посох"
+  },
+  "DesignDataItem:Id_Item_DoctorsBag": {
+    "en": "Doctor's Bag",
+    "ru": "Сумка Врача"
+  },
+  "DesignDataItem:Id_Item_DogCollar": {
+    "en": "Dog Collar",
+    "ru": "Собачий Ошейник"
+  },
+  "DesignDataItem:Id_Item_DoubleAxe": {
+    "en": "Double Axe",
+    "ru": "Двойной Топор"
+  },
+  "DesignDataItem:Id_Item_Doublet": {
+    "en": "Doublet",
+    "ru": "Дублет"
+  },
+  "DesignDataItem:Id_Item_Doublet_RS": {
+    "en": "Rubysilver Doublet",
+    "ru": "Дублет из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_DreadHood": {
+    "en": "Dread Hood",
+    "ru": "Капюшон Ужаса"
+  },
+  "DesignDataItem:Id_Item_Drum": {
+    "en": "Drum",
+    "ru": "Барабан"
+  },
+  "DesignDataItem:Id_Item_DryadMask": {
+    "en": "Dryad Mask",
+    "ru": "Маска Дриады"
+  },
+  "DesignDataItem:Id_Item_Ectoplasm": {
+    "en": "Ectoplasm",
+    "ru": "Эктоплазма"
+  },
+  "DesignDataItem:Id_Item_ElkwoodCrown": {
+    "en": "Elkwood Crown",
+    "ru": "Дубовая Корона"
+  },
+  "DesignDataItem:Id_Item_ElkwoodGloves": {
+    "en": "Elkwood Gloves",
+    "ru": "Дубовые Перчатки"
+  },
+  "DesignDataItem:Id_Item_EmberGem": {
+    "en": "Ember Gem",
+    "ru": "Тлеющий Самоцвет"
+  },
+  "DesignDataItem:Id_Item_Emerald": {
+    "en": "Emerald (Exquisite)",
+    "ru": "Изумруд (Изящный)"
+  },
+  "DesignDataItem:Id_Item_EnchantedDarkFabric": {
+    "en": "Enchanted Dark Fabric",
+    "ru": "Зачарованная Ткань Тьмы"
+  },
+  "DesignDataItem:Id_Item_EnchantedEye": {
+    "en": "Enchanted Eye",
+    "ru": "Зачарованный Глаз"
+  },
+  "DesignDataItem:Id_Item_EtchedWandFragment": {
+    "en": "Etched Wand Fragment",
+    "ru": "Выгравированный Фрагмент Волшебной Палочки"
+  },
+  "DesignDataItem:Id_Item_ExplosiveBottle": {
+    "en": "Explosive Bottle",
+    "ru": "Взрывная Бутыль"
+  },
+  "DesignDataItem:Id_Item_ExtraThickPelts": {
+    "en": "Extra Thick Pelt",
+    "ru": "Очень Толстая Шкура"
+  },
+  "DesignDataItem:Id_Item_Eyepatch": {
+    "en": "Eyepatch",
+    "ru": "Повязка на Глаз"
+  },
+  "DesignDataItem:Id_Item_FabricShears": {
+    "en": "Fabric Shears",
+    "ru": "Ножницы для Резки Ткани"
+  },
+  "DesignDataItem:Id_Item_FairysRequiem": {
+    "en": "Requiem of the Fairy",
+    "ru": "Реквием Фей"
+  },
+  "DesignDataItem:Id_Item_Falchion": {
+    "en": "Falchion",
+    "ru": "Фальшион"
+  },
+  "DesignDataItem:Id_Item_FalchionofHonor": {
+    "en": "Falchion of Honor",
+    "ru": "Фальшион Чести"
+  },
+  "DesignDataItem:Id_Item_FangsofDeathNecklace": {
+    "en": "Fangs of Death Necklace",
+    "ru": "Клыки Смерти"
+  },
+  "DesignDataItem:Id_Item_FeatheredHat": {
+    "en": "Feathered Hat",
+    "ru": "Шляпа с Перьями"
+  },
+  "DesignDataItem:Id_Item_FellingAxe": {
+    "en": "Felling Axe",
+    "ru": "Валочный Топор"
+  },
+  "DesignDataItem:Id_Item_FineCuirass": {
+    "en": "Fine Cuirass",
+    "ru": "Кираса"
+  },
+  "DesignDataItem:Id_Item_FineCuirass_RS": {
+    "en": "Rubysilver Cuirass",
+    "ru": "Кираса из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_FireflyAbdomen": {
+    "en": "Firefly's Abdomen",
+    "ru": "Брюшко Светлячка"
+  },
+  "DesignDataItem:Id_Item_FlameGasBag": {
+    "en": "Flame Gas Bag",
+    "ru": "Мешочек с Газом"
+  },
+  "DesignDataItem:Id_Item_FlangedMace": {
+    "en": "Flanged Mace",
+    "ru": "Фланцевая Булава"
+  },
+  "DesignDataItem:Id_Item_FlickeringEmber": {
+    "en": "Flickering Ember",
+    "ru": "Мерцающий Уголек"
+  },
+  "DesignDataItem:Id_Item_Flute": {
+    "en": "Flute",
+    "ru": "Флейта"
+  },
+  "DesignDataItem:Id_Item_ForestBoots": {
+    "en": "Forest Boots",
+    "ru": "Лесные Сапоги"
+  },
+  "DesignDataItem:Id_Item_ForestHood": {
+    "en": "Forest Hood",
+    "ru": "Лесной Капюшон"
+  },
+  "DesignDataItem:Id_Item_FoulBoots": {
+    "en": "Foul Boots",
+    "ru": "Нечистые Сапоги"
+  },
+  "DesignDataItem:Id_Item_FoxPendant": {
+    "en": "Fox Pendant",
+    "ru": "Кулон Лисицы"
+  },
+  "DesignDataItem:Id_Item_FranciscaAxe": {
+    "en": "Francisca Axe",
+    "ru": "Франциска"
+  },
+  "DesignDataItem:Id_Item_Frock": {
+    "en": "Frock",
+    "ru": "Ряса"
+  },
+  "DesignDataItem:Id_Item_FrostAmulet": {
+    "en": "Frost Amulet",
+    "ru": "Морозный Амулет"
+  },
+  "DesignDataItem:Id_Item_FrostStoneIngots": {
+    "en": "Froststone Ingot",
+    "ru": "Слиток Морозного Камня"
+  },
+  "DesignDataItem:Id_Item_FrostStoneOres": {
+    "en": "Froststone Ore",
+    "ru": "Руда Морозного Камня"
+  },
+  "DesignDataItem:Id_Item_FrostStonePowder": {
+    "en": "Froststone Powder",
+    "ru": "Порошок Морозного Камня"
+  },
+  "DesignDataItem:Id_Item_FrostWyvernClaws": {
+    "en": "Frost Wyvern's Claws",
+    "ru": "Когти Ледяной Виверны"
+  },
+  "DesignDataItem:Id_Item_FrostWyvernEgg": {
+    "en": "Frost Wyvern Egg",
+    "ru": "Яйцо Ледяной Виверны"
+  },
+  "DesignDataItem:Id_Item_FrostWyvernsHide": {
+    "en": "Frost Wyvern's Hide",
+    "ru": "Шкура Ледяной Виверны"
+  },
+  "DesignDataItem:Id_Item_FrostbittenMallet": {
+    "en": "Frostbitten Mallet",
+    "ru": "Обмороженный Молот"
+  },
+  "DesignDataItem:Id_Item_FrostedFeather": {
+    "en": "Frosted Feather",
+    "ru": "Ледяное Перо"
+  },
+  "DesignDataItem:Id_Item_FrostlightAbyssPlateArmor": {
+    "en": "Frostlight Abyss Plate Armor",
+    "ru": "Латный Доспех Ледяной Бездны"
+  },
+  "DesignDataItem:Id_Item_FrostlightAketon": {
+    "en": "Frostlight Aketon",
+    "ru": "Ледяной Акетон"
+  },
+  "DesignDataItem:Id_Item_FrostlightCloak": {
+    "en": "Frostlight Cloak",
+    "ru": "Ледяной Плащ"
+  },
+  "DesignDataItem:Id_Item_FrostlightCrystalSword": {
+    "en": "Frostlight Crystal Sword",
+    "ru": "Ледяной Хрустальный Меч"
+  },
+  "DesignDataItem:Id_Item_FrostlightFeatheredHat": {
+    "en": "Frostlight Feathered Hat",
+    "ru": "Ледяная Шляпа с Перьями"
+  },
+  "DesignDataItem:Id_Item_FrostlightGauntlets": {
+    "en": "Frostlight Gauntlets",
+    "ru": "Ледяные Латные Рукавицы"
+  },
+  "DesignDataItem:Id_Item_FrostlightHood": {
+    "en": "Frostlight Hood",
+    "ru": "Ледяной Капюшон"
+  },
+  "DesignDataItem:Id_Item_FrostlightLanternShield": {
+    "en": "Frostlight Lantern Shield",
+    "ru": "Ледяной Фонарный Щит"
+  },
+  "DesignDataItem:Id_Item_FrostlightLeatherLeggings": {
+    "en": "Frostlight Leather Leggings",
+    "ru": "Ледяные Кожаные Поножи"
+  },
+  "DesignDataItem:Id_Item_FrostlightLightfootBoots": {
+    "en": "Frostlight Lightfoot Boots",
+    "ru": "Ледяные Лёгкие Ботинки"
+  },
+  "DesignDataItem:Id_Item_FrostlightMysticGloves": {
+    "en": "Frostlight Mystic Gloves",
+    "ru": "Ледяные Перчатки Мистика"
+  },
+  "DesignDataItem:Id_Item_FrostlightOracleRobe": {
+    "en": "Frostlight Oracle Robe",
+    "ru": "Ледяная Мантия Оракула"
+  },
+  "DesignDataItem:Id_Item_FrostlightPlateBoots": {
+    "en": "Frostlight Plate Boots",
+    "ru": "Ледяные Латные Ботинки"
+  },
+  "DesignDataItem:Id_Item_FrostlightPlatePants": {
+    "en": "Frostlight Plate Pants",
+    "ru": "Ледяные Латные Поножи"
+  },
+  "DesignDataItem:Id_Item_FrostlightRivetedGloves": {
+    "en": "Frostlight Riveted Gloves",
+    "ru": "Ледяные Клёпаные Перчатки"
+  },
+  "DesignDataItem:Id_Item_FrostlightRuggedBoots": {
+    "en": "Frostlight Rugged Boots",
+    "ru": "Ледяные Прочные Сапоги"
+  },
+  "DesignDataItem:Id_Item_FrostlightRunestoneGloves": {
+    "en": "Frostlight Runestone Gloves",
+    "ru": "Ледяные Рунические Перчатки"
+  },
+  "DesignDataItem:Id_Item_FrostlightSpear": {
+    "en": "Frostlight Spear",
+    "ru": "Ледяное Копьё"
+  },
+  "DesignDataItem:Id_Item_FrostlightTrousers": {
+    "en": "Frostlight Trousers",
+    "ru": "Ледяные Штаны"
+  },
+  "DesignDataItem:Id_Item_FrostlightWarMaul": {
+    "en": "Frostlight War Maul",
+    "ru": "Ледяная Боевая Кувалда"
+  },
+  "DesignDataItem:Id_Item_FrostlightWardenOutfit": {
+    "en": "Frostlight Warden Outfit",
+    "ru": "Ледяная Форма Дозорного"
+  },
+  "DesignDataItem:Id_Item_FrostlightWizardHat": {
+    "en": "Frostlight Wizard Hat",
+    "ru": "Ледяная Шляпа Волшебника"
+  },
+  "DesignDataItem:Id_Item_FrozenClaw": {
+    "en": "Frozen Claw",
+    "ru": "Ледяной Коготь"
+  },
+  "DesignDataItem:Id_Item_FrozenHeart": {
+    "en": "Frozen Heart",
+    "ru": "Замёрзшее Сердце"
+  },
+  "DesignDataItem:Id_Item_FrozenIronKey": {
+    "en": "Frozen Iron Key",
+    "ru": "Ледяной Железный Ключ"
+  },
+  "DesignDataItem:Id_Item_GallantOutfit": {
+    "en": "Gallant Outfit",
+    "ru": "Галантный Наряд"
+  },
+  "DesignDataItem:Id_Item_GemNecklace": {
+    "en": "Gem Necklace (Exquisite)",
+    "ru": "Ожерелье с Самоцветом (Изящное)"
+  },
+  "DesignDataItem:Id_Item_GemRing": {
+    "en": "Gem Ring (Exquisite)",
+    "ru": "Кольцо с Самоцветом (Изящное)"
+  },
+  "DesignDataItem:Id_Item_GhostdustPouch": {
+    "en": "Ghostdust Pouch",
+    "ru": "Мешочек с Призрачной Пылью"
+  },
+  "DesignDataItem:Id_Item_GhostlyEssence": {
+    "en": "Ghostly Essence",
+    "ru": "Призрачная Эссенция"
+  },
+  "DesignDataItem:Id_Item_GiantBatEar": {
+    "en": "Giant Bat Ear",
+    "ru": "Ухо Гигантской Летучей Мыши"
+  },
+  "DesignDataItem:Id_Item_GiantBatHide": {
+    "en": "Giant Bat Hide",
+    "ru": "Шкура Гигантской Летучей Мыши"
+  },
+  "DesignDataItem:Id_Item_GiantHorn": {
+    "en": "Giant Horn",
+    "ru": "Гигантский Рог"
+  },
+  "DesignDataItem:Id_Item_GiantToe": {
+    "en": "Giant Toe",
+    "ru": "Палец Гиганта"
+  },
+  "DesignDataItem:Id_Item_GingerbreadCookies": {
+    "en": "Gingerbread Cookie",
+    "ru": "Имбирное Печенье"
+  },
+  "DesignDataItem:Id_Item_Gjermundbu": {
+    "en": "Gjermundbu",
+    "ru": "Гьёрмундбю"
+  },
+  "DesignDataItem:Id_Item_GlovesOfUtility": {
+    "en": "Gloves of Utility",
+    "ru": "Рабочие Перчатки"
+  },
+  "DesignDataItem:Id_Item_GlowingBlueIceEyes": {
+    "en": "Glowing Blue Ice Eyes",
+    "ru": "Светящийся Ледяной Голубой Глаз"
+  },
+  "DesignDataItem:Id_Item_GlowingOrangeEye": {
+    "en": "Glowing Orange Eye",
+    "ru": "Светящийся Оранжевый Глаз"
+  },
+  "DesignDataItem:Id_Item_GoatHideRug": {
+    "en": "Goat Hide Rug",
+    "ru": "Коврик из Козьей Шкуры"
+  },
+  "DesignDataItem:Id_Item_GoblinEars": {
+    "en": "Goblin Ear",
+    "ru": "Ухо Гоблина"
+  },
+  "DesignDataItem:Id_Item_GoldBand": {
+    "en": "Gold Band (Exquisite)",
+    "ru": "Золотая Цепочка (Изящная)"
+  },
+  "DesignDataItem:Id_Item_GoldBangle1B": {
+    "en": "Simple Gold Bangle (Exquisite)",
+    "ru": "Простой Золотой Браслет (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldBangle1C": {
+    "en": "Patterned Gold Bangle (Exquisite)",
+    "ru": "Золотой Браслет с Узором (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldBangle1D": {
+    "en": "Dotted Gold Bangle (Exquisite)",
+    "ru": "Золотой Браслет с Круглым Орнаментом (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldBangle1E": {
+    "en": "Turquoise Gem Bangle (Exquisite)",
+    "ru": "Браслет с Бирюзой (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldBangle1H": {
+    "en": "Light Gold Bangle (Exquisite)",
+    "ru": "Лёгкий Золотой Браслет (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldBangle1I": {
+    "en": "Triple Gem Bangle (Exquisite)",
+    "ru": "Браслет с Самоцветами (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldBangle1J": {
+    "en": "Leaf Gold Bangle (Exquisite)",
+    "ru": "Браслет из Листового Золота (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldBangle2D": {
+    "en": "Slim Bangle (Exquisite)",
+    "ru": "Утончённый Браслет (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldBangle2G": {
+    "en": "Glimmer Bangle (Exquisite)",
+    "ru": "Мерцающий Браслет (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldBangle2H": {
+    "en": "Shine Bangle (Exquisite)",
+    "ru": "Сияющий Браслет (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldBowl": {
+    "en": "Gold Bowl (Exquisite)",
+    "ru": "Золотая Чаша (Изящная)"
+  },
+  "DesignDataItem:Id_Item_GoldCandelabra": {
+    "en": "Gold Candelabra (Exquisite)",
+    "ru": "Золотой Канделябр (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldCandleHolder": {
+    "en": "Gold Candle Holder (Exquisite)",
+    "ru": "Золотой Подсвечник (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldCandlePlatter": {
+    "en": "Gold Candle Platter (Exquisite)",
+    "ru": "Золотая Чаша-Подсвечник (Изящная)"
+  },
+  "DesignDataItem:Id_Item_GoldChaliceA": {
+    "en": "Gold Goblet (Exquisite)",
+    "ru": "Золотой Кубок (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldChaliceB": {
+    "en": "Gold Chalice (Exquisite)",
+    "ru": "Золотой Портир (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldCoinBag": {
+    "en": "Gold Coin Bag",
+    "ru": "Мешок с золотом"
+  },
+  "DesignDataItem:Id_Item_GoldCoinChest": {
+    "en": "Gold Coin Chest",
+    "ru": "Сундук с золотом"
+  },
+  "DesignDataItem:Id_Item_GoldCoinPouch": {
+    "en": "Gold Coin Pouch",
+    "ru": "Кошель с золотом"
+  },
+  "DesignDataItem:Id_Item_GoldCoinPurse": {
+    "en": "Gold Coin Purse",
+    "ru": "Мешочек с золотом"
+  },
+  "DesignDataItem:Id_Item_GoldCoins": {
+    "en": "Gold",
+    "ru": "Золото"
+  },
+  "DesignDataItem:Id_Item_GoldCrown": {
+    "en": "Gold Crown (Exquisite)",
+    "ru": "Золотая Корона (Изящная)"
+  },
+  "DesignDataItem:Id_Item_GoldIngots": {
+    "en": "Gold Ingot",
+    "ru": "Слиток Золота"
+  },
+  "DesignDataItem:Id_Item_GoldOres": {
+    "en": "Gold Ore",
+    "ru": "Золотая Руда"
+  },
+  "DesignDataItem:Id_Item_GoldPowder": {
+    "en": "Gold Powder",
+    "ru": "Порошок Золота"
+  },
+  "DesignDataItem:Id_Item_GoldWaterpot": {
+    "en": "Gold Waterpot (Exquisite)",
+    "ru": "Золотой Кувшин (Изящный)"
+  },
+  "DesignDataItem:Id_Item_GoldenArmet": {
+    "en": "Golden Armet",
+    "ru": "Золотой Армет"
+  },
+  "DesignDataItem:Id_Item_GoldenBoots": {
+    "en": "Golden Boots",
+    "ru": "Золотые Ботинки"
+  },
+  "DesignDataItem:Id_Item_GoldenChausses": {
+    "en": "Golden Chausses",
+    "ru": "Золотые Шоссы"
+  },
+  "DesignDataItem:Id_Item_GoldenCloak": {
+    "en": "Golden Cloak",
+    "ru": "Золотой Плащ"
+  },
+  "DesignDataItem:Id_Item_GoldenFellingAxe": {
+    "en": "Golden Felling Axe",
+    "ru": "Золотой Валочный Топор"
+  },
+  "DesignDataItem:Id_Item_GoldenGauntlets": {
+    "en": "Golden Gauntlets",
+    "ru": "Золотые Рукавицы"
+  },
+  "DesignDataItem:Id_Item_GoldenGjermundbu": {
+    "en": "Golden Gjermundbu",
+    "ru": "Золотой Шлем из Гьёрмундбю"
+  },
+  "DesignDataItem:Id_Item_GoldenGloves": {
+    "en": "Golden Gloves",
+    "ru": "Золотые Перчатки"
+  },
+  "DesignDataItem:Id_Item_GoldenHounskull": {
+    "en": "Golden Hounskull",
+    "ru": "Золотой Хундсгугель"
+  },
+  "DesignDataItem:Id_Item_GoldenKey": {
+    "en": "Golden Key",
+    "ru": "Золотой Ключ"
+  },
+  "DesignDataItem:Id_Item_GoldenLeafHood": {
+    "en": "Golden Leaf Hood",
+    "ru": "Капюшон Золотого Листа"
+  },
+  "DesignDataItem:Id_Item_GoldenLeggings": {
+    "en": "Golden Leggings",
+    "ru": "Золотые Поножи"
+  },
+  "DesignDataItem:Id_Item_GoldenPaddedTunic": {
+    "en": "Golden Padded Tunic",
+    "ru": "Стёганая Золотом Туника"
+  },
+  "DesignDataItem:Id_Item_GoldenPlate": {
+    "en": "Golden Plate",
+    "ru": "Золотой Латный Доспех"
+  },
+  "DesignDataItem:Id_Item_GoldenPlateBoots": {
+    "en": "Golden Plate Boots",
+    "ru": "Золотые Латные Сапоги"
+  },
+  "DesignDataItem:Id_Item_GoldenPlatePants": {
+    "en": "Golden Plate Pants",
+    "ru": "Золотые Латные Поножи"
+  },
+  "DesignDataItem:Id_Item_GoldenRobe": {
+    "en": "Golden Robe",
+    "ru": "Золотая Мантия"
+  },
+  "DesignDataItem:Id_Item_GoldenScarf": {
+    "en": "Golden Scarf",
+    "ru": "Золотой Шарф"
+  },
+  "DesignDataItem:Id_Item_GoldenScriptureofSolaris": {
+    "en": "Golden Scripture of Solaris",
+    "ru": "Золотое Писание Соляриса"
+  },
+  "DesignDataItem:Id_Item_GoldenSkulltoken": {
+    "en": "Golden Skull Token",
+    "ru": "Эмблема Золотого Черепа"
+  },
+  "DesignDataItem:Id_Item_GoldenTeeth": {
+    "en": "Golden Teeth",
+    "ru": "Золотой Зуб"
+  },
+  "DesignDataItem:Id_Item_GoldenVikingSword": {
+    "en": "Golden Viking Sword",
+    "ru": "Золотой Меч Викинга"
+  },
+  "DesignDataItem:Id_Item_GrandBrigandine": {
+    "en": "Grand Brigandine",
+    "ru": "Величественная Бригандина"
+  },
+  "DesignDataItem:Id_Item_GraveEssence": {
+    "en": "Grave Essence",
+    "ru": "Могильная Эссенция"
+  },
+  "DesignDataItem:Id_Item_GravewolfGloves": {
+    "en": "Gravewolf Gloves",
+    "ru": "Перчатки Могильного Волка"
+  },
+  "DesignDataItem:Id_Item_GreatLuckPotion": {
+    "en": "Great Potion of Luck",
+    "ru": "Большое Зелье Удачи"
+  },
+  "DesignDataItem:Id_Item_GreenThreadSpool": {
+    "en": "Green Thread Spool",
+    "ru": "Катушка с Зелёной Нитью"
+  },
+  "DesignDataItem:Id_Item_GrimSlayer": {
+    "en": "Grimslayer",
+    "ru": "Мракоубийца"
+  },
+  "DesignDataItem:Id_Item_GrimsmileRing": {
+    "en": "Grimsmile Ring",
+    "ru": "Кольцо Мрачной Ухмылки"
+  },
+  "DesignDataItem:Id_Item_Halberd": {
+    "en": "Halberd",
+    "ru": "Алебарда"
+  },
+  "DesignDataItem:Id_Item_HandCannon": {
+    "en": "Hand Cannon",
+    "ru": "Ручная Пушка"
+  },
+  "DesignDataItem:Id_Item_HandCrossbow": {
+    "en": "Hand Crossbow",
+    "ru": "Ручной Арбалет"
+  },
+  "DesignDataItem:Id_Item_HardCrabShell": {
+    "en": "Hard Crab Shell",
+    "ru": "Твердый Панцирь Краба"
+  },
+  "DesignDataItem:Id_Item_HardenedShellFragment": {
+    "en": "Hardened Shell Fragment",
+    "ru": "Закаленный Фрагмент Панциря"
+  },
+  "DesignDataItem:Id_Item_Hatchet": {
+    "en": "Hatchet",
+    "ru": "Топорик"
+  },
+  "DesignDataItem:Id_Item_HazeBlade": {
+    "en": "Haze Blade",
+    "ru": "Дурманящий Клинок"
+  },
+  "DesignDataItem:Id_Item_HealingPotion": {
+    "en": "Potion of Healing",
+    "ru": "Зелье Лечения"
+  },
+  "DesignDataItem:Id_Item_HeaterShield": {
+    "en": "Heater Shield",
+    "ru": "Экю"
+  },
+  "DesignDataItem:Id_Item_HeavyBoots": {
+    "en": "Heavy Boots",
+    "ru": "Тяжёлые Сапоги"
+  },
+  "DesignDataItem:Id_Item_HeavyGambeson": {
+    "en": "Heavy Gambeson",
+    "ru": "Тяжёлый Гамбезон"
+  },
+  "DesignDataItem:Id_Item_HeavyGauntlet": {
+    "en": "Heavy Gauntlets",
+    "ru": "Тяжёлые Латные Рукавицы"
+  },
+  "DesignDataItem:Id_Item_HeavyGauntlet_RS": {
+    "en": "Rubysilver Gauntlets",
+    "ru": "Рукавицы из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_HeavyLeatherLeggings": {
+    "en": "Heavy Leather Leggings",
+    "ru": "Тяжёлые Кожаные Штаны"
+  },
+  "DesignDataItem:Id_Item_HellHuntersCurvedBlade": {
+    "en": "Hell Hunter's Curved Blade",
+    "ru": "Изогнутый Клинок Адского Охотника"
+  },
+  "DesignDataItem:Id_Item_Hemostatic": {
+    "en": "Hemostatic",
+    "ru": "Гемостатик"
+  },
+  "DesignDataItem:Id_Item_HerbPouch": {
+    "en": "Herb Pouch",
+    "ru": "Мешочек с Травами"
+  },
+  "DesignDataItem:Id_Item_HolyRobe": {
+    "en": "Holy Robe",
+    "ru": "Священное Одеяние"
+  },
+  "DesignDataItem:Id_Item_HoneyblissPear": {
+    "en": "Honeybliss Pear",
+    "ru": "Медовая Груша"
+  },
+  "DesignDataItem:Id_Item_Hood_RS": {
+    "en": "Rubysilver Hood",
+    "ru": "Капюшон из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_HornOfCentaur": {
+    "en": "Centaur Horn",
+    "ru": "Рог Кентавра"
+  },
+  "DesignDataItem:Id_Item_HorsemansAxe": {
+    "en": "Horseman's Axe",
+    "ru": "Кавалерийский Топор"
+  },
+  "DesignDataItem:Id_Item_Horseshoe": {
+    "en": "Horseshoe",
+    "ru": "Подкова"
+  },
+  "DesignDataItem:Id_Item_Hounskull": {
+    "en": "Hounskull",
+    "ru": "Хундсгугель"
+  },
+  "DesignDataItem:Id_Item_Hourglass": {
+    "en": "Hourglass",
+    "ru": "Песочные Часы"
+  },
+  "DesignDataItem:Id_Item_HumanRemains": {
+    "en": "Human Remains",
+    "ru": "Человеческие Останки"
+  },
+  "DesignDataItem:Id_Item_HuntingTrap": {
+    "en": "Hunting Trap",
+    "ru": "Капкан"
+  },
+  "DesignDataItem:Id_Item_HuntressGoldEmblem": {
+    "en": "Huntress’ Gold Emblem",
+    "ru": "Золотая Эмблема Охотницы"
+  },
+  "DesignDataItem:Id_Item_HuntressSilverEmblem": {
+    "en": "Huntress’ Silver Emblem",
+    "ru": "Серебряная Эмблема Охотницы"
+  },
+  "DesignDataItem:Id_Item_HuntressWitnessEmblem": {
+    "en": "Huntress' Witness Emblem",
+    "ru": "Эмблема Свидетеля Охотницы"
+  },
+  "DesignDataItem:Id_Item_Icefang": {
+    "en": "Icefang",
+    "ru": "Ледяной Клык"
+  },
+  "DesignDataItem:Id_Item_InfectedFlesh": {
+    "en": "Infected Flesh",
+    "ru": "Заражённая Плоть"
+  },
+  "DesignDataItem:Id_Item_InkwellandQuillPen": {
+    "en": "Inkwell and Quill Pen",
+    "ru": "Чернильница и Гусиное Перо"
+  },
+  "DesignDataItem:Id_Item_IntactSkull": {
+    "en": "Intact Skull",
+    "ru": "Целый Череп"
+  },
+  "DesignDataItem:Id_Item_IntricateWoodenFigurine": {
+    "en": "Intricate Wooden Figurine",
+    "ru": "Замысловатая Деревянная Статуэтка"
+  },
+  "DesignDataItem:Id_Item_InvisibilityPotion": {
+    "en": "Potion of Invisibility",
+    "ru": "Зелье Невидимости"
+  },
+  "DesignDataItem:Id_Item_IronChain": {
+    "en": "Iron Chain",
+    "ru": "Железная Цепь"
+  },
+  "DesignDataItem:Id_Item_IronIngots": {
+    "en": "Iron Ingot",
+    "ru": "Слиток Железа"
+  },
+  "DesignDataItem:Id_Item_IronOres": {
+    "en": "Iron Ore",
+    "ru": "Железная Руда"
+  },
+  "DesignDataItem:Id_Item_IronPowder": {
+    "en": "Iron Powder",
+    "ru": "Порошок Железа"
+  },
+  "DesignDataItem:Id_Item_JellyfishGlowEssence": {
+    "en": "Jellyfish Glow Essence",
+    "ru": "Светящаяся Эссенция Медузы"
+  },
+  "DesignDataItem:Id_Item_JesterCap": {
+    "en": "Jester Cap",
+    "ru": "Шутовской Колпак"
+  },
+  "DesignDataItem:Id_Item_JesterOutfit": {
+    "en": "Jester Outfit",
+    "ru": "Костюм Шута"
+  },
+  "DesignDataItem:Id_Item_JesterPants": {
+    "en": "Jester Pants",
+    "ru": "Шутовские Штаны"
+  },
+  "DesignDataItem:Id_Item_JesterPoulaines": {
+    "en": "Jester Poulaines",
+    "ru": "Шутовские Пулены"
+  },
+  "DesignDataItem:Id_Item_KettleHat": {
+    "en": "Kettle Hat",
+    "ru": "Пехотный Шлем"
+  },
+  "DesignDataItem:Id_Item_KneadBloodBag": {
+    "en": "Knead Blood Bag",
+    "ru": "Мешочек с Перемешанной Кровью"
+  },
+  "DesignDataItem:Id_Item_KoboldEar": {
+    "en": "Kobold's Ear",
+    "ru": "Ухо Кобольда"
+  },
+  "DesignDataItem:Id_Item_KrampusCoin": {
+    "en": "Krampus' Coin",
+    "ru": "Монета Крампуса"
+  },
+  "DesignDataItem:Id_Item_KrampusGoldenBell": {
+    "en": "Krampus’ Golden Bell",
+    "ru": "Золотой Колокольчик Крампуса"
+  },
+  "DesignDataItem:Id_Item_KrampusSilverBell": {
+    "en": "Krampus’ Silver Bell",
+    "ru": "Серебряный Колокольчик Крампуса"
+  },
+  "DesignDataItem:Id_Item_KrisDagger": {
+    "en": "Kris Dagger",
+    "ru": "Крис"
+  },
+  "DesignDataItem:Id_Item_LacedTurnshoe": {
+    "en": "Laced Turnshoe",
+    "ru": "Шнурованные Башмаки"
+  },
+  "DesignDataItem:Id_Item_Lantern": {
+    "en": "Lantern",
+    "ru": "Фонарь"
+  },
+  "DesignDataItem:Id_Item_LanternShield": {
+    "en": "Lantern Shield",
+    "ru": "Фонарный Щит"
+  },
+  "DesignDataItem:Id_Item_LargeScroll": {
+    "en": "Ancient Scroll (Exquisite)",
+    "ru": "Древний Свиток (Изящный)"
+  },
+  "DesignDataItem:Id_Item_LavaGolemShoulderFragment": {
+    "en": "Lava Golem Shoulder Fragment",
+    "ru": "Фрагмент Плеча Лавового Голема"
+  },
+  "DesignDataItem:Id_Item_LavaMushroom": {
+    "en": "Lava Mushroom",
+    "ru": "Лавовый Гриб"
+  },
+  "DesignDataItem:Id_Item_LavishShirt": {
+    "en": "Lavish Shirt",
+    "ru": "Роскошная Рубашка"
+  },
+  "DesignDataItem:Id_Item_LeatherBonnet": {
+    "en": "Leather Bonnet",
+    "ru": "Кожаный Капор"
+  },
+  "DesignDataItem:Id_Item_LeatherBoot": {
+    "en": "Leather Boot",
+    "ru": "Кожаный Башмак"
+  },
+  "DesignDataItem:Id_Item_LeatherCap": {
+    "en": "Leather Cap",
+    "ru": "Кожаный Чепец"
+  },
+  "DesignDataItem:Id_Item_LeatherCap_RS": {
+    "en": "Rubysilver Cap",
+    "ru": "Чепец с Рубисильвером"
+  },
+  "DesignDataItem:Id_Item_LeatherChausses": {
+    "en": "Leather Chausses",
+    "ru": "Кожаные Шоссы"
+  },
+  "DesignDataItem:Id_Item_LeatherGloves": {
+    "en": "Leather Gloves",
+    "ru": "Кожаные Перчатки"
+  },
+  "DesignDataItem:Id_Item_LeatherLamellar": {
+    "en": "Leather Lamellar",
+    "ru": "Кожаный Ламеллярный Доспех"
+  },
+  "DesignDataItem:Id_Item_LeatherLeggings": {
+    "en": "Leather Leggings",
+    "ru": "Кожаные Поножи"
+  },
+  "DesignDataItem:Id_Item_LeatherLeggings_RS": {
+    "en": "Rubysilver Leggings",
+    "ru": "Поножи из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_Lifeleaf": {
+    "en": "Lifeleaf",
+    "ru": "Жизнелист"
+  },
+  "DesignDataItem:Id_Item_LightAketon": {
+    "en": "Light Aketon",
+    "ru": "Лёгкий Акетон"
+  },
+  "DesignDataItem:Id_Item_LightBringer": {
+    "en": "Light Bringer",
+    "ru": "Светоч"
+  },
+  "DesignDataItem:Id_Item_LightCassock": {
+    "en": "Light Cassock",
+    "ru": "Легкая Ряса"
+  },
+  "DesignDataItem:Id_Item_LightGauntlets": {
+    "en": "Light Gauntlets",
+    "ru": "Лёгкие Латные Рукавицы"
+  },
+  "DesignDataItem:Id_Item_LightfootBoots": {
+    "en": "Lightfoot Boots",
+    "ru": "Лёгкие Ботинки"
+  },
+  "DesignDataItem:Id_Item_Lock": {
+    "en": "Lock",
+    "ru": "Замок"
+  },
+  "DesignDataItem:Id_Item_Lockpick": {
+    "en": "Lockpick",
+    "ru": "Отмычка"
+  },
+  "DesignDataItem:Id_Item_LongPipe": {
+    "en": "Long Pipe",
+    "ru": "Длинная Труба"
+  },
+  "DesignDataItem:Id_Item_Longbow": {
+    "en": "Longbow",
+    "ru": "Длинный Лук"
+  },
+  "DesignDataItem:Id_Item_Longsword": {
+    "en": "Longsword",
+    "ru": "Длинный Меч"
+  },
+  "DesignDataItem:Id_Item_LooseTrousers": {
+    "en": "Loose Trousers",
+    "ru": "Свободные Штаны"
+  },
+  "DesignDataItem:Id_Item_LowBoots": {
+    "en": "Low Boots",
+    "ru": "Полуботинки"
+  },
+  "DesignDataItem:Id_Item_LuckPotion": {
+    "en": "Potion of Luck",
+    "ru": "Зелье Удачи"
+  },
+  "DesignDataItem:Id_Item_LukewarmStew": {
+    "en": "Lukewarm Stew",
+    "ru": "Едва Тёплое Рагу"
+  },
+  "DesignDataItem:Id_Item_Lute": {
+    "en": "Lute",
+    "ru": "Лютня"
+  },
+  "DesignDataItem:Id_Item_LuxuryBootRack": {
+    "en": "Luxury Boot Rack",
+    "ru": "Роскошная Стойка для Обуви"
+  },
+  "DesignDataItem:Id_Item_Lyre": {
+    "en": "Lyre",
+    "ru": "Лира"
+  },
+  "DesignDataItem:Id_Item_Maggots": {
+    "en": "Maggots",
+    "ru": "Личинки"
+  },
+  "DesignDataItem:Id_Item_MagicProtectionPotion": {
+    "en": "Magic Protection Potion",
+    "ru": "Зелье Защиты от Магии"
+  },
+  "DesignDataItem:Id_Item_MagmaEssence": {
+    "en": "Magma Essence",
+    "ru": "Эссенция Магмы"
+  },
+  "DesignDataItem:Id_Item_ManaSphere": {
+    "en": "Mana Sphere",
+    "ru": "Сфера Маны"
+  },
+  "DesignDataItem:Id_Item_ManuscriptsoftheWarlord": {
+    "en": "Manuscripts of the Warlord",
+    "ru": "Рукописи Военачальника"
+  },
+  "DesignDataItem:Id_Item_MarauderOutfit": {
+    "en": "Marauder Outfit",
+    "ru": "Прикид Мародёра"
+  },
+  "DesignDataItem:Id_Item_MeltedPickaxeHead": {
+    "en": "Melted Pickaxe Head",
+    "ru": "Расплавленный Наконечник Кирки"
+  },
+  "DesignDataItem:Id_Item_MercurialCloak": {
+    "en": "Mercurial Cloak",
+    "ru": "Ртутный Плащ"
+  },
+  "DesignDataItem:Id_Item_MermaidScale": {
+    "en": "Mermaid Scale",
+    "ru": "Чешуя Русалки"
+  },
+  "DesignDataItem:Id_Item_MermaidsTear": {
+    "en": "Mermaid's Tear",
+    "ru": "Русалочья Слеза"
+  },
+  "DesignDataItem:Id_Item_MetalCup": {
+    "en": "Goblet (Exquisite)",
+    "ru": "Кубок (Изящный)"
+  },
+  "DesignDataItem:Id_Item_MidnightStagDisplay": {
+    "en": "Head of the Midnight Stag",
+    "ru": "Голова Полуночного Оленя"
+  },
+  "DesignDataItem:Id_Item_MimicTooth": {
+    "en": "Mimic Tooth",
+    "ru": "Зуб Мимика"
+  },
+  "DesignDataItem:Id_Item_MisshapenBladeShard": {
+    "en": "Misshapen Blade Shard",
+    "ru": "Осколок Деформированного Клинка"
+  },
+  "DesignDataItem:Id_Item_Mitre": {
+    "en": "Mitre",
+    "ru": "Митра"
+  },
+  "DesignDataItem:Id_Item_MoldyBread": {
+    "en": "Moldy Bread",
+    "ru": "Заплесневелый Хлеб"
+  },
+  "DesignDataItem:Id_Item_MonkeyPendant": {
+    "en": "Monkey Pendant",
+    "ru": "Кулон Обезьяны"
+  },
+  "DesignDataItem:Id_Item_MorningStar": {
+    "en": "Morning Star",
+    "ru": "Моргенштерн"
+  },
+  "DesignDataItem:Id_Item_MysteriousPotion": {
+    "en": "Mysterious Potion",
+    "ru": "Таинственное Зелье"
+  },
+  "DesignDataItem:Id_Item_MysticGloves": {
+    "en": "Mystic Gloves",
+    "ru": "Перчатки Мистика"
+  },
+  "DesignDataItem:Id_Item_MysticVestments": {
+    "en": "Mystic Vestments",
+    "ru": "Одеяние Мистика"
+  },
+  "DesignDataItem:Id_Item_MysticVestments_RS": {
+    "en": "Rubysilver Vestments",
+    "ru": "Одеяние из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_MysticalGem": {
+    "en": "Mystical Gem",
+    "ru": "Загадочный Самоцвет"
+  },
+  "DesignDataItem:Id_Item_NavigationalCompass": {
+    "en": "Navigational Compass",
+    "ru": "Навигационный Компас"
+  },
+  "DesignDataItem:Id_Item_NecklaceOfPeace": {
+    "en": "Necklace of Peace",
+    "ru": "Кулон Спокойствия"
+  },
+  "DesignDataItem:Id_Item_NorthernFullTunic": {
+    "en": "Northern Full Tunic",
+    "ru": "Накидка Викинга"
+  },
+  "DesignDataItem:Id_Item_NorthernHalfTunic": {
+    "en": "Northern Half Tunic",
+    "ru": "Частичная Накидка Викинга"
+  },
+  "DesignDataItem:Id_Item_ObsidianArcaneHood": {
+    "en": "Obsidian Arcane Hood",
+    "ru": "Обсидиановый Капюшон Арканы"
+  },
+  "DesignDataItem:Id_Item_ObsidianBardiche": {
+    "en": "Obsidian Bardiche",
+    "ru": "Обсидиановый Бердыш"
+  },
+  "DesignDataItem:Id_Item_ObsidianBloodwovenGloves": {
+    "en": "Obsidian Bloodwoven Gloves",
+    "ru": "Обсидиановые Кровотканые Перчатки"
+  },
+  "DesignDataItem:Id_Item_ObsidianBloodwovenRobe": {
+    "en": "Obsidian Bloodwoven Robe",
+    "ru": "Обсидиановая Кровотканая Мантия"
+  },
+  "DesignDataItem:Id_Item_ObsidianChampionArmor": {
+    "en": "Obsidian Champion Armor",
+    "ru": "Обсидиановая Броня Защитника"
+  },
+  "DesignDataItem:Id_Item_ObsidianChapelDeFer": {
+    "en": "Obsidian Chapel De Fer",
+    "ru": "Обсидиановая Шапель"
+  },
+  "DesignDataItem:Id_Item_ObsidianCloak": {
+    "en": "Obsidian Cloak",
+    "ru": "Обсидиановый Плащ"
+  },
+  "DesignDataItem:Id_Item_ObsidianClothPants": {
+    "en": "Obsidian Cloth Pants",
+    "ru": "Обсидиановые Суконные Штаны"
+  },
+  "DesignDataItem:Id_Item_ObsidianCutlass": {
+    "en": "Obsidian Cutlass",
+    "ru": "Обсидиановая Сабля"
+  },
+  "DesignDataItem:Id_Item_ObsidianDarkPlateArmor": {
+    "en": "Obsidian Dark Plate Armor",
+    "ru": "Обсидиановый Тёмный Латный Доспех"
+  },
+  "DesignDataItem:Id_Item_ObsidianDarkleafBoots": {
+    "en": "Obsidian Darkleaf Boots",
+    "ru": "Обсидиановые Сапоги Тёмных Листьев"
+  },
+  "DesignDataItem:Id_Item_ObsidianHeavyGauntlet": {
+    "en": "Obsidian Heavy Gauntlets",
+    "ru": "Обсидиановые Тяжёлые Латные Рукавицы"
+  },
+  "DesignDataItem:Id_Item_ObsidianIngots": {
+    "en": "Obsidian Ingot",
+    "ru": "Слиток Обсидиана"
+  },
+  "DesignDataItem:Id_Item_ObsidianLeatherGloves": {
+    "en": "Obsidian Leather Gloves",
+    "ru": "Обсидиановые Кожаные Перчатки"
+  },
+  "DesignDataItem:Id_Item_ObsidianMorningStar": {
+    "en": "Obsidian Morningstar",
+    "ru": "Обсидиановый Моргенштерн"
+  },
+  "DesignDataItem:Id_Item_ObsidianNorthernFullTunic": {
+    "en": "Obsidian Northern Full Tunic",
+    "ru": "Обсидиановая Накидка Викинга"
+  },
+  "DesignDataItem:Id_Item_ObsidianOnyxGloves": {
+    "en": "Obsidian Onyx Gloves",
+    "ru": "Обсидиановые Перчатки из Оникса"
+  },
+  "DesignDataItem:Id_Item_ObsidianOres": {
+    "en": "Obsidian Ore",
+    "ru": "Обсидиановая Руда"
+  },
+  "DesignDataItem:Id_Item_ObsidianPaddedLeggings": {
+    "en": "Obsidian Padded Leggings",
+    "ru": "Обсидиановые Стёганые Поножи"
+  },
+  "DesignDataItem:Id_Item_ObsidianPlateBoots": {
+    "en": "Obsidian Plate Boots",
+    "ru": "Обсидиановые Латные Ботинки"
+  },
+  "DesignDataItem:Id_Item_ObsidianPlatePants": {
+    "en": "Obsidian Plate Pants",
+    "ru": "Обсидиановые Латные Поножи"
+  },
+  "DesignDataItem:Id_Item_ObsidianPowder": {
+    "en": "Obsidian Powder",
+    "ru": "Обсидиановый Порошок"
+  },
+  "DesignDataItem:Id_Item_ObsidianShadowMask": {
+    "en": "Obsidian Shadow Mask",
+    "ru": "Обсидиановая Маска Тени"
+  },
+  "DesignDataItem:Id_Item_ObsidianStefanBeret": {
+    "en": "Obsidian Stefan Beret",
+    "ru": "Обсидиановый Берет"
+  },
+  "DesignDataItem:Id_Item_ObsidianStilettoDagger": {
+    "en": "Obsidian Stiletto Dagger",
+    "ru": "Обсидиановый Стилет"
+  },
+  "DesignDataItem:Id_Item_ObsidianTrapperHat": {
+    "en": "Obsidian Trapper Hat",
+    "ru": "Обсидиановая Шапка Охотника"
+  },
+  "DesignDataItem:Id_Item_ObsidianTurnshoe": {
+    "en": "Obsidian Turnshoe",
+    "ru": "Обсидиановые Шнурованные Башмаки"
+  },
+  "DesignDataItem:Id_Item_ObsidianWandererAttire": {
+    "en": "Obsidian Wanderer Attire",
+    "ru": "Обсидиановое Облачение Скитальца"
+  },
+  "DesignDataItem:Id_Item_ObsidianWarHammer": {
+    "en": "Obsidian War Hammer",
+    "ru": "Обсидиановый Боевой Молот"
+  },
+  "DesignDataItem:Id_Item_ObsidianWizardShoes": {
+    "en": "Obsidian Wizard Shoes",
+    "ru": "Обсидиановые Ботинки Волшебника"
+  },
+  "DesignDataItem:Id_Item_OccultistBoots": {
+    "en": "Occultist Boots",
+    "ru": "Оккультные Сапоги"
+  },
+  "DesignDataItem:Id_Item_OccultistHood": {
+    "en": "Occultist Hood",
+    "ru": "Оккультный Капюшон"
+  },
+  "DesignDataItem:Id_Item_OccultistPants": {
+    "en": "Occultist Pants",
+    "ru": "Оккультные Штаны"
+  },
+  "DesignDataItem:Id_Item_OccultistRobe": {
+    "en": "Occultist Robe",
+    "ru": "Оккультная Мантия"
+  },
+  "DesignDataItem:Id_Item_OccultistTunic": {
+    "en": "Occultist Tunic",
+    "ru": "Оккультная Туника"
+  },
+  "DesignDataItem:Id_Item_OilLantern": {
+    "en": "Oil Lantern",
+    "ru": "Масляная Лампа"
+  },
+  "DesignDataItem:Id_Item_OldBloodyBandage": {
+    "en": "Old Bloody Bandage",
+    "ru": "Старый Кровавый Бинт"
+  },
+  "DesignDataItem:Id_Item_OldCloth": {
+    "en": "Old Cloth",
+    "ru": "Старая Ткань"
+  },
+  "DesignDataItem:Id_Item_OldNauticalChartFragment": {
+    "en": "Old Nautical Chart Fragment",
+    "ru": "Фрагмент Старой Морской Карты"
+  },
+  "DesignDataItem:Id_Item_OldRope": {
+    "en": "Old Rope",
+    "ru": "Старая Верёвка"
+  },
+  "DesignDataItem:Id_Item_OldRustyKey": {
+    "en": "Old Rusty Key",
+    "ru": "Старый Ржавый Ключ"
+  },
+  "DesignDataItem:Id_Item_OldShoes": {
+    "en": "Old Shoes",
+    "ru": "Поношенные Ботинки"
+  },
+  "DesignDataItem:Id_Item_OnyxGloves": {
+    "en": "Onyx Gloves",
+    "ru": "Перчатки из Оникса"
+  },
+  "DesignDataItem:Id_Item_OracleRobe": {
+    "en": "Oracle Robe",
+    "ru": "Мантия Оракула"
+  },
+  "DesignDataItem:Id_Item_OrnateJazerant": {
+    "en": "Ornate Jazerant",
+    "ru": "Вышитый Джазерант"
+  },
+  "DesignDataItem:Id_Item_OwlPendant": {
+    "en": "Owl Pendant",
+    "ru": "Кулон Совы"
+  },
+  "DesignDataItem:Id_Item_OxPendant": {
+    "en": "Ox Pendant",
+    "ru": "Кулон Буйвола"
+  },
+  "DesignDataItem:Id_Item_PaddedLeggings": {
+    "en": "Padded Leggings",
+    "ru": "Стёганые Поножи"
+  },
+  "DesignDataItem:Id_Item_PaddedTunic": {
+    "en": "Padded Tunic",
+    "ru": "Стёганая Туника"
+  },
+  "DesignDataItem:Id_Item_Paperweight": {
+    "en": "Paperweight",
+    "ru": "Пресс-папье"
+  },
+  "DesignDataItem:Id_Item_PastoralTunic": {
+    "en": "Pastoral Tunic",
+    "ru": "Туника Пастора"
+  },
+  "DesignDataItem:Id_Item_Pavise": {
+    "en": "Pavise",
+    "ru": "Павеза"
+  },
+  "DesignDataItem:Id_Item_PearlNecklace": {
+    "en": "Pearl Necklace (Exquisite)",
+    "ru": "Жемчужное Ожерелье (Изящное)"
+  },
+  "DesignDataItem:Id_Item_Pebble": {
+    "en": "Pebble",
+    "ru": "Галька"
+  },
+  "DesignDataItem:Id_Item_PhantomFlower": {
+    "en": "Phantom Flower",
+    "ru": "Призрачный Цветок"
+  },
+  "DesignDataItem:Id_Item_PhoenixChoker": {
+    "en": "Phoenix Choker",
+    "ru": "Чокер Феникса"
+  },
+  "DesignDataItem:Id_Item_Pickaxe": {
+    "en": "Pickaxe",
+    "ru": "Кирка"
+  },
+  "DesignDataItem:Id_Item_Pigache": {
+    "en": "Pigache",
+    "ru": "Пигаш"
+  },
+  "DesignDataItem:Id_Item_Pincushion": {
+    "en": "Pincushion",
+    "ru": "Подушечка для Иголок"
+  },
+  "DesignDataItem:Id_Item_PlateBoots": {
+    "en": "Plate Boots",
+    "ru": "Латные Сапоги"
+  },
+  "DesignDataItem:Id_Item_PlateBoots_RS": {
+    "en": "Rubysilver Plate Boots",
+    "ru": "Латные Сапоги из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_PlatePants": {
+    "en": "Plate Pants",
+    "ru": "Латные Поножи"
+  },
+  "DesignDataItem:Id_Item_PlatePants_RS": {
+    "en": "Rubysilver Plate Pants",
+    "ru": "Латные поножи из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_Plunderhosen": {
+    "en": "Plunderhosen",
+    "ru": "Шаровары"
+  },
+  "DesignDataItem:Id_Item_PocketWatch": {
+    "en": "Pocket Watch",
+    "ru": "Карманные Часы"
+  },
+  "DesignDataItem:Id_Item_PoisonVial": {
+    "en": "Poison Vial",
+    "ru": "Флакон с Ядом"
+  },
+  "DesignDataItem:Id_Item_PotionofWaterBreathing": {
+    "en": "Potion of Water Breathing",
+    "ru": "Зелье Подводного Дыхания"
+  },
+  "DesignDataItem:Id_Item_Poupoint": {
+    "en": "Pourpoint",
+    "ru": "Пурпуэн"
+  },
+  "DesignDataItem:Id_Item_PrimitiveBracelet": {
+    "en": "Primitive Bracelet",
+    "ru": "Примитивный Браслет"
+  },
+  "DesignDataItem:Id_Item_ProtectionPotion": {
+    "en": "Potion of Protection",
+    "ru": "Зелье Защиты"
+  },
+  "DesignDataItem:Id_Item_ProwlerGloves": {
+    "en": "Prowler Gloves",
+    "ru": "Перчатки Бродяги"
+  },
+  "DesignDataItem:Id_Item_Quarterstaff": {
+    "en": "Quarterstaff",
+    "ru": "Боевой Посох"
+  },
+  "DesignDataItem:Id_Item_Quiver": {
+    "en": "Quiver",
+    "ru": "Колчан"
+  },
+  "DesignDataItem:Id_Item_RadiantCloak": {
+    "en": "Radiant Cloak",
+    "ru": "Блестящий Плащ"
+  },
+  "DesignDataItem:Id_Item_RangerHood": {
+    "en": "Ranger Hood",
+    "ru": "Капюшон Следопыта"
+  },
+  "DesignDataItem:Id_Item_Rapier": {
+    "en": "Rapier",
+    "ru": "Рапира"
+  },
+  "DesignDataItem:Id_Item_RatPendant": {
+    "en": "Rat Pendant",
+    "ru": "Крысиный Кулон"
+  },
+  "DesignDataItem:Id_Item_RawhideGloves": {
+    "en": "Rawhide Gloves",
+    "ru": "Сыромятные Перчатки"
+  },
+  "DesignDataItem:Id_Item_RawhideGloves_RS": {
+    "en": "Rubysilver Rawhide Gloves",
+    "ru": "Сыромятные Перчатки с Рубисильвером"
+  },
+  "DesignDataItem:Id_Item_RecurveBow": {
+    "en": "Recurve Bow",
+    "ru": "Изогнутый Лук"
+  },
+  "DesignDataItem:Id_Item_RedApple": {
+    "en": "Red Apple",
+    "ru": "Красное Яблоко"
+  },
+  "DesignDataItem:Id_Item_RegalGambeson": {
+    "en": "Regal Gambeson",
+    "ru": "Королевский Гамбезон"
+  },
+  "DesignDataItem:Id_Item_RegalMitre": {
+    "en": "Regal Mitre",
+    "ru": "Королевская Митра"
+  },
+  "DesignDataItem:Id_Item_ReinforcedGloves": {
+    "en": "Reinforced Gloves",
+    "ru": "Укреплённые Перчатки"
+  },
+  "DesignDataItem:Id_Item_Reins": {
+    "en": "Reins",
+    "ru": "Поводья"
+  },
+  "DesignDataItem:Id_Item_RingOfCourage": {
+    "en": "Ring of Courage",
+    "ru": "Кольцо Храбрости"
+  },
+  "DesignDataItem:Id_Item_RingOfFinesse": {
+    "en": "Ring of Finesse",
+    "ru": "Кольцо Хитрости"
+  },
+  "DesignDataItem:Id_Item_RingOfQuickness": {
+    "en": "Ring of Quickness",
+    "ru": "Кольцо Скорости"
+  },
+  "DesignDataItem:Id_Item_RingOfResolve": {
+    "en": "Ring of Resolve",
+    "ru": "Кольцо Решительности"
+  },
+  "DesignDataItem:Id_Item_RingOfSurvival": {
+    "en": "Ring of Survival",
+    "ru": "Кольцо Выживания"
+  },
+  "DesignDataItem:Id_Item_RingOfVitality": {
+    "en": "Ring of Vitality",
+    "ru": "Кольцо Живучести"
+  },
+  "DesignDataItem:Id_Item_RingOfWisdom": {
+    "en": "Ring of Wisdom",
+    "ru": "Кольцо Мудрости"
+  },
+  "DesignDataItem:Id_Item_RitualRobe": {
+    "en": "Ritual Robe",
+    "ru": "Ритуальная Мантия"
+  },
+  "DesignDataItem:Id_Item_RivetedGloves": {
+    "en": "Riveted Gloves",
+    "ru": "Клёпаные Перчатки"
+  },
+  "DesignDataItem:Id_Item_RobeofDarkness": {
+    "en": "Robe of Darkness",
+    "ru": "Мантия Тьмы"
+  },
+  "DesignDataItem:Id_Item_RodOfRighteousness": {
+    "en": "Rod of Righteousness",
+    "ru": "Жезл Праведности"
+  },
+  "DesignDataItem:Id_Item_RogueCowl": {
+    "en": "Rogue Cowl",
+    "ru": "Капюшон Плута"
+  },
+  "DesignDataItem:Id_Item_RondelDagger": {
+    "en": "Rondel Dagger",
+    "ru": "Рондельный Кинжал"
+  },
+  "DesignDataItem:Id_Item_RottenFluids": {
+    "en": "Rotten Fluids",
+    "ru": "Гниль"
+  },
+  "DesignDataItem:Id_Item_RottenLump": {
+    "en": "Rotten Lump",
+    "ru": "Ком Гнили"
+  },
+  "DesignDataItem:Id_Item_RoundShield": {
+    "en": "Round Shield",
+    "ru": "Круглый Щит"
+  },
+  "DesignDataItem:Id_Item_Ruby": {
+    "en": "Ruby (Exquisite)",
+    "ru": "Рубин (Изящный)"
+  },
+  "DesignDataItem:Id_Item_RubysilverHalberd": {
+    "en": "Rubysilver Halberd",
+    "ru": "Алебарда из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverIngots": {
+    "en": "Rubysilver Ingot",
+    "ru": "Слиток Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverOres": {
+    "en": "Rubysilver Ore",
+    "ru": "Руда Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverPowder": {
+    "en": "Rubysilver Powder",
+    "ru": "Порошок Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RuggedBoots": {
+    "en": "Rugged Boots",
+    "ru": "Прочные Сапоги"
+  },
+  "DesignDataItem:Id_Item_RunestoneGloves": {
+    "en": "Runestone Gloves",
+    "ru": "Рунические Перчатки"
+  },
+  "DesignDataItem:Id_Item_RusticTunic": {
+    "en": "Rustic Tunic",
+    "ru": "Деревенская Рубаха"
+  },
+  "DesignDataItem:Id_Item_RustyBrokenSword": {
+    "en": "Rusty Broken Sword",
+    "ru": "Ржавый Сломанный Меч"
+  },
+  "DesignDataItem:Id_Item_Saddle": {
+    "en": "Saddle",
+    "ru": "Седло"
+  },
+  "DesignDataItem:Id_Item_SailorsJournal": {
+    "en": "Sailor's Journal",
+    "ru": "Дневник Моряка"
+  },
+  "DesignDataItem:Id_Item_Saltvine": {
+    "en": "Saltvine",
+    "ru": "Соляная Лоза"
+  },
+  "DesignDataItem:Id_Item_Scabbard": {
+    "en": "Scabbard",
+    "ru": "Ножны"
+  },
+  "DesignDataItem:Id_Item_ScaledArmor": {
+    "en": "Scaled Armor",
+    "ru": "Чешуйчатая Броня"
+  },
+  "DesignDataItem:Id_Item_ScrollofFadedShadows": {
+    "en": "Scroll of Faded Shadows",
+    "ru": "Свиток Угасших Теней"
+  },
+  "DesignDataItem:Id_Item_ScrollofForgottenKnowledge": {
+    "en": "Scroll of Forgotten Knowledge",
+    "ru": "Свиток Забытых Знаний"
+  },
+  "DesignDataItem:Id_Item_ScrollofLostNames": {
+    "en": "Scroll of Lost Names",
+    "ru": "Свиток Потерянных Имён"
+  },
+  "DesignDataItem:Id_Item_ScrollofSealedCurse": {
+    "en": "Scroll of Sealed Curse",
+    "ru": "Свиток Запечатанного Проклятия"
+  },
+  "DesignDataItem:Id_Item_ScrollofVanishedMemories": {
+    "en": "Scroll of Vanished Memories",
+    "ru": "Свиток Утраченных Воспоминаний"
+  },
+  "DesignDataItem:Id_Item_SealedLetter": {
+    "en": "Sealed Letter",
+    "ru": "Запечатанное Письмо"
+  },
+  "DesignDataItem:Id_Item_SealofDominion": {
+    "en": "Seal of Dominion",
+    "ru": "Печать Владения"
+  },
+  "DesignDataItem:Id_Item_SearedHide": {
+    "en": "Seared Hide",
+    "ru": "Обжаренная Шкура"
+  },
+  "DesignDataItem:Id_Item_Seashell": {
+    "en": "Seashell",
+    "ru": "Морская Ракушка"
+  },
+  "DesignDataItem:Id_Item_SeaweedNecklace": {
+    "en": "Seaweed Necklace",
+    "ru": "Ожерелье из Морских Водорослей"
+  },
+  "DesignDataItem:Id_Item_Shackles": {
+    "en": "Shackles",
+    "ru": "Кандалы"
+  },
+  "DesignDataItem:Id_Item_ShadowHood": {
+    "en": "Shadow Hood",
+    "ru": "Капюшон Тени"
+  },
+  "DesignDataItem:Id_Item_ShadowMask": {
+    "en": "Shadow Mask",
+    "ru": "Маска Тени"
+  },
+  "DesignDataItem:Id_Item_SharpSeaUrchinSpine": {
+    "en": "Sharp Sea Urchin Spine",
+    "ru": "Острый Позвоночник Морского Ежа"
+  },
+  "DesignDataItem:Id_Item_ShiningPearl": {
+    "en": "Shining Pearl",
+    "ru": "Сияющая Жемчужина"
+  },
+  "DesignDataItem:Id_Item_ShipsWheel": {
+    "en": "Ship's Wheel",
+    "ru": "Колесо Корабля"
+  },
+  "DesignDataItem:Id_Item_ShoesofDarkness": {
+    "en": "Shoes of Darkness",
+    "ru": "Ботинки Тьмы"
+  },
+  "DesignDataItem:Id_Item_ShortSword": {
+    "en": "Short Sword",
+    "ru": "Короткий Меч"
+  },
+  "DesignDataItem:Id_Item_ShortSwordOfRighteousness": {
+    "en": "Short Sword of Righteousness",
+    "ru": "Короткий Меч Праведности"
+  },
+  "DesignDataItem:Id_Item_SilverChalice": {
+    "en": "Silver Chalice (Exquisite)",
+    "ru": "Серебряная Чаша (Изящная)"
+  },
+  "DesignDataItem:Id_Item_SilverCoin": {
+    "en": "Silver Coin",
+    "ru": "Серебряная Монета"
+  },
+  "DesignDataItem:Id_Item_SilverIngots": {
+    "en": "Silver Ingot",
+    "ru": "Слиток Серебра"
+  },
+  "DesignDataItem:Id_Item_SilverOres": {
+    "en": "Silver Ore",
+    "ru": "Серебряная Руда"
+  },
+  "DesignDataItem:Id_Item_SilverPowder": {
+    "en": "Silver Powder",
+    "ru": "Порошок Серебра"
+  },
+  "DesignDataItem:Id_Item_SilverSkulltoken": {
+    "en": "Silver Skull Token",
+    "ru": "Эмблема Серебряного Черепа"
+  },
+  "DesignDataItem:Id_Item_SkinnyFinger": {
+    "en": "Skinny Finger",
+    "ru": "Тощий Палец"
+  },
+  "DesignDataItem:Id_Item_SkullKey": {
+    "en": "Skull Key",
+    "ru": "Ключ с Черепом"
+  },
+  "DesignDataItem:Id_Item_SleekHidePants": {
+    "en": "Sleek Hide Pants",
+    "ru": "Гладкие Кожаные Брюки"
+  },
+  "DesignDataItem:Id_Item_Sling": {
+    "en": "Sling",
+    "ru": "Праща"
+  },
+  "DesignDataItem:Id_Item_SlingStone": {
+    "en": "Sling Stone",
+    "ru": "Камень для Пращи"
+  },
+  "DesignDataItem:Id_Item_SmallFiendlingHorn": {
+    "en": "Small Fiendling Horn",
+    "ru": "Маленький Рог Дьяволенка"
+  },
+  "DesignDataItem:Id_Item_SmellyVomit": {
+    "en": "Smelly Vomit",
+    "ru": "Вонючая Рвота"
+  },
+  "DesignDataItem:Id_Item_SmokyPoisonPowder": {
+    "en": "Smoky Poison Powder",
+    "ru": "Дымящийся Ядовитый Порошок"
+  },
+  "DesignDataItem:Id_Item_Soap": {
+    "en": "Soap",
+    "ru": "Мыло"
+  },
+  "DesignDataItem:Id_Item_SootyBeardHair": {
+    "en": "Sooty Beard Hair",
+    "ru": "Сажистые Волосы Бороды"
+  },
+  "DesignDataItem:Id_Item_SoulHeart": {
+    "en": "Soul Heart",
+    "ru": "Сердце Души"
+  },
+  "DesignDataItem:Id_Item_SoulTorq": {
+    "en": "Torq of Soul",
+    "ru": "Торк Души"
+  },
+  "DesignDataItem:Id_Item_SovereignsGhostblade": {
+    "en": "Sovereign's Ghostblade",
+    "ru": "Призрачный Клинок Властелина"
+  },
+  "DesignDataItem:Id_Item_Spear": {
+    "en": "Spear",
+    "ru": "Копьё"
+  },
+  "DesignDataItem:Id_Item_SpearofRot": {
+    "en": "Spear of Rot",
+    "ru": "Копьё Гнили"
+  },
+  "DesignDataItem:Id_Item_SpectralBlade": {
+    "en": "Spectral Blade",
+    "ru": "Призрачный Клинок"
+  },
+  "DesignDataItem:Id_Item_SpectralCloak": {
+    "en": "Spectral Cloak",
+    "ru": "Призрачный Плащ"
+  },
+  "DesignDataItem:Id_Item_SpectralCoinbag": {
+    "en": "Spectral Coinbag",
+    "ru": "Призрачный мешок монет"
+  },
+  "DesignDataItem:Id_Item_SpectralFabric": {
+    "en": "Spectral Fabric",
+    "ru": "Призрачная Ткань"
+  },
+  "DesignDataItem:Id_Item_SpectralHilt": {
+    "en": "Spectral Hilt",
+    "ru": "Призрачный Эфес"
+  },
+  "DesignDataItem:Id_Item_Spellbook": {
+    "en": "Spellbook",
+    "ru": "Книга Заклинаний"
+  },
+  "DesignDataItem:Id_Item_SpellplunderRod": {
+    "en": "Spellplunder Rod",
+    "ru": "Жезл Кражи Заклинаний"
+  },
+  "DesignDataItem:Id_Item_SpentCandle": {
+    "en": "Spent Candle",
+    "ru": "Отработавшая Свеча"
+  },
+  "DesignDataItem:Id_Item_SpiderSilk": {
+    "en": "Spider Silk",
+    "ru": "Паучий Шёлк"
+  },
+  "DesignDataItem:Id_Item_SpikedGauntlet": {
+    "en": "Spiked Gauntlet",
+    "ru": "Шипованная Перчатка"
+  },
+  "DesignDataItem:Id_Item_SplendidCloak": {
+    "en": "Splendid Cloak",
+    "ru": "Великолепный Плащ"
+  },
+  "DesignDataItem:Id_Item_SquareCushion": {
+    "en": "Square Cushion",
+    "ru": "Квадратная Подушка"
+  },
+  "DesignDataItem:Id_Item_StaffOfRighteousness": {
+    "en": "Staff of Righteousness",
+    "ru": "Посох Праведности"
+  },
+  "DesignDataItem:Id_Item_StaffofGluttony": {
+    "en": "Staff of Gluttony",
+    "ru": "Посох Чревоугодия"
+  },
+  "DesignDataItem:Id_Item_Starfish": {
+    "en": "Starfish",
+    "ru": "Морская Звезда"
+  },
+  "DesignDataItem:Id_Item_StefanBeret": {
+    "en": "Stefan Beret",
+    "ru": "Берет"
+  },
+  "DesignDataItem:Id_Item_SterlingAxe": {
+    "en": "Sterling Axe",
+    "ru": "Серебряный Топор"
+  },
+  "DesignDataItem:Id_Item_SterlingBlade": {
+    "en": "Sterling Blade",
+    "ru": "Серебряный Меч"
+  },
+  "DesignDataItem:Id_Item_SterlingBow": {
+    "en": "Sterling Bow",
+    "ru": "Серебряный Лук"
+  },
+  "DesignDataItem:Id_Item_SterlingDagger": {
+    "en": "Sterling Dagger",
+    "ru": "Серебряный Кинжал"
+  },
+  "DesignDataItem:Id_Item_SterlingRod": {
+    "en": "Sterling Rod",
+    "ru": "Серебряный Жезл"
+  },
+  "DesignDataItem:Id_Item_SterlingShortSword": {
+    "en": "Sterling Short Sword",
+    "ru": "Серебряный Короткий Меч"
+  },
+  "DesignDataItem:Id_Item_SterlingStaff": {
+    "en": "Sterling Staff",
+    "ru": "Серебряный Посох"
+  },
+  "DesignDataItem:Id_Item_StickyTongue": {
+    "en": "Sticky Tongue",
+    "ru": "Липкий Язык"
+  },
+  "DesignDataItem:Id_Item_StilettoDagger": {
+    "en": "Stiletto Dagger",
+    "ru": "Стилет"
+  },
+  "DesignDataItem:Id_Item_StillmendBoots": {
+    "en": "Stillmend Boots",
+    "ru": "Сапоги Неподвижного Исцеления"
+  },
+  "DesignDataItem:Id_Item_Stirrups": {
+    "en": "Stirrups",
+    "ru": "Стремена"
+  },
+  "DesignDataItem:Id_Item_StitchedTurnshoe": {
+    "en": "Stitched Turnshoe",
+    "ru": "Прошитые Башмаки"
+  },
+  "DesignDataItem:Id_Item_StoneFragment": {
+    "en": "Stone Fragment",
+    "ru": "Фрагмент Камня"
+  },
+  "DesignDataItem:Id_Item_StoneMortar": {
+    "en": "Stone Mortar",
+    "ru": "Каменная Ступка"
+  },
+  "DesignDataItem:Id_Item_StrawHat": {
+    "en": "Straw Hat",
+    "ru": "Соломенная Шляпа"
+  },
+  "DesignDataItem:Id_Item_StuddedLeather": {
+    "en": "Studded Leather",
+    "ru": "Клёпанный Доспех"
+  },
+  "DesignDataItem:Id_Item_StuddedWyvernLeather": {
+    "en": "Studded Wyvern Leather",
+    "ru": "Шипованная Кожа Виверны"
+  },
+  "DesignDataItem:Id_Item_SturdyBoots": {
+    "en": "Sturdy Boots",
+    "ru": "Прочные Ботинки"
+  },
+  "DesignDataItem:Id_Item_SturdyCloth": {
+    "en": "Sturdy Cloth",
+    "ru": "Прочная Ткань"
+  },
+  "DesignDataItem:Id_Item_SturdyLog": {
+    "en": "Sturdy Log",
+    "ru": "Прочное Бревно"
+  },
+  "DesignDataItem:Id_Item_SturdyRope": {
+    "en": "Sturdy Rope",
+    "ru": "Прочная Веревка"
+  },
+  "DesignDataItem:Id_Item_SulfurSaliva": {
+    "en": "Sulfur Saliva",
+    "ru": "Серная Слюна"
+  },
+  "DesignDataItem:Id_Item_SunburstOrb": {
+    "en": "Sunburst Orb",
+    "ru": "Солнечная Сфера"
+  },
+  "DesignDataItem:Id_Item_SurgicalKit": {
+    "en": "Surgical Kit",
+    "ru": "Хирургический Набор"
+  },
+  "DesignDataItem:Id_Item_SurvivalBow": {
+    "en": "Survival Bow",
+    "ru": "Охотничий Лук"
+  },
+  "DesignDataItem:Id_Item_TailOfCentaur": {
+    "en": "Centaur Tail",
+    "ru": "Хвост Кентавра"
+  },
+  "DesignDataItem:Id_Item_TanglethreadTrousers": {
+    "en": "Tanglethread Trousers",
+    "ru": "Штаны из Запутанной Нити"
+  },
+  "DesignDataItem:Id_Item_Tar": {
+    "en": "Tar",
+    "ru": "Смола"
+  },
+  "DesignDataItem:Id_Item_TatteredChoker": {
+    "en": "Tattered Choker",
+    "ru": "Рваный Чокер"
+  },
+  "DesignDataItem:Id_Item_TatteredCloak": {
+    "en": "Tattered Cloak",
+    "ru": "Рваный Плащ"
+  },
+  "DesignDataItem:Id_Item_TearoftheVolcano": {
+    "en": "Tear of the Volcano",
+    "ru": "Слеза Вулкана"
+  },
+  "DesignDataItem:Id_Item_Telescope": {
+    "en": "Telescope",
+    "ru": "Телескоп"
+  },
+  "DesignDataItem:Id_Item_TemplarArmor": {
+    "en": "Templar Armor",
+    "ru": "Броня Тамплиера"
+  },
+  "DesignDataItem:Id_Item_ThickForefoot": {
+    "en": "Thick Forefoot",
+    "ru": "Толстая Передняя Часть Стопы"
+  },
+  "DesignDataItem:Id_Item_ThornShield": {
+    "en": "Thorn Shield",
+    "ru": "Терновый Щит"
+  },
+  "DesignDataItem:Id_Item_ThrowingKnife": {
+    "en": "Throwing Knife",
+    "ru": "Метательный Нож"
+  },
+  "DesignDataItem:Id_Item_TidalArcaneGloves": {
+    "en": "Tidal Arcane Gloves",
+    "ru": "Приливные Перчатки Арканы"
+  },
+  "DesignDataItem:Id_Item_TidalButtonedBoots": {
+    "en": "Tidal Buttoned Boots",
+    "ru": "Приливные Сапоги на Пуговицах"
+  },
+  "DesignDataItem:Id_Item_TidalCloak": {
+    "en": "Tidal Cloak",
+    "ru": "Приливный Плащ"
+  },
+  "DesignDataItem:Id_Item_TidalCoif": {
+    "en": "Tidal Coif",
+    "ru": "Приливный Койф"
+  },
+  "DesignDataItem:Id_Item_TidalCrystalBall": {
+    "en": "Tidal Crystal Ball",
+    "ru": "Приливный Хрустальный Шар"
+  },
+  "DesignDataItem:Id_Item_TidalElkwoodCrown": {
+    "en": "Tidal Elkwood Crown",
+    "ru": "Приливная Дубовая Корона"
+  },
+  "DesignDataItem:Id_Item_TidalElkwoodGloves": {
+    "en": "Tidal Elkwood Gloves",
+    "ru": "Приливные Дубовые Перчатки"
+  },
+  "DesignDataItem:Id_Item_TidalFalchion": {
+    "en": "Tidal Falchion",
+    "ru": "Приливный Фальшион"
+  },
+  "DesignDataItem:Id_Item_TidalJesterCap": {
+    "en": "Tidal Jester Cap",
+    "ru": "Приливный Шутовской Колпак"
+  },
+  "DesignDataItem:Id_Item_TidalKrisDagger": {
+    "en": "Tidal Kris Dagger",
+    "ru": "Приливный Крис"
+  },
+  "DesignDataItem:Id_Item_TidalLightGauntlets": {
+    "en": "Tidal Light Gauntlets",
+    "ru": "Приливные Легкие Латные Рукавицы"
+  },
+  "DesignDataItem:Id_Item_TidalOccultistBoots": {
+    "en": "Tidal Occultist Boots",
+    "ru": "Приливные Оккультные Сапоги"
+  },
+  "DesignDataItem:Id_Item_TidalPlateBoots": {
+    "en": "Tidal Plate Boots",
+    "ru": "Приливные Латные Сапоги"
+  },
+  "DesignDataItem:Id_Item_TidalPlatePants": {
+    "en": "Tidal Plate Pants",
+    "ru": "Приливные Латные Поножи"
+  },
+  "DesignDataItem:Id_Item_TidalProwlerGloves": {
+    "en": "Tidal Prowler Gloves",
+    "ru": "Приливные Перчатки Бродяги"
+  },
+  "DesignDataItem:Id_Item_TidalRegalGambeson": {
+    "en": "Tidal Regal Gambeson",
+    "ru": "Приливный Королевский Гамбезон"
+  },
+  "DesignDataItem:Id_Item_TidalScaledArmor": {
+    "en": "Tidal Scaled Armor",
+    "ru": "Приливная Чешуйчатая Броня"
+  },
+  "DesignDataItem:Id_Item_TidalSleekHidePants": {
+    "en": "Tidal Sleek Hide Pants",
+    "ru": "Приливные Гладкие Кожаные Брюки"
+  },
+  "DesignDataItem:Id_Item_TidalSpangenhelm": {
+    "en": "Tidal Spangenhelm",
+    "ru": "Приливный Спангенхелм"
+  },
+  "DesignDataItem:Id_Item_TidalSturdyBoots": {
+    "en": "Tidal Sturdy Boots",
+    "ru": "Приливные Прочные Ботинки"
+  },
+  "DesignDataItem:Id_Item_TidalTimewornRobe": {
+    "en": "Tidal Timeworn Robe",
+    "ru": "Приливная Ветхая Мантия"
+  },
+  "DesignDataItem:Id_Item_TidalTrunkHose": {
+    "en": "Tidal Trunk Hose",
+    "ru": "Приливные Пышные Кюлоты"
+  },
+  "DesignDataItem:Id_Item_TidalVisoredSallet": {
+    "en": "Tidal Visored Sallet",
+    "ru": "Приливный Салад с Забралом"
+  },
+  "DesignDataItem:Id_Item_TidalWandererAttire": {
+    "en": "Tidal Wanderer Attire",
+    "ru": "Приливное Облачение Скитальца"
+  },
+  "DesignDataItem:Id_Item_TidestoneIngots": {
+    "en": "Tidestone Ingot",
+    "ru": "Слиток Приливного Камня"
+  },
+  "DesignDataItem:Id_Item_TidestoneOres": {
+    "en": "Tidestone Ore",
+    "ru": "Приливная Руда"
+  },
+  "DesignDataItem:Id_Item_TidestonePowder": {
+    "en": "Tidestone Powder",
+    "ru": "Порошок из Приливного Камня"
+  },
+  "DesignDataItem:Id_Item_TidewalkerFin": {
+    "en": "Tidewalker Fin",
+    "ru": "Плавник Приливника"
+  },
+  "DesignDataItem:Id_Item_TimewornRobe": {
+    "en": "Timeworn Robe",
+    "ru": "Ветхая Мантия"
+  },
+  "DesignDataItem:Id_Item_TokenOfHonor": {
+    "en": "Token of Honor",
+    "ru": "Символ Отваги"
+  },
+  "DesignDataItem:Id_Item_TomeofSheol": {
+    "en": "Tome of Sheol",
+    "ru": "Фолиант Шеола"
+  },
+  "DesignDataItem:Id_Item_TongueOfMimic": {
+    "en": "Mimic Tongue",
+    "ru": "Язык Мимика"
+  },
+  "DesignDataItem:Id_Item_Torch": {
+    "en": "Torch",
+    "ru": "Факел"
+  },
+  "DesignDataItem:Id_Item_TornBatWing": {
+    "en": "Torn Bat Wing",
+    "ru": "Порванное Крыло Летучей Мыши"
+  },
+  "DesignDataItem:Id_Item_TornSail": {
+    "en": "Torn Sail",
+    "ru": "Порванный Парус"
+  },
+  "DesignDataItem:Id_Item_TornWingFragment": {
+    "en": "Torn Wing Fragment",
+    "ru": "Фрагмент Сломанного Крыла"
+  },
+  "DesignDataItem:Id_Item_TracingWheel": {
+    "en": "Tracing Wheel",
+    "ru": "Копировальный Ролик"
+  },
+  "DesignDataItem:Id_Item_TrapDisarmingKit": {
+    "en": "Trap Disarming Kit",
+    "ru": "Сапёрный Набор"
+  },
+  "DesignDataItem:Id_Item_TrapperHat": {
+    "en": "Trapper Hat",
+    "ru": "Шапка Охотника"
+  },
+  "DesignDataItem:Id_Item_TriPeltDoublet": {
+    "en": "Tri-Pelt Doublet",
+    "ru": "Дублет из Шкур"
+  },
+  "DesignDataItem:Id_Item_TriPeltNorthernFullTunic": {
+    "en": "Tri-Pelt Northern Full Tunic",
+    "ru": "Накидка Викинга из Шкур"
+  },
+  "DesignDataItem:Id_Item_Tripod": {
+    "en": "Tripod",
+    "ru": "Тренога"
+  },
+  "DesignDataItem:Id_Item_TrollBane": {
+    "en": "Troll’s Bane",
+    "ru": "Проклятье Троллей"
+  },
+  "DesignDataItem:Id_Item_TrollBlood": {
+    "en": "Troll's Blood",
+    "ru": "Кровь Тролля"
+  },
+  "DesignDataItem:Id_Item_TrollPelt": {
+    "en": "Troll Pelt",
+    "ru": "Шкура Тролля"
+  },
+  "DesignDataItem:Id_Item_TrollsClub": {
+    "en": "Troll's Club",
+    "ru": "Дубина Тролля"
+  },
+  "DesignDataItem:Id_Item_TroubadourOutfit": {
+    "en": "Troubadour Outfit",
+    "ru": "Наряд Трубадура"
+  },
+  "DesignDataItem:Id_Item_TrunkHose": {
+    "en": "Trunk Hose",
+    "ru": "Пышные Кюлоты"
+  },
+  "DesignDataItem:Id_Item_Turnshoe": {
+    "en": "Turnshoe",
+    "ru": "Кожаные Башмаки"
+  },
+  "DesignDataItem:Id_Item_Twig": {
+    "en": "Twig",
+    "ru": "Прут"
+  },
+  "DesignDataItem:Id_Item_TwistedAbyssHorn": {
+    "en": "Twisted Abyss Horn",
+    "ru": "Искривленный Рог Бездны"
+  },
+  "DesignDataItem:Id_Item_ValentineCandies": {
+    "en": "Heart Candy",
+    "ru": "Конфеты Сердечки"
+  },
+  "DesignDataItem:Id_Item_ValiantAttire": {
+    "en": "Valiant Attire",
+    "ru": "Доблестное Облачение"
+  },
+  "DesignDataItem:Id_Item_VigilantCloak": {
+    "en": "Vigilant Cloak",
+    "ru": "Плащ Выдержки"
+  },
+  "DesignDataItem:Id_Item_VikingHelm": {
+    "en": "Viking Helm",
+    "ru": "Шлем Викинга"
+  },
+  "DesignDataItem:Id_Item_VikingSword": {
+    "en": "Viking Sword",
+    "ru": "Меч Викинга"
+  },
+  "DesignDataItem:Id_Item_VisoredBarbutaHelm": {
+    "en": "Visored Barbuta Helm",
+    "ru": "Барбют с Забралом"
+  },
+  "DesignDataItem:Id_Item_VoidBlade": {
+    "en": "Void Blade",
+    "ru": "Клинок Пустоты"
+  },
+  "DesignDataItem:Id_Item_VolcanicAsh": {
+    "en": "Volcanic Ash",
+    "ru": "Вулканический Пепел"
+  },
+  "DesignDataItem:Id_Item_WalkingCane": {
+    "en": "Walking Cane",
+    "ru": "Трость для Ходьбы"
+  },
+  "DesignDataItem:Id_Item_WandererAttire": {
+    "en": "Wanderer Attire",
+    "ru": "Облачение Скитальца"
+  },
+  "DesignDataItem:Id_Item_WanderlightLantern": {
+    "en": "Wanderlight Lantern",
+    "ru": "Фонарь Странствующего Света"
+  },
+  "DesignDataItem:Id_Item_WantedPoster": {
+    "en": "Wanted Poster",
+    "ru": "Плакат Розыска"
+  },
+  "DesignDataItem:Id_Item_WarHammer": {
+    "en": "War Hammer",
+    "ru": "Боевой Молот"
+  },
+  "DesignDataItem:Id_Item_WarHorn": {
+    "en": "War Horn",
+    "ru": "Боевой Рог"
+  },
+  "DesignDataItem:Id_Item_WarMaul": {
+    "en": "War Maul",
+    "ru": "Боевая Кувалда"
+  },
+  "DesignDataItem:Id_Item_WardenOutfit": {
+    "en": "Warden Outfit",
+    "ru": "Форма Дозорного"
+  },
+  "DesignDataItem:Id_Item_Wardweed": {
+    "en": "Wardweed",
+    "ru": "Стражелист"
+  },
+  "DesignDataItem:Id_Item_WarlordsArmorShard": {
+    "en": "Warlord's Armor Shard",
+    "ru": "Осколок Брони Военачальника"
+  },
+  "DesignDataItem:Id_Item_WarlordsBrokenSwordBlade": {
+    "en": "Warlord's Broken Sword Blade",
+    "ru": "Сломанное Лезвие Меча Военачальника"
+  },
+  "DesignDataItem:Id_Item_WarpedAdamantineShackles": {
+    "en": "Warped Adamantine Shackles",
+    "ru": "Искривленные Адамантиновые Кандалы"
+  },
+  "DesignDataItem:Id_Item_WatchmanCloak": {
+    "en": "Watchman Cloak",
+    "ru": "Плащ Дозорного"
+  },
+  "DesignDataItem:Id_Item_WendigoHoof": {
+    "en": "Wendigo's Hoof",
+    "ru": "Копыто Вендиго"
+  },
+  "DesignDataItem:Id_Item_WendigoSharpClaws": {
+    "en": "Wendigo's Sharp Claws",
+    "ru": "Острые Когти Вендиго"
+  },
+  "DesignDataItem:Id_Item_WendigosAntlerFragment": {
+    "en": "Wendigo's Antler Fragment",
+    "ru": "Обломок Рога Вендиго"
+  },
+  "DesignDataItem:Id_Item_WendigosEntrails": {
+    "en": "Wendigo's Entrails",
+    "ru": "Внутренности Вендиго"
+  },
+  "DesignDataItem:Id_Item_WhiteSharkFin": {
+    "en": "White Shark Fin",
+    "ru": "Плавник Белой Акулы"
+  },
+  "DesignDataItem:Id_Item_WhiteSharkHide": {
+    "en": "White Shark Hide",
+    "ru": "Шкура Белой Акулы"
+  },
+  "DesignDataItem:Id_Item_WhiteSharkTooth": {
+    "en": "White Shark Tooth",
+    "ru": "Зуб Белой Акулы"
+  },
+  "DesignDataItem:Id_Item_WhiteThreadSpool": {
+    "en": "White Thread Spool",
+    "ru": "Катушка с Белой Нитью"
+  },
+  "DesignDataItem:Id_Item_WindLocket": {
+    "en": "Wind Locket",
+    "ru": "Кулон Ветра"
+  },
+  "DesignDataItem:Id_Item_WindlassCrossbow": {
+    "en": "Windlass Crossbow",
+    "ru": "Арбалет с Воротом"
+  },
+  "DesignDataItem:Id_Item_WizardHat": {
+    "en": "Wizard Hat",
+    "ru": "Шляпа Волшебника"
+  },
+  "DesignDataItem:Id_Item_WizardShoes": {
+    "en": "Wizard Shoes",
+    "ru": "Ботинки Волшебника"
+  },
+  "DesignDataItem:Id_Item_WizardStaff": {
+    "en": "Magic Staff",
+    "ru": "Магический Посох"
+  },
+  "DesignDataItem:Id_Item_WolfClaw": {
+    "en": "Wolf Claw",
+    "ru": "Коготь Волка"
+  },
+  "DesignDataItem:Id_Item_WolfFang": {
+    "en": "Wolf Fang",
+    "ru": "Клык Волка"
+  },
+  "DesignDataItem:Id_Item_WolfHunterLeggings": {
+    "en": "Wolf Hunter Leggings",
+    "ru": "Поножи Охотника на Волков"
+  },
+  "DesignDataItem:Id_Item_WolfPelt": {
+    "en": "Wolf Pelt",
+    "ru": "Волчья Шкура"
+  },
+  "DesignDataItem:Id_Item_WoodenDice": {
+    "en": "Wooden Die",
+    "ru": "Деревянный Кубик"
+  },
+  "DesignDataItem:Id_Item_WoodenFigurine": {
+    "en": "Wooden Figurine",
+    "ru": "Деревянная Статуэтка"
+  },
+  "DesignDataItem:Id_Item_WoodenMask": {
+    "en": "Wooden Mask",
+    "ru": "Деревянная Маска"
+  },
+  "DesignDataItem:Id_Item_WoodenPlank": {
+    "en": "Wooden Plank",
+    "ru": "Деревянная Доска"
+  },
+  "DesignDataItem:Id_Item_WoodenStake": {
+    "en": "Wooden Stake",
+    "ru": "Деревянный Кол"
+  },
+  "DesignDataItem:Id_Item_WoodenStick": {
+    "en": "Wooden Stick",
+    "ru": "Деревянная Палка"
+  },
+  "DesignDataItem:Id_Item_WoodsmanAxe": {
+    "en": "Woodsman Axe",
+    "ru": "Топор Дровосека"
+  },
+  "DesignDataItem:Id_Item_WoolenCap": {
+    "en": "Woolen Cap",
+    "ru": "Шерстяная Шапочка"
+  },
+  "DesignDataItem:Id_Item_WorkshopRemnant": {
+    "en": "Remnants",
+    "ru": "Остатки"
+  },
+  "DesignDataItem:Id_Item_WorkshopScraps": {
+    "en": "Scraps",
+    "ru": "Металлолом"
+  },
+  "DesignDataItem:Id_Item_WovenRattanBottle": {
+    "en": "Woven Rattan Bottle",
+    "ru": "Плетеная Бутылка из Ротанга"
+  },
+  "DesignDataItem:Id_Item_YellowThreadSpool": {
+    "en": "Yellow Thread Spool",
+    "ru": "Катушка с Жёлтой Нитью"
+  },
+  "DesignDataItem:Id_Item_YetisTeeth": {
+    "en": "Yeti's Teeth",
+    "ru": "Зубы Йети"
+  },
+  "DesignDataItem:Id_Item_Zweihander": {
+    "en": "Zweihander",
+    "ru": "Цвайхендер"
+  }
+}

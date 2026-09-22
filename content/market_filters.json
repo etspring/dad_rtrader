@@ -1,0 +1,408 @@
+{
+  "classes": [
+    {
+      "value": "DesignDataPlayerCharacter:Id_PlayerCharacter_Barbarian",
+      "en": "Barbarian",
+      "ru": "Варвар"
+    },
+    {
+      "value": "DesignDataPlayerCharacter:Id_PlayerCharacter_Bard",
+      "en": "Bard",
+      "ru": "Бард"
+    },
+    {
+      "value": "DesignDataPlayerCharacter:Id_PlayerCharacter_Cleric",
+      "en": "Cleric",
+      "ru": "Клирик"
+    },
+    {
+      "value": "DesignDataPlayerCharacter:Id_PlayerCharacter_Druid",
+      "en": "Druid",
+      "ru": "Друид"
+    },
+    {
+      "value": "DesignDataPlayerCharacter:Id_PlayerCharacter_Fighter",
+      "en": "Fighter",
+      "ru": "Воин"
+    },
+    {
+      "value": "DesignDataPlayerCharacter:Id_PlayerCharacter_Ranger",
+      "en": "Ranger",
+      "ru": "Следопыт"
+    },
+    {
+      "value": "DesignDataPlayerCharacter:Id_PlayerCharacter_Rogue",
+      "en": "Rogue",
+      "ru": "Плут"
+    },
+    {
+      "value": "DesignDataPlayerCharacter:Id_PlayerCharacter_Sorcerer",
+      "en": "Sorcerer",
+      "ru": "Чародей"
+    },
+    {
+      "value": "DesignDataPlayerCharacter:Id_PlayerCharacter_Warlock",
+      "en": "Warlock",
+      "ru": "Чернокнижник"
+    },
+    {
+      "value": "DesignDataPlayerCharacter:Id_PlayerCharacter_Wizard",
+      "en": "Wizard",
+      "ru": "Волшебник"
+    }
+  ],
+  "slots": [
+    {
+      "value": "Type.Item.Slot.Head",
+      "en": "Head",
+      "ru": "Голова"
+    },
+    {
+      "value": "Type.Item.Slot.Chest",
+      "en": "Chest",
+      "ru": "Грудь"
+    },
+    {
+      "value": "Type.Item.Slot.Legs",
+      "en": "Legs",
+      "ru": "Ноги"
+    },
+    {
+      "value": "Type.Item.Slot.Hands",
+      "en": "Hands",
+      "ru": "Руки"
+    },
+    {
+      "value": "Type.Item.Slot.Foot",
+      "en": "Feet",
+      "ru": "Обувь"
+    },
+    {
+      "value": "Type.Item.Slot.Back",
+      "en": "Back",
+      "ru": "Спина"
+    },
+    {
+      "value": "Type.Item.Slot.Primary",
+      "en": "Primary Weapon",
+      "ru": "Основное Оружие"
+    },
+    {
+      "value": "Type.Item.Slot.Secondary",
+      "en": "Secondary Weapon",
+      "ru": "Вторичное Оружие"
+    },
+    {
+      "value": "Type.Item.Slot.Necklace",
+      "en": "Necklace",
+      "ru": "Ожерелье"
+    },
+    {
+      "value": "Type.Item.Slot.Ring",
+      "en": "Ring",
+      "ru": "Кольцо"
+    },
+    {
+      "value": "Type.Item.Slot.Utility",
+      "en": "Utility",
+      "ru": "Вспомогательный"
+    },
+    {
+      "value": "Type.Item.Slot.Sash",
+      "en": "Decoration",
+      "ru": "Украшение"
+    },
+    {
+      "value": "Type.Item.Slot.Unarmed",
+      "en": "Безоружный",
+      "ru": "Безоружный"
+    }
+  ],
+  "types": [
+    {
+      "value": "Type.Item.Armor.Cloth",
+      "en": "Cloth",
+      "ru": "Ткань"
+    },
+    {
+      "value": "Type.Item.Armor.Leather",
+      "en": "Leather",
+      "ru": "Кожа"
+    },
+    {
+      "value": "Type.Item.Armor.Plate",
+      "en": "Plate",
+      "ru": "Латы"
+    },
+    {
+      "value": "Type.Item.Weapon.Sword",
+      "en": "Sword",
+      "ru": "Меч"
+    },
+    {
+      "value": "Type.Item.Weapon.Axe",
+      "en": "Axe",
+      "ru": "Топор"
+    },
+    {
+      "value": "Type.Item.Weapon.Mace",
+      "en": "Mace",
+      "ru": "Булава"
+    },
+    {
+      "value": "Type.Item.Weapon.Dagger",
+      "en": "Dagger",
+      "ru": "Кинжал"
+    },
+    {
+      "value": "Type.Item.Weapon.Polearm",
+      "en": "Polearm",
+      "ru": "Древковый"
+    },
+    {
+      "value": "Type.Item.Weapon.Bow",
+      "en": "Bow",
+      "ru": "Лук"
+    },
+    {
+      "value": "Type.Item.Weapon.Crossbow",
+      "en": "Crossbow",
+      "ru": "Арбалет"
+    },
+    {
+      "value": "Type.Item.Weapon.Firearm",
+      "en": "Firearm",
+      "ru": "Огнестрельное"
+    },
+    {
+      "value": "Type.Item.Weapon.Staff",
+      "en": "Staff",
+      "ru": "Посох"
+    },
+    {
+      "value": "Type.Item.Weapon.MagicStuff",
+      "en": "Magic Stuff",
+      "ru": "Волшебный Предмет"
+    },
+    {
+      "value": "Type.Item.Weapon.Shield",
+      "en": "Shield",
+      "ru": "Щит"
+    },
+    {
+      "value": "Type.Item.Weapon.Quiver",
+      "en": "Колчан",
+      "ru": "Колчан"
+    },
+    {
+      "value": "Type.Item.Weapon.ThrowableStuff",
+      "en": "Метательное",
+      "ru": "Метательное"
+    },
+    {
+      "value": "Type.Item.Weapon.Unarmed",
+      "en": "Unarmed",
+      "ru": "Безоружный"
+    },
+    {
+      "value": "Type.Item.Accessory.Ring",
+      "en": "Ring",
+      "ru": "Кольцо"
+    },
+    {
+      "value": "Type.Item.Accessory.Necklace",
+      "en": "Necklace",
+      "ru": "Ожерелье"
+    },
+    {
+      "value": "Type.Item.Hand.OneHanded",
+      "en": "One-Handed",
+      "ru": "Одноручный"
+    },
+    {
+      "value": "Type.Item.Hand.TwoHanded",
+      "en": "Two-Handed",
+      "ru": "Двуручный"
+    },
+    {
+      "value": "Type.Item.Utility.Consumable",
+      "en": "Consumable",
+      "ru": "Расходный"
+    },
+    {
+      "value": "Type.Item.Utility.Drink",
+      "en": "Drink",
+      "ru": "Напиток"
+    },
+    {
+      "value": "Type.Item.Utility.Food",
+      "en": "Еда",
+      "ru": "Еда"
+    },
+    {
+      "value": "Type.Item.Utility.Throwable",
+      "en": "Throwable",
+      "ru": "Метательный"
+    },
+    {
+      "value": "Type.Item.Utility.LightSource",
+      "en": "Light Source",
+      "ru": "Источник света"
+    },
+    {
+      "value": "Type.Item.Utility.Tool",
+      "en": "Инструмент",
+      "ru": "Инструмент"
+    },
+    {
+      "value": "Type.Item.Utility.Mining",
+      "en": "Mining",
+      "ru": "Шахтёрство"
+    },
+    {
+      "value": "Type.Item.Utility.MusicalInstrument",
+      "en": "Musical Instrument",
+      "ru": "Музыкальный Инструмент"
+    },
+    {
+      "value": "Type.Item.Misc.Ore",
+      "en": "Ore",
+      "ru": "Руда"
+    },
+    {
+      "value": "Type.Item.Misc.Ingot",
+      "en": "Ingot",
+      "ru": "Слиток"
+    },
+    {
+      "value": "Type.Item.Misc.Herb",
+      "en": "Herb",
+      "ru": "Трава"
+    },
+    {
+      "value": "Type.Item.Misc.Gem",
+      "en": "Gem",
+      "ru": "Драгоценный Камень"
+    },
+    {
+      "value": "Type.Item.Misc.Powder",
+      "en": "Powder",
+      "ru": "Порошок"
+    },
+    {
+      "value": "Type.Item.Misc.Wood",
+      "en": "Дерево",
+      "ru": "Дерево"
+    },
+    {
+      "value": "Type.Item.Misc.Ammo",
+      "en": "Ammo",
+      "ru": "Амуниция"
+    },
+    {
+      "value": "Type.Item.Misc.HuntingLoot",
+      "en": "Hunting Loot",
+      "ru": "Охотничья Добыча"
+    },
+    {
+      "value": "Type.Item.Misc.Treasure",
+      "en": "Treasure",
+      "ru": "Сокровища"
+    },
+    {
+      "value": "Type.Item.Misc.Container",
+      "en": "Container",
+      "ru": "Контейнер"
+    },
+    {
+      "value": "Type.Item.Misc.Currency",
+      "en": "Currency",
+      "ru": "Валюта"
+    }
+  ],
+  "randomAttributes": [
+    "MagicalDamageBonus",
+    "MemoryCapacityBonus",
+    "BuffDurationBonus",
+    "CooldownReductionBonus",
+    "MagicalDamageReduction",
+    "HeadshotDamageMod",
+    "UndeadDamageMod",
+    "PhysicalDamageBonus",
+    "DemonDamageMod",
+    "Will",
+    "MagicalDamageAdd",
+    "MemoryCapacityAdd",
+    "ArmorRatingAdd",
+    "PhysicalDamageAdd",
+    "Knowledge",
+    "Agility",
+    "MagicalPower",
+    "MagicalHealing",
+    "Resourcefulness",
+    "MagicPenetration",
+    "ArmorPenetration",
+    "MagicRegistance",
+    "Strength",
+    "ActionSpeed",
+    "MagicalInteractionSpeed",
+    "RegularInteractionSpeed",
+    "SpellCastingSpeed",
+    "Dexterity",
+    "DebuffDurationBonus",
+    "DemonReductionMod",
+    "UndeadReductionMod",
+    "ProjectileReductionMod",
+    "PhysicalDamageReduction",
+    "Vigor",
+    "Luck",
+    "PhysicalWeaponDamage",
+    "PhysicalPower",
+    "PhysicalHealing"
+  ],
+  "staticAttributes": [
+    "MaxHealthBonus",
+    "MagicalDamageBonus",
+    "BuffDurationBonus",
+    "MoveSpeedBonus",
+    "CooldownReductionBonus",
+    "MagicalDamageReduction",
+    "HeadshotDamageMod",
+    "UndeadDamageMod",
+    "DemonDamageMod",
+    "Will",
+    "Primitive",
+    "MemoryCapacityAdd",
+    "ArmorRatingAdd",
+    "MaxHealthAdd",
+    "Knowledge",
+    "Agility",
+    "MagicalPower",
+    "MagicalDamage",
+    "MagicalWeaponDamage",
+    "MagicalHealing",
+    "Resourcefulness",
+    "MagicPenetration",
+    "ArmorPenetration",
+    "ArmorRating",
+    "MagicRegistance",
+    "Strength",
+    "ActionSpeed",
+    "RegularInteractionSpeed",
+    "MoveSpeed",
+    "SpellCastingSpeed",
+    "Dexterity",
+    "DebuffDurationBonus",
+    "HeadshotReductionMod",
+    "DemonReductionMod",
+    "UndeadReductionMod",
+    "ProjectileReductionMod",
+    "PhysicalDamageReduction",
+    "Vigor",
+    "Luck",
+    "PhysicalWeaponDamage",
+    "PhysicalPower",
+    "MagicalDamageTrue",
+    "PhysicalDamageTrue"
+  ]
+}

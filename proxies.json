@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "proxies": [
+    {
+      "name": "default",
+      "host": "144.124.242.135",
+      "note": ""
+    }
+  ]
+}

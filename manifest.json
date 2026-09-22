@@ -1,0 +1,14 @@
+{
+  "app": {
+    "version": "0.1.0",
+    "tag": "v0.1.0",
+    "file": "DadRogueTrader-win-x64.zip",
+    "sha256": ""
+  },
+  "content": {
+    "version": "2026.09.22"
+  },
+  "proxies": {
+    "version": "1"
+  }
+}

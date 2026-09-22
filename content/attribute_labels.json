@@ -1,0 +1,754 @@
+{
+  "ActionSpeed": {
+    "en": "Action Speed",
+    "ru": "Скорость Действий"
+  },
+  "Agility": {
+    "en": "Agility",
+    "ru": "Ловкость"
+  },
+  "AirMagicResistance": {
+    "en": "Air Magic Resistance",
+    "ru": "Сопротивление Магии Воздуха"
+  },
+  "AirMagicalReductionMod": {
+    "en": "Air Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Магии Воздуха"
+  },
+  "AmmoCountMod": {
+    "en": "AmmoCount modifier",
+    "ru": "Модификатор кол-ва боеприпасов"
+  },
+  "ArcaneMagicResistance": {
+    "en": "Arcane Magic Resistance",
+    "ru": "Сопротивление Магии Арканы"
+  },
+  "ArcaneMagicalReductionMod": {
+    "en": "Arcane Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Магии Арканы"
+  },
+  "ArmorPenetration": {
+    "en": "Armor Penetration",
+    "ru": "Пробитие Брони"
+  },
+  "ArmorRating": {
+    "en": "Armor Rating",
+    "ru": "Рейтинг Брони"
+  },
+  "ArmorRatingAdd": {
+    "en": "Additional Armor Rating",
+    "ru": "Дополнительный Рейтинг Брони"
+  },
+  "BuffDurationBonus": {
+    "en": "Buff Duration Bonus",
+    "ru": "Бонус Продолжительности Баффа"
+  },
+  "BuffDurationMod": {
+    "en": "Buff Duration Bonus",
+    "ru": "Бонус Продолжительности Баффа"
+  },
+  "CooldownReductionBonus": {
+    "en": "Cooldown Reduction Bonus",
+    "ru": "Бонус Скорости Перезарядки"
+  },
+  "CooldownReductionMod": {
+    "en": "Cooldown Reduction Bonus",
+    "ru": "Бонус к Скорости Перезарядки"
+  },
+  "DarkMagicResistance": {
+    "en": "Dark Magic Resistance",
+    "ru": "Сопротивление Магии Тьмы"
+  },
+  "DarkMagicalReductionMod": {
+    "en": "Dark Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Магии Тьмы"
+  },
+  "DebuffDurationBonus": {
+    "en": "Debuff Duration Reduction",
+    "ru": "Сопротивление Продолжительности Дебаффа"
+  },
+  "DebuffDurationMod": {
+    "en": "Debuff Duration Reduction",
+    "ru": "Сопротивление Продолжительности Дебаффа"
+  },
+  "DemonDamageMod": {
+    "en": "Demon Damage Bonus",
+    "ru": "Бонус к Урону по Демонам"
+  },
+  "DemonReductionMod": {
+    "en": "Demon Damage Reduction",
+    "ru": "Сопротивление Урону от Демонов"
+  },
+  "Dexterity": {
+    "en": "Dexterity",
+    "ru": "Сноровка"
+  },
+  "DivineMagicResistance": {
+    "en": "Divine Magic Resistance",
+    "ru": "Сопротивление Божественной Магии"
+  },
+  "DivineMagicalReductionMod": {
+    "en": "Divine Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Божественной Магии"
+  },
+  "EarthMagicResistance": {
+    "en": "Earth Magic Resistance",
+    "ru": "Сопротивление Магии Земли"
+  },
+  "EarthMagicalReductionMod": {
+    "en": "Earth Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Магии Земли"
+  },
+  "Effect_ActionSpeed": {
+    "en": "Action Speed",
+    "ru": "Скорость Действий"
+  },
+  "Effect_Agility": {
+    "en": "Agility",
+    "ru": "Ловкость"
+  },
+  "Effect_ArmorPenetration": {
+    "en": "Armor Penetration",
+    "ru": "Пробитие Брони"
+  },
+  "Effect_ArmorRating": {
+    "en": "Armor Rating",
+    "ru": "Рейтинг Брони"
+  },
+  "Effect_ArmorRatingAdd": {
+    "en": "Additional Armor Rating",
+    "ru": "Дополнительный Рейтинг Брони"
+  },
+  "Effect_BuffDurationBonus": {
+    "en": "Buff Duration Bonus",
+    "ru": "Бонус Продолжительности Баффа"
+  },
+  "Effect_CooldownReductionBonus": {
+    "en": "Cooldown Reduction Bonus",
+    "ru": "Бонус Скорости Перезарядки"
+  },
+  "Effect_DebuffDurationBonus": {
+    "en": "Debuff Duration Reduction",
+    "ru": "Сопротивление Продолжительности Дебаффа"
+  },
+  "Effect_DemonDamageMod": {
+    "en": "Demon Damage Bonus",
+    "ru": "Бонус к Урону по Демонам"
+  },
+  "Effect_DemonReductionMod": {
+    "en": "Demon Damage Reduction",
+    "ru": "Сопротивление Урону от Демонов"
+  },
+  "Effect_Dexterity": {
+    "en": "Dexterity",
+    "ru": "Сноровка"
+  },
+  "Effect_HeadshotDamageMod": {
+    "en": "Headshot Damage Bonus",
+    "ru": "Бонус Урона в Голову"
+  },
+  "Effect_HeadshotReductionMod": {
+    "en": "Headshot Damage Reduction",
+    "ru": "Сопротивление Урону в Голову"
+  },
+  "Effect_ItemEquipSpeed": {
+    "en": "Item Equip Speed",
+    "ru": "Скорость Экипировки Снаряжения"
+  },
+  "Effect_Knowledge": {
+    "en": "Knowledge",
+    "ru": "Знание"
+  },
+  "Effect_Luck": {
+    "en": "Luck",
+    "ru": "Удача"
+  },
+  "Effect_MagicPenetration": {
+    "en": "Magic Penetration",
+    "ru": "Преодоление Сопротивления Магии"
+  },
+  "Effect_MagicRegistance": {
+    "en": "Magic Resistance",
+    "ru": "Рейтинг Сопротивления Магии"
+  },
+  "Effect_MagicalDamage": {
+    "en": "Magical Damage",
+    "ru": "Магический Урон"
+  },
+  "Effect_MagicalDamageAdd": {
+    "en": "Additional Magical Damage",
+    "ru": "Дополнительный Магический Урон"
+  },
+  "Effect_MagicalDamageBonus": {
+    "en": "Magical Damage Bonus",
+    "ru": "Бонус Магического Урона"
+  },
+  "Effect_MagicalDamageReduction": {
+    "en": "Magical Damage Reduction",
+    "ru": "Бонус Сопротивления Магии"
+  },
+  "Effect_MagicalDamageTrue": {
+    "en": "True Magical Damage",
+    "ru": "Чистый Магический Урон"
+  },
+  "Effect_MagicalHealing": {
+    "en": "Magical Healing",
+    "ru": "Магическое Лечение"
+  },
+  "Effect_MagicalInteractionSpeed": {
+    "en": "Magical Interaction Speed",
+    "ru": "Скорость Магического Взаимодействия"
+  },
+  "Effect_MagicalPower": {
+    "en": "Magical Power",
+    "ru": "Магическая Сила"
+  },
+  "Effect_MagicalWeaponDamage": {
+    "en": "Magic Weapon Damage",
+    "ru": "Магический Урон Оружия"
+  },
+  "Effect_ManualDexterity": {
+    "en": "Manual Dexterity",
+    "ru": "Ловкость Рук"
+  },
+  "Effect_MaxHealthAdd": {
+    "en": "Max Health",
+    "ru": "Здоровье"
+  },
+  "Effect_MaxHealthBonus": {
+    "en": "Max Health Bonus",
+    "ru": "Бонус Здоровья"
+  },
+  "Effect_MemoryCapacityAdd": {
+    "en": "Additional Memory Capacity",
+    "ru": "Дополнительный Объём Памяти"
+  },
+  "Effect_MemoryCapacityBonus": {
+    "en": "Memory Capacity Bonus",
+    "ru": "Бонус Объёма Памяти"
+  },
+  "Effect_MoveSpeed": {
+    "en": "Move Speed",
+    "ru": "Скорость Передвижения"
+  },
+  "Effect_MoveSpeedAdd": {
+    "en": "Additional Move Speed",
+    "ru": "Скорость Передвижения"
+  },
+  "Effect_MoveSpeedBonus": {
+    "en": "Move Speed Bonus",
+    "ru": "Бонус Скорости Передвижения"
+  },
+  "Effect_Persuasiveness": {
+    "en": "Persuasiveness",
+    "ru": "Убеждение"
+  },
+  "Effect_PhysicalDamageAdd": {
+    "en": "Additional Physical Damage",
+    "ru": "Дополнительный Физический Урон"
+  },
+  "Effect_PhysicalDamageBonus": {
+    "en": "Physical Damage Bonus",
+    "ru": "Бонус Физического Урона"
+  },
+  "Effect_PhysicalDamageReduction": {
+    "en": "Physical Damage Reduction",
+    "ru": "Сопротивление Физическому Урону"
+  },
+  "Effect_PhysicalDamageTrue": {
+    "en": "True Physical Damage",
+    "ru": "Чистый Физический Урон"
+  },
+  "Effect_PhysicalHealing": {
+    "en": "Physical Healing",
+    "ru": "Физическое Лечение"
+  },
+  "Effect_PhysicalPower": {
+    "en": "Physical Power",
+    "ru": "Физическая Сила"
+  },
+  "Effect_PhysicalWeaponDamage": {
+    "en": "Weapon Damage",
+    "ru": "Урон Оружия"
+  },
+  "Effect_PhysicalWeaponDamageAdd": {
+    "en": "Additional Weapon Damage",
+    "ru": "Урон Оружия"
+  },
+  "Effect_Primitive": {
+    "en": "All Attributes",
+    "ru": "Все Атрибуты"
+  },
+  "Effect_ProjectileReductionMod": {
+    "en": "Projectile Damage Reduction",
+    "ru": "Сопротивление Урону от Снарядов"
+  },
+  "Effect_RegularInteractionSpeed": {
+    "en": "Regular Interaction Speed",
+    "ru": "Скорость Обычного Взаимодействия"
+  },
+  "Effect_Resourcefulness": {
+    "en": "Resourcefulness",
+    "ru": "Находчивость"
+  },
+  "Effect_SpellCastingSpeed": {
+    "en": "Spell Casting Speed",
+    "ru": "Скорость Чтения Заклинаний"
+  },
+  "Effect_Strength": {
+    "en": "Strength",
+    "ru": "Сила"
+  },
+  "Effect_UndeadDamageMod": {
+    "en": "Undead Damage Bonus",
+    "ru": "Бонус Урона по Нежити"
+  },
+  "Effect_UndeadReductionMod": {
+    "en": "Undead Damage Reduction",
+    "ru": "Сопротивление Урону от Нежити"
+  },
+  "Effect_UtilityEffectivenessAdd": {
+    "en": "Additional Utility Effectiveness",
+    "ru": "Эффективность Вспомогательных Предметов"
+  },
+  "Effect_UtilityEffectivenessBonus": {
+    "en": "Utility Effectiveness Bonus",
+    "ru": "Бонус Эффективности Вспомогательных Предметов"
+  },
+  "Effect_Vigor": {
+    "en": "Vigor",
+    "ru": "Стойкость"
+  },
+  "Effect_Will": {
+    "en": "Will",
+    "ru": "Воля"
+  },
+  "EvilMagicResistance": {
+    "en": "Evil Magic Resistance",
+    "ru": "Сопротивление Чёрной Магии"
+  },
+  "EvilMagicalReductionMod": {
+    "en": "Evil Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Чёрной Магии"
+  },
+  "FireMagicResistance": {
+    "en": "Fire Magic Resistance",
+    "ru": "Сопротивление Магии Огня"
+  },
+  "FireMagicalReductionMod": {
+    "en": "Fire Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Магии Огня"
+  },
+  "HeadshotDamageMod": {
+    "en": "Headshot Damage Bonus",
+    "ru": "Бонус Урона в Голову"
+  },
+  "HeadshotPenetration": {
+    "en": "Headshot Penetration",
+    "ru": "Пробитие в Голову"
+  },
+  "HeadshotReductionMod": {
+    "en": "Headshot Damage Reduction",
+    "ru": "Сопротивление Урону в Голову"
+  },
+  "Health": {
+    "en": "Health",
+    "ru": "Здоровье"
+  },
+  "HealthRecoveryMod": {
+    "en": "Health Recovery Bonus",
+    "ru": "Бонус Восстановления Здоровья"
+  },
+  "IceMagicResistance": {
+    "en": "Ice Magic Resistance",
+    "ru": "Сопротивление Магии Льда"
+  },
+  "IceMagicalReductionMod": {
+    "en": "Ice Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Магии Льда"
+  },
+  "ImpactPower": {
+    "en": "Impact Power",
+    "ru": "Сила Удара"
+  },
+  "ItemEquipSpeed": {
+    "en": "Item Equip Speed",
+    "ru": "Скорость Экипировки Снаряжения"
+  },
+  "Knowledge": {
+    "en": "Knowledge",
+    "ru": "Знание"
+  },
+  "LightMagicResistance": {
+    "en": "Light Magic Resistance",
+    "ru": "Сопротивление Магии Света"
+  },
+  "LightMagicalReductionMod": {
+    "en": "Light Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Магии Света"
+  },
+  "LightningMagicResistance": {
+    "en": "Lightning Magic Resistance",
+    "ru": "Сопротивление Магии Молний"
+  },
+  "LightningMagicalReductionMod": {
+    "en": "Lightning Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Магии Молний"
+  },
+  "Luck": {
+    "en": "Luck",
+    "ru": "Удача"
+  },
+  "MagicPenetration": {
+    "en": "Magic Penetration",
+    "ru": "Преодоление Сопротивления Магии"
+  },
+  "MagicRegistance": {
+    "en": "Magic Resistance",
+    "ru": "Рейтинг Сопротивления Магии"
+  },
+  "MagicResistance": {
+    "en": "Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Магии"
+  },
+  "MagicalAirKnockbackAdd": {
+    "en": "Additional Air Magic Knockback Power",
+    "ru": "Дополнительная Сила Отталкивания Магией Воздуха"
+  },
+  "MagicalAirKnockbackMod": {
+    "en": "Air Magic Knockback Power Bonus",
+    "ru": "Бонус Силы Отталкивания Магией Воздуха"
+  },
+  "MagicalDamage": {
+    "en": "Magical Damage",
+    "ru": "Магический Урон"
+  },
+  "MagicalDamageAdd": {
+    "en": "Additional Magical Damage",
+    "ru": "Дополнительный Магический Урон"
+  },
+  "MagicalDamageBase": {
+    "en": "Magical Damage",
+    "ru": "Магический Урон"
+  },
+  "MagicalDamageBonus": {
+    "en": "Magical Damage Bonus",
+    "ru": "Бонус Магического Урона"
+  },
+  "MagicalDamageMod": {
+    "en": "Magic Power Bonus",
+    "ru": "Увеличение Магического Урона"
+  },
+  "MagicalDamageReduction": {
+    "en": "Magical Damage Reduction",
+    "ru": "Бонус Сопротивления Магии"
+  },
+  "MagicalDamageTrue": {
+    "en": "True Magical Damage",
+    "ru": "Чистый Магический Урон"
+  },
+  "MagicalHealBase": {
+    "en": "Magical Healing",
+    "ru": "Магическое Лечение"
+  },
+  "MagicalHealMod": {
+    "en": "Magical Healing Bonus",
+    "ru": "Бонус к Магическому Лечению"
+  },
+  "MagicalHealing": {
+    "en": "Magical Healing",
+    "ru": "Магическое Лечение"
+  },
+  "MagicalHealingReceiveMod": {
+    "en": "Incoming Magical Healing",
+    "ru": "Входящее Магическое Лечение"
+  },
+  "MagicalInteractionSpeed": {
+    "en": "Magical Interaction Speed",
+    "ru": "Скорость Магического Взаимодействия"
+  },
+  "MagicalPower": {
+    "en": "Magical Power",
+    "ru": "Магическая Сила"
+  },
+  "MagicalReduction": {
+    "en": "From Magic Resistance",
+    "ru": "От Рейтинга Сопротивления Магии"
+  },
+  "MagicalReductionMod": {
+    "en": "From Bonuses",
+    "ru": "От Бонусов"
+  },
+  "MagicalWeaponDamage": {
+    "en": "Magic Weapon Damage",
+    "ru": "Магический Урон Оружия"
+  },
+  "ManualDexterity": {
+    "en": "Manual Dexterity",
+    "ru": "Ловкость Рук"
+  },
+  "MaxHealth": {
+    "en": "Max Health",
+    "ru": "Максимальное Здоровье"
+  },
+  "MaxHealthAdd": {
+    "en": "Max Health",
+    "ru": "Здоровье"
+  },
+  "MaxHealthBase": {
+    "en": "Max Health",
+    "ru": "Максимальное Здоровье"
+  },
+  "MaxHealthBonus": {
+    "en": "Max Health Bonus",
+    "ru": "Бонус Здоровья"
+  },
+  "MaxHealthMod": {
+    "en": "Max Health Bonus",
+    "ru": "Бонус к Максимальному Здоровью"
+  },
+  "MaxOxygen": {
+    "en": "Max Oxygen",
+    "ru": "Максимальное Количество Кислорода"
+  },
+  "MemoryCapacity": {
+    "en": "Memory Capacity",
+    "ru": "Объём Памяти"
+  },
+  "MemoryCapacityAdd": {
+    "en": "Additional Memory Capacity",
+    "ru": "Дополнительный Объём Памяти"
+  },
+  "MemoryCapacityBase": {
+    "en": "Memory Capacity",
+    "ru": "Объём Памяти"
+  },
+  "MemoryCapacityBonus": {
+    "en": "Memory Capacity Bonus",
+    "ru": "Бонус Объёма Памяти"
+  },
+  "MemoryCapacityMod": {
+    "en": "Memory Capacity Bonus",
+    "ru": "Бонус к Объёму Памяти"
+  },
+  "MemoryMusicPayload": {
+    "en": "Memory Music Payload",
+    "ru": "Количество Мелодий"
+  },
+  "MemoryRecoveryMod": {
+    "en": "Spell Recovery Bonus",
+    "ru": "Бонус Восстановления Заклинаний"
+  },
+  "MemorySpellPayload": {
+    "en": "Memory Spell Payload",
+    "ru": "Количество Заклинаний"
+  },
+  "MoveSpeed": {
+    "en": "Move Speed",
+    "ru": "Скорость Передвижения"
+  },
+  "MoveSpeedAdd": {
+    "en": "Additional Move Speed",
+    "ru": "Скорость Передвижения"
+  },
+  "MoveSpeedBase": {
+    "en": "Move Speed",
+    "ru": "Скорость Передвижения"
+  },
+  "MoveSpeedBonus": {
+    "en": "Move Speed Bonus",
+    "ru": "Бонус Скорости Передвижения"
+  },
+  "MoveSpeedMod": {
+    "en": "Move Speed Bonus",
+    "ru": "Бонус к Скорости Передвижения"
+  },
+  "MoveSpeedWithModifier": {
+    "en": "Move Speed With Modifier",
+    "ru": "Скорость Передвижения С Модификатором"
+  },
+  "OverhealedHealth": {
+    "en": "Bonus Health",
+    "ru": "Дополнительное Здоровье"
+  },
+  "Oxygen": {
+    "en": "Oxygen",
+    "ru": "Кислород"
+  },
+  "Perk_All": {
+    "en": "Perk All",
+    "ru": "Перк Все"
+  },
+  "Perk_Robust": {
+    "en": "Robust",
+    "ru": "Прочный"
+  },
+  "Persuasiveness": {
+    "en": "Persuasiveness",
+    "ru": "Убеждение"
+  },
+  "PhysicalDamageAdd": {
+    "en": "Additional Physical Damage",
+    "ru": "Дополнительный Физический Урон"
+  },
+  "PhysicalDamageBase": {
+    "en": "Physical Damage",
+    "ru": "Физический Урон"
+  },
+  "PhysicalDamageBonus": {
+    "en": "Physical Damage Bonus",
+    "ru": "Бонус Физического Урона"
+  },
+  "PhysicalDamageMod": {
+    "en": "Physical Power Bonus",
+    "ru": "Увеличение Физического Урона"
+  },
+  "PhysicalDamageReduction": {
+    "en": "Physical Damage Reduction",
+    "ru": "Сопротивление Физическому Урону"
+  },
+  "PhysicalDamageTrue": {
+    "en": "True Physical Damage",
+    "ru": "Чистый Физический Урон"
+  },
+  "PhysicalDamageWeaponPrimary": {
+    "en": "Primary Weapon",
+    "ru": "Основное Оружие"
+  },
+  "PhysicalDamageWeaponSecondary": {
+    "en": "Secondary Weapon",
+    "ru": "Вторичное Оружие"
+  },
+  "PhysicalHealBase": {
+    "en": "Physical Healing",
+    "ru": "Физическое Лечение"
+  },
+  "PhysicalHealMod": {
+    "en": "Physical Healing Bonus",
+    "ru": "Бонус к Физическому Исцелению"
+  },
+  "PhysicalHealing": {
+    "en": "Physical Healing",
+    "ru": "Физическое Лечение"
+  },
+  "PhysicalHealingReceiveMod": {
+    "en": "Incoming Physical Healing",
+    "ru": "Входящее Физическое Лечение"
+  },
+  "PhysicalPower": {
+    "en": "Physical Power",
+    "ru": "Физическая Сила"
+  },
+  "PhysicalReduction": {
+    "en": "Physical Damage Reduction",
+    "ru": "Сопротивление Физическому Урону"
+  },
+  "PhysicalReductionMod": {
+    "en": "From Bonuses",
+    "ru": "От Бонусов"
+  },
+  "PhysicalWeaponDamage": {
+    "en": "Weapon Damage",
+    "ru": "Урон Оружия"
+  },
+  "PhysicalWeaponDamageAdd": {
+    "en": "Additional Weapon Damage",
+    "ru": "Урон Оружия"
+  },
+  "Primitive": {
+    "en": "All Attributes",
+    "ru": "Все Атрибуты"
+  },
+  "ProjectileReductionMod": {
+    "en": "Projectile Damage Reduction",
+    "ru": "Сопротивление Урону от Снарядов"
+  },
+  "RecoverableHealth": {
+    "en": "Recoverable Health",
+    "ru": "Восстанавливаемое Здоровье"
+  },
+  "RegularInteractionSpeed": {
+    "en": "Regular Interaction Speed",
+    "ru": "Скорость Обычного Взаимодействия"
+  },
+  "RegularInteractionSpeedBase": {
+    "en": "Regular Interaction Speed",
+    "ru": "Скорость Обычного Взаимодействия"
+  },
+  "Resourcefulness": {
+    "en": "Resourcefulness",
+    "ru": "Находчивость"
+  },
+  "Skill_All": {
+    "en": "Skill All",
+    "ru": "Навык Все"
+  },
+  "Skill_Sprint": {
+    "en": "Sprint",
+    "ru": "Спринт"
+  },
+  "SpellCastingSpeed": {
+    "en": "Spell Casting Speed",
+    "ru": "Скорость Чтения Заклинаний"
+  },
+  "Spell_All": {
+    "en": "Spell All",
+    "ru": "Заклинание Все"
+  },
+  "Spell_Fireball": {
+    "en": "Fireball",
+    "ru": "Огненный Шар"
+  },
+  "SpiritMagicResistance": {
+    "en": "Spirit Magic Resistance",
+    "ru": "Сопротивление Духовной Магии"
+  },
+  "SpiritMagicalReductionMod": {
+    "en": "Spirit Magical Damage Reduction",
+    "ru": "Бонус Сопротивлению Духовной Магии"
+  },
+  "Strength": {
+    "en": "Strength",
+    "ru": "Сила"
+  },
+  "UndeadDamageMod": {
+    "en": "Undead Damage Bonus",
+    "ru": "Бонус Урона по Нежити"
+  },
+  "UndeadReductionMod": {
+    "en": "Undead Damage Reduction",
+    "ru": "Сопротивление Урону от Нежити"
+  },
+  "Unidentified": {
+    "en": "Unidentified",
+    "ru": "Неопознанный"
+  },
+  "UtilityEffectiveness": {
+    "en": "Utility Effectiveness",
+    "ru": "Эффективность Вспомогательных Предметов"
+  },
+  "UtilityEffectivenessAdd": {
+    "en": "Additional Utility Effectiveness",
+    "ru": "Эффективность Вспомогательных Предметов"
+  },
+  "UtilityEffectivenessBase": {
+    "en": "Utility Effectiveness",
+    "ru": "Эффективность Вспомогательных Предметов"
+  },
+  "UtilityEffectivenessBonus": {
+    "en": "Utility Effectiveness Bonus",
+    "ru": "Бонус Эффективности Вспомогательных Предметов"
+  },
+  "UtilityEffectivenessMod": {
+    "en": "Utility Effectiveness Bonus",
+    "ru": "Бонус к Эффективности Вспомогательных Предметов"
+  },
+  "Vigor": {
+    "en": "Vigor",
+    "ru": "Стойкость"
+  },
+  "Will": {
+    "en": "Will",
+    "ru": "Воля"
+  }
+}
