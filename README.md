@@ -12,3 +12,10 @@
 
 Архив не коммитится. Он лежит в GitHub Release у тега из `manifest.json` (`app.tag`, файл `app.file`).
 
+## Минимальные требования
+
+- Windows 10 или новее, 64-bit
+- [.NET 10 Desktop Runtime](https://aka.ms/dotnet/10.0/windowsdesktop-runtime-win-x64.exe). В архив он не входит.
+
+Оверлей с распознаванием подсказки использует DirectML и нуждается в видеокарте с DirectX 12.
+
