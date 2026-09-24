@@ -1,18 +1,18 @@
 {
-  "version": "3",
+  "version": "4",
   "proxies": [
     {
-      "name": "default",
-      "host": "144.124.242.135",
+      "name": "cadiastands-primary",
+      "host": "remembercadia.ru",
       "note": ""
     },
     {
-      "name": "cadiastands",
+      "name": "cadiastands-secondary",
       "host": "cadiastands.ru",
-      "note": "Может быть заблокировано РКН"
+      "note": ""
     },
     {
-      "name": "Fallback proxy",
+      "name": "cadiastands-fallback",
       "host": "194.36.177.212",
       "note": ""
     }
