@@ -6,9 +6,9 @@
     "sha256": ""
   },
   "content": {
-    "version": "2026.09.22"
+    "version": "2026.09.24"
   },
   "proxies": {
-    "version": "2"
+    "version": "4"
   }
 }

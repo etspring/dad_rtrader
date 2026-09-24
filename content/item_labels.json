@@ -187,6 +187,10 @@
     "en": "Blemished Pearl",
     "ru": "Испорченный Жемчуг"
   },
+  "DesignDataItem:Id_Item_BlessedBarleyLoaf": {
+    "en": "Blessed Barley Loaf",
+    "ru": "Благословлённый ячменный каравай"
+  },
   "DesignDataItem:Id_Item_BloodsapBlade": {
     "en": "Bloodsap Blade",
     "ru": "Вампирский Клинок"
@@ -258,6 +262,14 @@
   "DesignDataItem:Id_Item_Brimstone": {
     "en": "Brimstone",
     "ru": "Сера"
+  },
+  "DesignDataItem:Id_Item_BrimstoneOres": {
+    "en": "Brimstone Ore",
+    "ru": "Brimstone Ore"
+  },
+  "DesignDataItem:Id_Item_BrimstonePowder": {
+    "en": "Brimstone Powder",
+    "ru": "Brimstone Powder"
   },
   "DesignDataItem:Id_Item_BrokenBoneSpike": {
     "en": "Broken Bone Spike",
@@ -635,6 +647,10 @@
     "en": "Crusader Armor",
     "ru": "Броня Крестоносца"
   },
+  "DesignDataItem:Id_Item_CrusaderHelm": {
+    "en": "Crusader Helm",
+    "ru": "Шлем Крестоносца"
+  },
   "DesignDataItem:Id_Item_CrystalBall": {
     "en": "Crystal Ball",
     "ru": "Хрустальный Шар"
@@ -803,6 +819,10 @@
     "en": "Divine Staff",
     "ru": "Божественный Посох"
   },
+  "DesignDataItem:Id_Item_DivineWater": {
+    "en": "Divine Water",
+    "ru": "Святая вода"
+  },
   "DesignDataItem:Id_Item_DoctorsBag": {
     "en": "Doctor's Bag",
     "ru": "Сумка Врача"
@@ -907,6 +927,10 @@
     "en": "Felling Axe",
     "ru": "Валочный Топор"
   },
+  "DesignDataItem:Id_Item_FestiveAle": {
+    "en": "Festive Ale",
+    "ru": "Праздничный Эль"
+  },
   "DesignDataItem:Id_Item_FineCuirass": {
     "en": "Fine Cuirass",
     "ru": "Кираса"
@@ -922,6 +946,10 @@
   "DesignDataItem:Id_Item_FlameGasBag": {
     "en": "Flame Gas Bag",
     "ru": "Мешочек с Газом"
+  },
+  "DesignDataItem:Id_Item_FlameWing": {
+    "en": "Flame Wing",
+    "ru": "Огненное крыло"
   },
   "DesignDataItem:Id_Item_FlangedMace": {
     "en": "Flanged Mace",
@@ -1007,6 +1035,10 @@
     "en": "Frostlight Cloak",
     "ru": "Ледяной Плащ"
   },
+  "DesignDataItem:Id_Item_FrostlightCrusaderHelm": {
+    "en": "Frostlight Crusader Helm",
+    "ru": "Ледяной Шлем Крестоносца"
+  },
   "DesignDataItem:Id_Item_FrostlightCrystalSword": {
     "en": "Frostlight Crystal Sword",
     "ru": "Ледяной Хрустальный Меч"
@@ -1038,6 +1070,10 @@
   "DesignDataItem:Id_Item_FrostlightMysticGloves": {
     "en": "Frostlight Mystic Gloves",
     "ru": "Ледяные Перчатки Мистика"
+  },
+  "DesignDataItem:Id_Item_FrostlightNormanNasalHelm": {
+    "en": "Frostlight Norman Nasal Helm",
+    "ru": "Ледяной Норманнский Шлем"
   },
   "DesignDataItem:Id_Item_FrostlightOracleRobe": {
     "en": "Frostlight Oracle Robe",
@@ -1098,6 +1134,10 @@
   "DesignDataItem:Id_Item_GallantOutfit": {
     "en": "Gallant Outfit",
     "ru": "Галантный Наряд"
+  },
+  "DesignDataItem:Id_Item_GamblersToken": {
+    "en": "Gambler's Token",
+    "ru": "Жетон Игрока"
   },
   "DesignDataItem:Id_Item_GemNecklace": {
     "en": "Gem Necklace (Exquisite)",
@@ -1287,6 +1327,10 @@
     "en": "Golden Felling Axe",
     "ru": "Золотой Валочный Топор"
   },
+  "DesignDataItem:Id_Item_GoldenFestChalice": {
+    "en": "Golden Festive Chalice",
+    "ru": "Золотой Праздничный Потир"
+  },
   "DesignDataItem:Id_Item_GoldenGauntlets": {
     "en": "Golden Gauntlets",
     "ru": "Золотые Рукавицы"
@@ -1367,6 +1411,10 @@
     "en": "Gravewolf Gloves",
     "ru": "Перчатки Могильного Волка"
   },
+  "DesignDataItem:Id_Item_GreatHelm": {
+    "en": "Great Helm",
+    "ru": "Гранд-хелм"
+  },
   "DesignDataItem:Id_Item_GreatLuckPotion": {
     "en": "Great Potion of Luck",
     "ru": "Большое Зелье Удачи"
@@ -1382,6 +1430,10 @@
   "DesignDataItem:Id_Item_GrimsmileRing": {
     "en": "Grimsmile Ring",
     "ru": "Кольцо Мрачной Ухмылки"
+  },
+  "DesignDataItem:Id_Item_GrimveilCloak": {
+    "en": "Grimveil Cloak",
+    "ru": "Плащ Мрачной Завесы"
   },
   "DesignDataItem:Id_Item_Halberd": {
     "en": "Halberd",
@@ -1399,6 +1451,10 @@
     "en": "Hard Crab Shell",
     "ru": "Твердый Панцирь Краба"
   },
+  "DesignDataItem:Id_Item_HardenedBeak": {
+    "en": "Hardened Beak",
+    "ru": "Затвердевший клюв"
+  },
   "DesignDataItem:Id_Item_HardenedShellFragment": {
     "en": "Hardened Shell Fragment",
     "ru": "Закаленный Фрагмент Панциря"
@@ -1408,8 +1464,8 @@
     "ru": "Топорик"
   },
   "DesignDataItem:Id_Item_HazeBlade": {
-    "en": "Haze Blade",
-    "ru": "Дурманящий Клинок"
+    "en": "Merrymaker",
+    "ru": "Весельчак"
   },
   "DesignDataItem:Id_Item_HealingPotion": {
     "en": "Potion of Healing",
@@ -1739,6 +1795,18 @@
     "en": "Magma Essence",
     "ru": "Эссенция Магмы"
   },
+  "DesignDataItem:Id_Item_MagmaWyvernHeart": {
+    "en": "Magma Wyvern Heart",
+    "ru": "Сердце магмового виверна"
+  },
+  "DesignDataItem:Id_Item_MagmaWyvernScale": {
+    "en": "Magma Wyvern Scale",
+    "ru": "Чешуя магмового виверна"
+  },
+  "DesignDataItem:Id_Item_MagmaWyvernTalon": {
+    "en": "Magma Wyvern Talon",
+    "ru": "Коготь магмового виверна"
+  },
   "DesignDataItem:Id_Item_ManaSphere": {
     "en": "Mana Sphere",
     "ru": "Сфера Маны"
@@ -1791,6 +1859,10 @@
     "en": "Moldy Bread",
     "ru": "Заплесневелый Хлеб"
   },
+  "DesignDataItem:Id_Item_MoltenWing": {
+    "en": "Molten Wing",
+    "ru": "Расплавленное крыло"
+  },
   "DesignDataItem:Id_Item_MonkeyPendant": {
     "en": "Monkey Pendant",
     "ru": "Кулон Обезьяны"
@@ -1826,6 +1898,10 @@
   "DesignDataItem:Id_Item_NecklaceOfPeace": {
     "en": "Necklace of Peace",
     "ru": "Кулон Спокойствия"
+  },
+  "DesignDataItem:Id_Item_NormanNasalHelm": {
+    "en": "Norman Nasal Helm",
+    "ru": "Норманнский Шлем"
   },
   "DesignDataItem:Id_Item_NorthernFullTunic": {
     "en": "Northern Full Tunic",
@@ -2006,6 +2082,10 @@
   "DesignDataItem:Id_Item_OnyxGloves": {
     "en": "Onyx Gloves",
     "ru": "Перчатки из Оникса"
+  },
+  "DesignDataItem:Id_Item_OpenSallet": {
+    "en": "Open Sallet",
+    "ru": "Открытый Салад"
   },
   "DesignDataItem:Id_Item_OracleRobe": {
     "en": "Oracle Robe",
@@ -2283,6 +2363,10 @@
     "en": "Sailor's Journal",
     "ru": "Дневник Моряка"
   },
+  "DesignDataItem:Id_Item_Sallet": {
+    "en": "Sallet",
+    "ru": "Салад"
+  },
   "DesignDataItem:Id_Item_Saltvine": {
     "en": "Saltvine",
     "ru": "Соляная Лоза"
@@ -2326,6 +2410,10 @@
   "DesignDataItem:Id_Item_SearedHide": {
     "en": "Seared Hide",
     "ru": "Обжаренная Шкура"
+  },
+  "DesignDataItem:Id_Item_SearingSlime": {
+    "en": "Searing Slime",
+    "ru": "Обжигающая слизь"
   },
   "DesignDataItem:Id_Item_Seashell": {
     "en": "Seashell",
@@ -2435,6 +2523,10 @@
     "en": "Sooty Beard Hair",
     "ru": "Сажистые Волосы Бороды"
   },
+  "DesignDataItem:Id_Item_SoulDevotedFolio": {
+    "en": "Soul-Devoted Folio",
+    "ru": "Фолиант преданной души"
+  },
   "DesignDataItem:Id_Item_SoulHeart": {
     "en": "Soul Heart",
     "ru": "Сердце Души"
@@ -2446,6 +2538,10 @@
   "DesignDataItem:Id_Item_SovereignsGhostblade": {
     "en": "Sovereign's Ghostblade",
     "ru": "Призрачный Клинок Властелина"
+  },
+  "DesignDataItem:Id_Item_Spangenhelm": {
+    "en": "Spangenhelm",
+    "ru": "Спангенхелм"
   },
   "DesignDataItem:Id_Item_Spear": {
     "en": "Spear",
@@ -2601,7 +2697,7 @@
   },
   "DesignDataItem:Id_Item_SturdyRope": {
     "en": "Sturdy Rope",
-    "ru": "Прочная Веревка"
+    "ru": "Прочная Верёвка"
   },
   "DesignDataItem:Id_Item_SulfurSaliva": {
     "en": "Sulfur Saliva",
@@ -2638,6 +2734,10 @@
   "DesignDataItem:Id_Item_TatteredCloak": {
     "en": "Tattered Cloak",
     "ru": "Рваный Плащ"
+  },
+  "DesignDataItem:Id_Item_TearofHrimthurs": {
+    "en": "Tear of Hrímthurs",
+    "ru": "Слеза Hrímthurs"
   },
   "DesignDataItem:Id_Item_TearoftheVolcano": {
     "en": "Tear of the Volcano",
@@ -2779,6 +2879,10 @@
     "en": "Timeworn Robe",
     "ru": "Ветхая Мантия"
   },
+  "DesignDataItem:Id_Item_ToadVocalSac": {
+    "en": "Toad Vocal Sac",
+    "ru": "Голосовой мешок жабы"
+  },
   "DesignDataItem:Id_Item_TokenOfHonor": {
     "en": "Token of Honor",
     "ru": "Символ Отваги"
@@ -2790,6 +2894,10 @@
   "DesignDataItem:Id_Item_TongueOfMimic": {
     "en": "Mimic Tongue",
     "ru": "Язык Мимика"
+  },
+  "DesignDataItem:Id_Item_Topfhelm": {
+    "en": "Topfhelm",
+    "ru": "Топфхелм"
   },
   "DesignDataItem:Id_Item_Torch": {
     "en": "Torch",
@@ -2890,6 +2998,10 @@
   "DesignDataItem:Id_Item_VisoredBarbutaHelm": {
     "en": "Visored Barbuta Helm",
     "ru": "Барбют с Забралом"
+  },
+  "DesignDataItem:Id_Item_VisoredSallet": {
+    "en": "Visored Sallet",
+    "ru": "Салад с Забралом"
   },
   "DesignDataItem:Id_Item_VoidBlade": {
     "en": "Void Blade",
