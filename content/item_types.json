@@ -1,0 +1,3651 @@
+{
+  "DesignDataItem:Id_Item_AdventurerBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_AdventurerCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_AdventurerTunic": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Ale": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Anchor": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 12
+  },
+  "DesignDataItem:Id_Item_AncientStingrayEgg": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_AntiquatedCoin": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_AquaglowLantern": {
+    "type": "Type.Item.Utility.LightSource",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ArcaneEssence": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_ArcaneGarb": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ArcaneGloves": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ArcaneHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Armet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ArmillarySphere": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ArmingSword": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_ArmorScrap": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Arrow": {
+    "type": "Type.Item.Misc.Ammo",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_Awl": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_AxeOfRighteousness": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_BadgerPendant": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Ball": {
+    "type": "Type.Item.Misc.Ammo",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Bandage": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BansheeSonnet": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_BarbutaHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BardicPants": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Bardiche": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 10
+  },
+  "DesignDataItem:Id_Item_BareHandRight": {
+    "type": "Type.Item.Weapon.Unarmed",
+    "slot": "Type.Item.Slot.Unarmed"
+  },
+  "DesignDataItem:Id_Item_BareHands": {
+    "type": "Type.Item.Weapon.Unarmed",
+    "slot": "Type.Item.Slot.Unarmed"
+  },
+  "DesignDataItem:Id_Item_BarrelHoop": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_BatClaw": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BatWing": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BattleAxe": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_BattleWornArmorFragment": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Bavin": {
+    "type": "Type.Item.Misc.Wood",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BearPendant": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BeetleWings": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_Bellows": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Billet": {
+    "type": "Type.Item.Misc.Wood",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Birdcage": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_BlackRose": {
+    "type": "Type.Item.Misc.Herb",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_BlackThreadSpool": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BlacksmithTongs": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_BladeOfRighteousness": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BlazingTail": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_BlemishedPearl": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BlessedBarleyLoaf": {
+    "type": "Type.Item.Utility.Food",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BloodsapBlade": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_BloodwovenGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BloodwovenRobe": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_BlueEyeballs": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BlueSapphire": {
+    "type": "Type.Item.Misc.Gem",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BlueThreadSpool": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Bolas": {
+    "type": "Type.Item.Utility.Throwable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_Bolt": {
+    "type": "Type.Item.Misc.Ammo",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_Bone": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_BoneHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BonePowder": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Boneshaper": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_BowOfRighteousness": {
+    "type": "Type.Item.Weapon.Bow",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_Bowstring": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BrandoftheSubservient": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BraveHunterPants": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_BreathOfTheDeceased": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_Brimstone": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BrimstoneOres": {
+    "type": "Type.Item.Misc.Ore",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BrimstonePowder": {
+    "type": "Type.Item.Misc.Powder",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BrokenBoneSpike": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_BrokenFrame": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BrokenGlasses": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_BrokenJarShard": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BrokenPickaxe": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_BrokenSkull": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BrokenTelescopeHead": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_BrokenWarHorn": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BrokenWheel": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BrokenWoodenBarrelFragment": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 9
+  },
+  "DesignDataItem:Id_Item_BronzeLadle": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_BronzeScale": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Broom": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BuckledBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Buckler": {
+    "type": "Type.Item.Weapon.Shield",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_BugShell": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ButtonedBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ButtonedLeggings": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Bycocket": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CampfireKit": {
+    "type": "Type.Item.Utility.Installable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CandyCane": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CandyCorns": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CaptainsCorrodedKey": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_CapturedEnergyFlakes": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CapturedManaFlakes": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CastillonDagger": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_CaveTrollsPreciousRock": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CentaurHoof": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CentaurMadness": {
+    "type": "Type.Item.Weapon.Bow",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_CeremonialDagger": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_CeremonialHeaddress": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CeremonialStaff": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ChampionArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ChapelDeFer": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Chaperon": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Charcoal": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CharmofFortune": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CharredFang": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_ChocolateChipMuffin": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_ChroniclesoftheCursedCrown": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ClarityPotion": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CloakofDarkness": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ClothPants": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Club": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_Coal": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CobaltChapelDeFer": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CobaltFrock": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CobaltHat": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CobaltHeavyGauntlet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CobaltHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CobaltIngots": {
+    "type": "Type.Item.Misc.Ingot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CobaltLeatherGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CobaltLightfootBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CobaltOres": {
+    "type": "Type.Item.Misc.Ore",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CobaltPlateBoots": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CobaltPlatePants": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CobaltPowder": {
+    "type": "Type.Item.Misc.Powder",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CobaltRegalGambeson": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CobaltTemplarArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CobaltTrousers": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CobaltVikingHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CockatriceEgg": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CockatricesLuckyFeather": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Coif": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ConchShell": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CopperIngots": {
+    "type": "Type.Item.Misc.Ingot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CopperOres": {
+    "type": "Type.Item.Misc.Ore",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CopperPowder": {
+    "type": "Type.Item.Misc.Powder",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CopperlightAttire": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CopperlightGauntlets": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CopperlightKettleHat": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CopperlightLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CopperlightLightfootBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CopperlightOutfit": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CopperlightPants": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CopperlightPlateBoots": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CopperlightPlatePants": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CopperlightRivetedGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CopperlightSanctumPlateArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CopperlightShadowHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CopperlightStrawHat": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CopperlightTunic": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CoralFragment": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CoreofCinder": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CorruptedHeart": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CourtlyDress": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CowlofDarkness": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CrackedLog": {
+    "type": "Type.Item.Misc.Wood",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CrackedTusk": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_CrimsonThreadSpool": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CrocodilianEyeball": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Crossbow": {
+    "type": "Type.Item.Weapon.Crossbow",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CrownoftheMidnightStag": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CrusaderArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_CrusaderHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CrystalBall": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CrystalFrostRing": {
+    "type": "Type.Item.Accessory.Ring",
+    "slot": "Type.Item.Slot.Ring",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CrystalSword": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CuffedBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CursedBandage": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CursedBell": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CursedCrown": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Cutlass": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_CuttlefishInkSac": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_CyclopsClub": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_CyclopsEye": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CyclopsPreciousMirror": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_CyclopsRags": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CyclopsVisionCrystal": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DaggerOfRighteousness": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_DarkCassock": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_DarkCuirass": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_DarkLeatherLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_DarkMatter": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_DarkMatterTunic": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_DarkPaddedHose": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_DarkPlateArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_DarkgroveHood": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DarkgroveRobe": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_DarkleafBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DashingBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DeathstepBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DemonBlood": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_DemonDogThorns": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_DemonGripGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DemonWingMembrane": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_DemoncladLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_DemonsGlee": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_Diamond": {
+    "type": "Type.Item.Misc.Gem",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_DiaryoftheToz": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DivineAxe": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_DivineBlade": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DivineBow": {
+    "type": "Type.Item.Weapon.Bow",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_DivineDagger": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_DivineRod": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_DivineShortSword": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_DivineStaff": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 5
+  },
+  "DesignDataItem:Id_Item_DivineWater": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_DoctorsBag": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DogCollar": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DoubleAxe": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_Doublet": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_DreadHood": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Drum": {
+    "type": "Type.Item.Utility.MusicalInstrument",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_DryadMask": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Ectoplasm": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_ElkwoodCrown": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ElkwoodGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_EmberGem": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Emerald": {
+    "type": "Type.Item.Misc.Gem",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_EnchantedDarkFabric": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_EnchantedEye": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_EtchedWandFragment": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_ExplosiveBottle": {
+    "type": "Type.Item.Utility.LightSource",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_ExtraThickPelts": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Eyepatch": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_FabricShears": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_FairysRequiem": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Falchion": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_FalchionofHonor": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_FangsofDeathNecklace": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_FeatheredHat": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FellingAxe": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_FestiveAle": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_FineCuirass": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FireflyAbdomen": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_FlameGasBag": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_FlameWing": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_FlangedMace": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_FlickeringEmber": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Flute": {
+    "type": "Type.Item.Utility.MusicalInstrument",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_ForestBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ForestHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FoulBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FoxPendant": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_FranciscaAxe": {
+    "type": "Type.Item.Utility.Throwable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_Frock": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FrostAmulet": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_FrostStoneIngots": {
+    "type": "Type.Item.Misc.Ingot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostStoneOres": {
+    "type": "Type.Item.Misc.Ore",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostStonePowder": {
+    "type": "Type.Item.Misc.Powder",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_FrostWyvernClaws": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostWyvernEgg": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 9
+  },
+  "DesignDataItem:Id_Item_FrostWyvernsHide": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostbittenMallet": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_FrostedFeather": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_FrostlightAbyssPlateArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FrostlightAketon": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FrostlightCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FrostlightCrusaderHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightCrystalSword": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightFeatheredHat": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightGauntlets": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightLanternShield": {
+    "type": "Type.Item.Weapon.Shield",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FrostlightLeatherLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FrostlightLightfootBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightMysticGloves": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightNormanNasalHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightOracleRobe": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FrostlightPlateBoots": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightPlatePants": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FrostlightRivetedGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightRuggedBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightRunestoneGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrostlightSpear": {
+    "type": "Type.Item.Weapon.Polearm",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 5
+  },
+  "DesignDataItem:Id_Item_FrostlightTrousers": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FrostlightWarMaul": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_FrostlightWardenOutfit": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_FrostlightWizardHat": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrozenClaw": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_FrozenHeart": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_FrozenIronKey": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_GallantOutfit": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GamblersToken": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GemNecklace": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GemRing": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GhostdustPouch": {
+    "type": "Type.Item.Utility.Throwable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GhostlyEssence": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GiantBatEar": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GiantBatHide": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GiantHorn": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GiantToe": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_GingerbreadCookies": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Gjermundbu": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GlovesOfUtility": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GlowingBlueIceEyes": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GlowingOrangeEye": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoatHideRug": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GoblinEars": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBand": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBangle1B": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBangle1C": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBangle1D": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBangle1E": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBangle1H": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBangle1I": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBangle1J": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBangle2D": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBangle2G": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBangle2H": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldBowl": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldCandelabra": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldCandleHolder": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldCandlePlatter": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldChaliceA": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_GoldChaliceB": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_GoldCoinBag": {
+    "type": "Type.Item.Misc.Container",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldCoinChest": {
+    "type": "Type.Item.Misc.Container",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GoldCoinPouch": {
+    "type": "Type.Item.Misc.Container",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_GoldCoinPurse": {
+    "type": "Type.Item.Misc.Container",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldCoins": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldCrown": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldIngots": {
+    "type": "Type.Item.Misc.Ingot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldOres": {
+    "type": "Type.Item.Misc.Ore",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldPowder": {
+    "type": "Type.Item.Misc.Powder",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldWaterpot": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenArmet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenChausses": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GoldenCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GoldenFellingAxe": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_GoldenFestChalice": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_GoldenGauntlets": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenGjermundbu": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenHounskull": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenKey": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_GoldenLeafHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GoldenPaddedTunic": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GoldenPlate": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GoldenPlateBoots": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenPlatePants": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GoldenRobe": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GoldenScarf": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenScriptureofSolaris": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GoldenSkulltoken": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldenTeeth": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GoldenVikingSword": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_GrandBrigandine": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_GraveEssence": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GravewolfGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GreatHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GreenThreadSpool": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GrimSlayer": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_GrimsmileRing": {
+    "type": "Type.Item.Accessory.Ring",
+    "slot": "Type.Item.Slot.Ring",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_GrimveilCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Halberd": {
+    "type": "Type.Item.Weapon.Polearm",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 10
+  },
+  "DesignDataItem:Id_Item_HandCannon": {
+    "type": "Type.Item.Weapon.Firearm",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 5
+  },
+  "DesignDataItem:Id_Item_HandCrossbow": {
+    "type": "Type.Item.Weapon.Crossbow",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_HardCrabShell": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_HardenedBeak": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_HardenedShellFragment": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Hatchet": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_HazeBlade": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_HealingPotion": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_HeaterShield": {
+    "type": "Type.Item.Weapon.Shield",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_HeavyBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_HeavyGambeson": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_HeavyGauntlet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_HeavyLeatherLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_HellHuntersCurvedBlade": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_Hemostatic": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_HerbPouch": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_HolyRobe": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_HoneyblissPear": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_HornOfCentaur": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_HorsemansAxe": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_Horseshoe": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Hounskull": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Hourglass": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_HumanRemains": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_HuntingTrap": {
+    "type": "Type.Item.Utility.Installable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_HuntressGoldEmblem": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_HuntressSilverEmblem": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_HuntressWitnessEmblem": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Icefang": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_InfectedFlesh": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_InkwellandQuillPen": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_IntactSkull": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_IntricateWoodenFigurine": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_InvisibilityPotion": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_IronChain": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_IronIngots": {
+    "type": "Type.Item.Misc.Ingot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_IronOres": {
+    "type": "Type.Item.Misc.Ore",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_IronPowder": {
+    "type": "Type.Item.Misc.Powder",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_JellyfishGlowEssence": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_JesterCap": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_JesterOutfit": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_JesterPants": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_JesterPoulaines": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_KettleHat": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_KneadBloodBag": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_KoboldEar": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_KrampusCoin": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_KrampusGoldenBell": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_KrampusSilverBell": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_KrisDagger": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_LacedTurnshoe": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Lantern": {
+    "type": "Type.Item.Utility.LightSource",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_LanternShield": {
+    "type": "Type.Item.Weapon.Shield",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_LargeScroll": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_LavaGolemShoulderFragment": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_LavaMushroom": {
+    "type": "Type.Item.Misc.Herb",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_LavishShirt": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_LeatherBonnet": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_LeatherBoot": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_LeatherCap": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_LeatherChausses": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_LeatherGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_LeatherLamellar": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_LeatherLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Lifeleaf": {
+    "type": "Type.Item.Misc.Herb",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_LightAketon": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_LightBringer": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_LightCassock": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_LightGauntlets": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_LightfootBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Lock": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Lockpick": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_LongPipe": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_Longbow": {
+    "type": "Type.Item.Weapon.Bow",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Longsword": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_LooseTrousers": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_LowBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_LuckPotion": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_LukewarmStew": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Lute": {
+    "type": "Type.Item.Utility.MusicalInstrument",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_LuxuryBootRack": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_Lyre": {
+    "type": "Type.Item.Utility.MusicalInstrument",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Maggots": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_MagicProtectionPotion": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_MagmaEssence": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_MagmaWyvernHeart": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_MagmaWyvernScale": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_MagmaWyvernTalon": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_ManaSphere": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ManuscriptsoftheWarlord": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_MarauderOutfit": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_MeltedPickaxeHead": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_MercurialCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_MermaidScale": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_MermaidsTear": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_MetalCup": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_MidnightStagDisplay": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 9
+  },
+  "DesignDataItem:Id_Item_MimicTooth": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_MisshapenBladeShard": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Mitre": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_MoldyBread": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_MoltenWing": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_MonkeyPendant": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_MorningStar": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_MysteriousPotion": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_MysticGloves": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_MysticVestments": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_MysticalGem": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_NavigationalCompass": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_NecklaceOfPeace": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_NormanNasalHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_NorthernFullTunic": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_NorthernHalfTunic": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ObsidianArcaneHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianBardiche": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 10
+  },
+  "DesignDataItem:Id_Item_ObsidianBloodwovenGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianBloodwovenRobe": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ObsidianChampionArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ObsidianChapelDeFer": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ObsidianClothPants": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ObsidianCutlass": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_ObsidianDarkPlateArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ObsidianDarkleafBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianHeavyGauntlet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianIngots": {
+    "type": "Type.Item.Misc.Ingot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianLeatherGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianMorningStar": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_ObsidianNorthernFullTunic": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ObsidianOnyxGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianOres": {
+    "type": "Type.Item.Misc.Ore",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianPaddedLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ObsidianPlateBoots": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianPlatePants": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ObsidianPowder": {
+    "type": "Type.Item.Misc.Powder",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_ObsidianShadowMask": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianStefanBeret": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianStilettoDagger": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_ObsidianTrapperHat": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianTurnshoe": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ObsidianWandererAttire": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ObsidianWarHammer": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_ObsidianWizardShoes": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_OccultistBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_OccultistHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_OccultistPants": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_OccultistRobe": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_OccultistTunic": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_OilLantern": {
+    "type": "Type.Item.Utility.LightSource",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_OldBloodyBandage": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_OldCloth": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_OldNauticalChartFragment": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_OldRope": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_OldRustyKey": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_OldShoes": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_OnyxGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_OpenSallet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_OracleRobe": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_OrnateJazerant": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_OwlPendant": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_OxPendant": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_PaddedLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_PaddedTunic": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Paperweight": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_PastoralTunic": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Pavise": {
+    "type": "Type.Item.Weapon.Shield",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 12
+  },
+  "DesignDataItem:Id_Item_PearlNecklace": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Pebble": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_PhantomFlower": {
+    "type": "Type.Item.Misc.Herb",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_PhoenixChoker": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Pickaxe": {
+    "type": "Type.Item.Utility.Mining",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Pigache": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Pincushion": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_PlateBoots": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_PlatePants": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Plunderhosen": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_PocketWatch": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_PoisonVial": {
+    "type": "Type.Item.Utility.Throwable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_PotionofWaterBreathing": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Poupoint": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_PrimitiveBracelet": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_ProtectionPotion": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_ProwlerGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Quarterstaff": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 5
+  },
+  "DesignDataItem:Id_Item_Quiver": {
+    "type": "Type.Item.Misc.Container",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_RadiantCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_RangerHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Rapier": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_RatPendant": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RawhideGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RecurveBow": {
+    "type": "Type.Item.Weapon.Bow",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_RedApple": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RegalGambeson": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_RegalMitre": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ReinforcedGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Reins": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_RingOfCourage": {
+    "type": "Type.Item.Accessory.Ring",
+    "slot": "Type.Item.Slot.Ring",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RingOfFinesse": {
+    "type": "Type.Item.Accessory.Ring",
+    "slot": "Type.Item.Slot.Ring",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RingOfQuickness": {
+    "type": "Type.Item.Accessory.Ring",
+    "slot": "Type.Item.Slot.Ring",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RingOfResolve": {
+    "type": "Type.Item.Accessory.Ring",
+    "slot": "Type.Item.Slot.Ring",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RingOfSurvival": {
+    "type": "Type.Item.Accessory.Ring",
+    "slot": "Type.Item.Slot.Ring",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RingOfVitality": {
+    "type": "Type.Item.Accessory.Ring",
+    "slot": "Type.Item.Slot.Ring",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RingOfWisdom": {
+    "type": "Type.Item.Accessory.Ring",
+    "slot": "Type.Item.Slot.Ring",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RitualRobe": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_RivetedGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RobeofDarkness": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_RodOfRighteousness": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_RogueCowl": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RondelDagger": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_RottenFluids": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RottenLump": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RoundShield": {
+    "type": "Type.Item.Weapon.Shield",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Ruby": {
+    "type": "Type.Item.Misc.Gem",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RubysilverAdventurerBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RubysilverBarbutaHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RubysilverDoublet": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_RubysilverFineCuirass": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_RubysilverHalberd": {
+    "type": "Type.Item.Weapon.Polearm",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 10
+  },
+  "DesignDataItem:Id_Item_RubysilverHeavyGauntlet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RubysilverHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RubysilverIngots": {
+    "type": "Type.Item.Misc.Ingot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RubysilverLeatherCap": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RubysilverLeatherLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_RubysilverMysticVestments": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_RubysilverOres": {
+    "type": "Type.Item.Misc.Ore",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RubysilverPlateBoots": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RubysilverPlatePants": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_RubysilverPowder": {
+    "type": "Type.Item.Misc.Powder",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_RubysilverRawhideGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RuggedBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RunestoneGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_RusticTunic": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_RustyBrokenSword": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_Saddle": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SailorsJournal": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Sallet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Saltvine": {
+    "type": "Type.Item.Misc.Herb",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_Scabbard": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ScaledArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ScrollofFadedShadows": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ScrollofForgottenKnowledge": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ScrollofLostNames": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ScrollofSealedCurse": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ScrollofVanishedMemories": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_SealedLetter": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SealofDominion": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_SearedHide": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SearingSlime": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Seashell": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SeaweedNecklace": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Shackles": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_ShadowHood": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ShadowMask": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SharpSeaUrchinSpine": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_ShiningPearl": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_ShipsWheel": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 9
+  },
+  "DesignDataItem:Id_Item_ShoesofDarkness": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ShortSword": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_ShortSwordOfRighteousness": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_SilverChalice": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_SilverCoin": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SilverIngots": {
+    "type": "Type.Item.Misc.Ingot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SilverOres": {
+    "type": "Type.Item.Misc.Ore",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SilverPowder": {
+    "type": "Type.Item.Misc.Powder",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SilverSkulltoken": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SkinnyFinger": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_SkullKey": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_SleekHidePants": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Sling": {
+    "type": "Type.Item.Utility.Throwable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_SlingStone": {
+    "type": "Type.Item.Misc.Ammo",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SmallFiendlingHorn": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SmellyVomit": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SmokyPoisonPowder": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Soap": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SootyBeardHair": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SoulDevotedFolio": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SoulHeart": {
+    "type": "Type.Item.Utility.SoulHeart",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SoulTorq": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SovereignsGhostblade": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Spangenhelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Spear": {
+    "type": "Type.Item.Weapon.Polearm",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 5
+  },
+  "DesignDataItem:Id_Item_SpearofRot": {
+    "type": "Type.Item.Weapon.Polearm",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 5
+  },
+  "DesignDataItem:Id_Item_SpectralBlade": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SpectralCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_SpectralCoinbag": {
+    "type": "Type.Item.Misc.Container",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SpectralFabric": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SpectralHilt": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_Spellbook": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SpellplunderRod": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SpentCandle": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SpiderSilk": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SpikedGauntlet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SplendidCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_SquareCushion": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_StaffOfRighteousness": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 5
+  },
+  "DesignDataItem:Id_Item_StaffofGluttony": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Starfish": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_StefanBeret": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SterlingAxe": {
+    "type": "Type.Item.Weapon.Axe",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_SterlingBlade": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SterlingBow": {
+    "type": "Type.Item.Weapon.Bow",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_SterlingDagger": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_SterlingRod": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_SterlingShortSword": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_SterlingStaff": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 5
+  },
+  "DesignDataItem:Id_Item_StickyTongue": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_StilettoDagger": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_StillmendBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Stirrups": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_StitchedTurnshoe": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_StoneFragment": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_StoneMortar": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_StrawHat": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_StuddedLeather": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_StuddedWyvernLeather": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_SturdyBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SturdyCloth": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_SturdyLog": {
+    "type": "Type.Item.Misc.Wood",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_SturdyRope": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SulfurSaliva": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SunburstOrb": {
+    "type": "Type.Item.Utility.Throwable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_SurgicalKit": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_SurvivalBow": {
+    "type": "Type.Item.Weapon.Bow",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_TailOfCentaur": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_TanglethreadTrousers": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Tar": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_TatteredChoker": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_TatteredCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TearofHrimthurs": {
+    "type": "Type.Item.Weapon.Shield",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TearoftheVolcano": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Telescope": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_TemplarArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ThickForefoot": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ThornShield": {
+    "type": "Type.Item.Weapon.Shield",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_ThrowingKnife": {
+    "type": "Type.Item.Utility.Throwable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_TidalArcaneGloves": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalButtonedBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TidalCoif": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalCrystalBall": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalElkwoodCrown": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalElkwoodGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalFalchion": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_TidalJesterCap": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalKrisDagger": {
+    "type": "Type.Item.Weapon.Dagger",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_TidalLightGauntlets": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalOccultistBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalPlateBoots": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalPlatePants": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TidalProwlerGloves": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Hands",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalRegalGambeson": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TidalScaledArmor": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TidalSleekHidePants": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TidalSpangenhelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalSturdyBoots": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalTimewornRobe": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TidalTrunkHose": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TidalVisoredSallet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidalWandererAttire": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TidestoneIngots": {
+    "type": "Type.Item.Misc.Ingot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidestoneOres": {
+    "type": "Type.Item.Misc.Ore",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TidestonePowder": {
+    "type": "Type.Item.Misc.Powder",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_TidewalkerFin": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_TimewornRobe": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_ToadVocalSac": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TokenOfHonor": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_TomeofSheol": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TongueOfMimic": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Topfhelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Torch": {
+    "type": "Type.Item.Utility.LightSource",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_TornBatWing": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TornSail": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TornWingFragment": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TracingWheel": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_TrapDisarmingKit": {
+    "type": "Type.Item.Utility.Consumable",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_TrapperHat": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TriPeltDoublet": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TriPeltNorthernFullTunic": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Tripod": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_TrollBane": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 5
+  },
+  "DesignDataItem:Id_Item_TrollBlood": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_TrollPelt": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_TrollsClub": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_TroubadourOutfit": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_TrunkHose": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Turnshoe": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_Twig": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_TwistedAbyssHorn": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_ValentineCandies": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_ValiantAttire": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_VigilantCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_VikingHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_VikingSword": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_VisoredBarbutaHelm": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_VisoredSallet": {
+    "type": "Type.Item.Armor.Plate",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_VoidBlade": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_VolcanicAsh": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_WalkingCane": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WandererAttire": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_WanderlightLantern": {
+    "type": "Type.Item.Utility.LightSource",
+    "slot": "Type.Item.Slot.Secondary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WantedPoster": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WarHammer": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_WarHorn": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WarMaul": {
+    "type": "Type.Item.Weapon.Mace",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_WardenOutfit": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Chest",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_Wardweed": {
+    "type": "Type.Item.Misc.Herb",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_WarlordsArmorShard": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WarlordsBrokenSwordBlade": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_WarpedAdamantineShackles": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WatchmanCloak": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Back",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_WendigoHoof": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WendigoSharpClaws": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_WendigosAntlerFragment": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WendigosEntrails": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WhiteSash": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Sash",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_WhiteSharkFin": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WhiteSharkHide": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WhiteSharkTooth": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_WhiteThreadSpool": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_WindLocket": {
+    "type": "Type.Item.Accessory.Necklace",
+    "slot": "Type.Item.Slot.Necklace",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_WindlassCrossbow": {
+    "type": "Type.Item.Weapon.Crossbow",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 8
+  },
+  "DesignDataItem:Id_Item_WizardHat": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WizardShoes": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Foot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WizardStaff": {
+    "type": "Type.Item.Weapon.MagicStuff",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WolfClaw": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_WolfFang": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_WolfHunterLeggings": {
+    "type": "Type.Item.Armor.Leather",
+    "slot": "Type.Item.Slot.Legs",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_WolfPelt": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WoodenDice": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_WoodenFigurine": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_WoodenMask": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_WoodenPlank": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_WoodenStake": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_WoodenStick": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 3
+  },
+  "DesignDataItem:Id_Item_WoodsmanAxe": {
+    "type": "Type.Item.Utility.Tool",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_WoolenCap": {
+    "type": "Type.Item.Armor.Cloth",
+    "slot": "Type.Item.Slot.Head",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WorkshopRemnant": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WorkshopScraps": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_WovenRattanBottle": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 6
+  },
+  "DesignDataItem:Id_Item_YellowThreadSpool": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_YetisTeeth": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 1
+  },
+  "DesignDataItem:Id_Item_Zweihander": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  }
+}
