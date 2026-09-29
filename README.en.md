@@ -1,8 +1,18 @@
 # DaD: Rogue Trader
 
-Public data for updating Dark and Darker: Rogue Trader.
+A trading assistant for Dark and Darker.
 
 [Русский](README.md)
+
+## Screenshots
+
+Stash and the My listings window.
+
+![Stash and my listings](docs/stash-and-listings.png)
+
+Market search by the given parameters.
+
+![Market search and my listings](docs/market-and-listings.png)
 
 Branch `master`:
 

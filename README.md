@@ -1,8 +1,18 @@
 # DaD: Rogue Trader
 
-Публичные данные для обновления Dark and Darker: Rogue Trader.
+Торговый асистент для игры Dark and Darker.
 
 [English](README.en.md)
+
+## Скриншоты
+
+Тайник и окно "Мои лоты".
+
+![Тайник и мои лоты](docs/stash-and-listings.png)
+
+Поиск на рынке по заданным параметрам.
+
+![Поиск на рынке и мои лоты](docs/market-and-listings.png)
 
 Ветка `master`:
 
