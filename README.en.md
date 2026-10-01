@@ -23,6 +23,25 @@ Market search by the given parameters.
 
 ![Market search and my listings](docs/market-and-listings.png)
 
+## Trading
+
+The "Auto trade" tab. Rules are stored locally and run while the program is open and a lobby session is up. Active rules are checked about every 30 seconds.
+
+How to add a rule:
+
+1. Start the gateway and enter the lobby with the game client.
+2. Pick the rule kind, the item, and the rarity. For herbs, potions, and bandages set the pack size.
+3. The "Refresh info" button shows the minimum price and the current market offers for these parameters.
+4. Fill in the numbers and press "Add". The rule is enabled right away. The "On" column pauses and resumes it, "Delete" removes it.
+
+Rule kinds:
+
+- **Auto buy** - buys listings no more expensive than "Max buy price" until the bag and the stash hold "Slots" packs. "Gold reserve" is the amount below which gold is not spent.
+- **Flip** - buys the same way, then lists what it bought. Listing price: the minimum of other sellers' lots minus "Undercut", but not below the buy price plus "Profit %". Your active listings take up the rule's slots, so there are never more than "Slots" packs in hand and on the market combined. Listing requires Legendary status.
+- **Auto sell** - lists packs of the item from the bag and the stash until you have "Slots" listings on the market. "Price mode": "Fixed" uses the "Sell price", "Under market" uses the minimum of other sellers' lots minus "Undercut". If there are no other sellers' lots, the "Under market" pass is skipped. Listing requires Legendary status.
+
+Attributes for flip and auto buy are optional. When set, only lots that have all the selected static and random attributes are taken.
+
 Branch `master`:
 
 - `manifest.json` - versions of the program, content, and the proxy list
