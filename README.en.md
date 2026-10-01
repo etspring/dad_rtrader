@@ -4,6 +4,15 @@ A trading assistant for Dark and Darker.
 
 [Русский](README.md)
 
+## Main features
+
+- Market search by item, rarity, class, slot, type, and attributes, and buying a listing.
+- Stash: minimum price, listing, quick sell, and scrapping.
+- Your listings: cancel a sale and collect the gold.
+- An overlay on top of the game shows the minimum price from the item tooltip.
+- Auto-buy and flip from saved rules.
+- A local gateway to the game. In dad_proxy mode the lobby session stays up after the client is closed.
+
 ## Screenshots
 
 Stash and the My listings window.
