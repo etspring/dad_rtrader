@@ -191,6 +191,10 @@
     "en": "Blessed Barley Loaf",
     "ru": "Благословлённый ячменный каравай"
   },
+  "DesignDataItem:Id_Item_Bloodbound": {
+    "en": "Bloodbound",
+    "ru": "Bloodbound"
+  },
   "DesignDataItem:Id_Item_BloodsapBlade": {
     "en": "Bloodsap Blade",
     "ru": "Вампирский Клинок"
@@ -242,6 +246,10 @@
   "DesignDataItem:Id_Item_BowOfRighteousness": {
     "en": "Bow of Righteousness",
     "ru": "Лук Праведности"
+  },
+  "DesignDataItem:Id_Item_BowofEndlessThirst": {
+    "en": "Bow of Endless Thirst",
+    "ru": "Bow of Endless Thirst"
   },
   "DesignDataItem:Id_Item_Bowstring": {
     "en": "Bowstring",
@@ -678,6 +686,18 @@
   "DesignDataItem:Id_Item_CursedCrown": {
     "en": "Cursed Crown",
     "ru": "Проклятая Корона"
+  },
+  "DesignDataItem:Id_Item_CursedIdol": {
+    "en": "Cursed Idol",
+    "ru": "Cursed Idol"
+  },
+  "DesignDataItem:Id_Item_CursedPoppet": {
+    "en": "Cursed Poppet",
+    "ru": "Cursed Poppet"
+  },
+  "DesignDataItem:Id_Item_CursedWater": {
+    "en": "Cursed Water",
+    "ru": "Cursed Water"
   },
   "DesignDataItem:Id_Item_Cutlass": {
     "en": "Cutlass",
@@ -1139,6 +1159,30 @@
     "en": "Gambler's Token",
     "ru": "Жетон Игрока"
   },
+  "DesignDataItem:Id_Item_GamblersToken_1": {
+    "en": "Gambler's Token I",
+    "ru": "Gambler's Token I"
+  },
+  "DesignDataItem:Id_Item_GamblersToken_2": {
+    "en": "Gambler's Token II",
+    "ru": "Gambler's Token II"
+  },
+  "DesignDataItem:Id_Item_GamblersToken_3": {
+    "en": "Gambler's Token III",
+    "ru": "Gambler's Token III"
+  },
+  "DesignDataItem:Id_Item_GamblersToken_4": {
+    "en": "Gambler's Token IV",
+    "ru": "Gambler's Token IV"
+  },
+  "DesignDataItem:Id_Item_GamblersToken_5": {
+    "en": "Gambler's Token V",
+    "ru": "Gambler's Token V"
+  },
+  "DesignDataItem:Id_Item_GamblersToken_6": {
+    "en": "Gambler's Token VI",
+    "ru": "Gambler's Token VI"
+  },
   "DesignDataItem:Id_Item_GemNecklace": {
     "en": "Gem Necklace (Exquisite)",
     "ru": "Ожерелье с Самоцветом (Изящное)"
@@ -1171,6 +1215,10 @@
     "en": "Giant Toe",
     "ru": "Палец Гиганта"
   },
+  "DesignDataItem:Id_Item_GildedHart": {
+    "en": "Gilded Hart",
+    "ru": "Gilded Hart"
+  },
   "DesignDataItem:Id_Item_GingerbreadCookies": {
     "en": "Gingerbread Cookie",
     "ru": "Имбирное Печенье"
@@ -1178,6 +1226,10 @@
   "DesignDataItem:Id_Item_Gjermundbu": {
     "en": "Gjermundbu",
     "ru": "Гьёрмундбю"
+  },
+  "DesignDataItem:Id_Item_Glaive": {
+    "en": "Glaive",
+    "ru": "Glaive"
   },
   "DesignDataItem:Id_Item_GlovesOfUtility": {
     "en": "Gloves of Utility",
@@ -1498,6 +1550,10 @@
   "DesignDataItem:Id_Item_HellHuntersCurvedBlade": {
     "en": "Hell Hunter's Curved Blade",
     "ru": "Изогнутый Клинок Адского Охотника"
+  },
+  "DesignDataItem:Id_Item_HellguardGlaive": {
+    "en": "Hellguard Glaive",
+    "ru": "Hellguard Glaive"
   },
   "DesignDataItem:Id_Item_Hemostatic": {
     "en": "Hemostatic",
@@ -2150,6 +2206,10 @@
   "DesignDataItem:Id_Item_Pincushion": {
     "en": "Pincushion",
     "ru": "Подушечка для Иголок"
+  },
+  "DesignDataItem:Id_Item_Pipe": {
+    "en": "Pipe",
+    "ru": "Pipe"
   },
   "DesignDataItem:Id_Item_PlateBoots": {
     "en": "Plate Boots",
@@ -2982,6 +3042,10 @@
   "DesignDataItem:Id_Item_ValiantAttire": {
     "en": "Valiant Attire",
     "ru": "Доблестное Облачение"
+  },
+  "DesignDataItem:Id_Item_VeteranAdventurersLicense": {
+    "en": "Veteran Adventurer's License",
+    "ru": "Veteran Adventurer's License"
   },
   "DesignDataItem:Id_Item_VigilantCloak": {
     "en": "Vigilant Cloak",

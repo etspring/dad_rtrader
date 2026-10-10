@@ -120,6 +120,11 @@
   ],
   "types": [
     {
+      "value": "Type.Item.Armor.Chain",
+      "en": "Chain",
+      "ru": "Цепь"
+    },
+    {
       "value": "Type.Item.Armor.Cloth",
       "en": "Cloth",
       "ru": "Ткань"

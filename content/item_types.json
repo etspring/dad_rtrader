@@ -203,6 +203,11 @@
     "slot": "Type.Item.Slot.Utility",
     "cells": 4
   },
+  "DesignDataItem:Id_Item_Bloodbound": {
+    "type": "Type.Item.Weapon.Sword",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
+  },
   "DesignDataItem:Id_Item_BloodsapBlade": {
     "type": "Type.Item.Weapon.Sword",
     "slot": "Type.Item.Slot.Secondary",
@@ -261,6 +266,11 @@
     "type": "Type.Item.Weapon.Bow",
     "slot": "Type.Item.Slot.Primary",
     "cells": 3
+  },
+  "DesignDataItem:Id_Item_BowofEndlessThirst": {
+    "type": "Type.Item.Weapon.Bow",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 4
   },
   "DesignDataItem:Id_Item_Bowstring": {
     "type": "Type.Item.Misc.HuntingLoot",
@@ -346,7 +356,7 @@
     "cells": 4
   },
   "DesignDataItem:Id_Item_BuckledBoots": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Foot",
     "cells": 4
   },
@@ -565,7 +575,7 @@
     "cells": 6
   },
   "DesignDataItem:Id_Item_CobaltVikingHelm": {
-    "type": "Type.Item.Armor.Plate",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Head",
     "cells": 4
   },
@@ -644,7 +654,7 @@
     "cells": 6
   },
   "DesignDataItem:Id_Item_CopperlightRivetedGloves": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Hands",
     "cells": 4
   },
@@ -757,6 +767,19 @@
   "DesignDataItem:Id_Item_CursedCrown": {
     "type": "Type.Item.Misc.HuntingLoot",
     "cells": 4
+  },
+  "DesignDataItem:Id_Item_CursedIdol": {
+    "type": "Type.Item.Misc.HuntingLoot",
+    "cells": 4
+  },
+  "DesignDataItem:Id_Item_CursedPoppet": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 2
+  },
+  "DesignDataItem:Id_Item_CursedWater": {
+    "type": "Type.Item.Utility.Drink",
+    "slot": "Type.Item.Slot.Utility",
+    "cells": 2
   },
   "DesignDataItem:Id_Item_Cutlass": {
     "type": "Type.Item.Weapon.Sword",
@@ -1227,7 +1250,7 @@
     "cells": 6
   },
   "DesignDataItem:Id_Item_FrostlightRivetedGloves": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Hands",
     "cells": 4
   },
@@ -1321,14 +1344,23 @@
     "type": "Type.Item.Misc.HuntingLoot",
     "cells": 2
   },
+  "DesignDataItem:Id_Item_GildedHart": {
+    "type": "Type.Item.Misc.Treasure",
+    "cells": 6
+  },
   "DesignDataItem:Id_Item_GingerbreadCookies": {
     "type": "Type.Item.Misc.Currency",
     "cells": 1
   },
   "DesignDataItem:Id_Item_Gjermundbu": {
-    "type": "Type.Item.Armor.Plate",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Head",
     "cells": 4
+  },
+  "DesignDataItem:Id_Item_Glaive": {
+    "type": "Type.Item.Weapon.Polearm",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 10
   },
   "DesignDataItem:Id_Item_GlovesOfUtility": {
     "type": "Type.Item.Armor.Leather",
@@ -1494,7 +1526,7 @@
     "cells": 4
   },
   "DesignDataItem:Id_Item_GoldenGjermundbu": {
-    "type": "Type.Item.Armor.Plate",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Head",
     "cells": 4
   },
@@ -1572,7 +1604,7 @@
     "cells": 3
   },
   "DesignDataItem:Id_Item_GrandBrigandine": {
-    "type": "Type.Item.Armor.Cloth",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
@@ -1657,7 +1689,7 @@
     "cells": 6
   },
   "DesignDataItem:Id_Item_HeavyBoots": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Foot",
     "cells": 4
   },
@@ -1672,13 +1704,18 @@
     "cells": 4
   },
   "DesignDataItem:Id_Item_HeavyLeatherLeggings": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Legs",
     "cells": 6
   },
   "DesignDataItem:Id_Item_HellHuntersCurvedBlade": {
     "type": "Type.Item.Misc.HuntingLoot",
     "cells": 3
+  },
+  "DesignDataItem:Id_Item_HellguardGlaive": {
+    "type": "Type.Item.Weapon.Polearm",
+    "slot": "Type.Item.Slot.Primary",
+    "cells": 10
   },
   "DesignDataItem:Id_Item_Hemostatic": {
     "type": "Type.Item.Utility.Consumable",
@@ -1894,7 +1931,7 @@
     "cells": 4
   },
   "DesignDataItem:Id_Item_LeatherLamellar": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
@@ -2117,12 +2154,12 @@
     "cells": 4
   },
   "DesignDataItem:Id_Item_NorthernFullTunic": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
   "DesignDataItem:Id_Item_NorthernHalfTunic": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
@@ -2201,7 +2238,7 @@
     "cells": 3
   },
   "DesignDataItem:Id_Item_ObsidianNorthernFullTunic": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
@@ -2345,7 +2382,7 @@
     "cells": 6
   },
   "DesignDataItem:Id_Item_OrnateJazerant": {
-    "type": "Type.Item.Armor.Cloth",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
@@ -2565,7 +2602,7 @@
     "cells": 6
   },
   "DesignDataItem:Id_Item_RivetedGloves": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Hands",
     "cells": 4
   },
@@ -2724,7 +2761,7 @@
     "cells": 4
   },
   "DesignDataItem:Id_Item_ScaledArmor": {
-    "type": "Type.Item.Armor.Plate",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
@@ -3060,12 +3097,12 @@
     "cells": 4
   },
   "DesignDataItem:Id_Item_StuddedLeather": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
   "DesignDataItem:Id_Item_StuddedWyvernLeather": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
@@ -3241,7 +3278,7 @@
     "cells": 6
   },
   "DesignDataItem:Id_Item_TidalScaledArmor": {
-    "type": "Type.Item.Armor.Plate",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
@@ -3360,7 +3397,7 @@
     "cells": 6
   },
   "DesignDataItem:Id_Item_TriPeltNorthernFullTunic": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
@@ -3418,13 +3455,17 @@
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },
+  "DesignDataItem:Id_Item_VeteranAdventurersLicense": {
+    "type": "Type.Item.Misc.Currency",
+    "cells": 1
+  },
   "DesignDataItem:Id_Item_VigilantCloak": {
     "type": "Type.Item.Armor.Cloth",
     "slot": "Type.Item.Slot.Back",
     "cells": 6
   },
   "DesignDataItem:Id_Item_VikingHelm": {
-    "type": "Type.Item.Armor.Plate",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Head",
     "cells": 4
   },
