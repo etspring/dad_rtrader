@@ -513,7 +513,7 @@
     "cells": 6
   },
   "DesignDataItem:Id_Item_CobaltHat": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Cloth",
     "slot": "Type.Item.Slot.Head",
     "cells": 4
   },
@@ -1497,7 +1497,7 @@
     "cells": 4
   },
   "DesignDataItem:Id_Item_GoldenBoots": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Foot",
     "cells": 4
   },
@@ -1551,7 +1551,7 @@
     "cells": 4
   },
   "DesignDataItem:Id_Item_GoldenLeggings": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Chain",
     "slot": "Type.Item.Slot.Legs",
     "cells": 6
   },
@@ -2179,7 +2179,7 @@
     "cells": 4
   },
   "DesignDataItem:Id_Item_ObsidianBloodwovenRobe": {
-    "type": "Type.Item.Armor.Leather",
+    "type": "Type.Item.Armor.Cloth",
     "slot": "Type.Item.Slot.Chest",
     "cells": 6
   },

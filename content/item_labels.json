@@ -3,10 +3,6 @@
     "en": "Adventurer Boots",
     "ru": "Сапоги Авантюриста"
   },
-  "DesignDataItem:Id_Item_AdventurerBoots_RS": {
-    "en": "Rubysilver Adventurer Boots",
-    "ru": "Сапоги Авантюриста из Рубисильвера"
-  },
   "DesignDataItem:Id_Item_AdventurerCloak": {
     "en": "Adventurer Cloak",
     "ru": "Плащ Авантюриста"
@@ -98,10 +94,6 @@
   "DesignDataItem:Id_Item_BarbutaHelm": {
     "en": "Barbuta Helm",
     "ru": "Барбют"
-  },
-  "DesignDataItem:Id_Item_BarbutaHelm_RS": {
-    "en": "Rubysilver Barbuta Helm",
-    "ru": "Барбют из Рубисильвера"
   },
   "DesignDataItem:Id_Item_BardicPants": {
     "en": "Bardic Pants",
@@ -859,10 +851,6 @@
     "en": "Doublet",
     "ru": "Дублет"
   },
-  "DesignDataItem:Id_Item_Doublet_RS": {
-    "en": "Rubysilver Doublet",
-    "ru": "Дублет из Рубисильвера"
-  },
   "DesignDataItem:Id_Item_DreadHood": {
     "en": "Dread Hood",
     "ru": "Капюшон Ужаса"
@@ -954,10 +942,6 @@
   "DesignDataItem:Id_Item_FineCuirass": {
     "en": "Fine Cuirass",
     "ru": "Кираса"
-  },
-  "DesignDataItem:Id_Item_FineCuirass_RS": {
-    "en": "Rubysilver Cuirass",
-    "ru": "Кираса из Рубисильвера"
   },
   "DesignDataItem:Id_Item_FireflyAbdomen": {
     "en": "Firefly's Abdomen",
@@ -1158,30 +1142,6 @@
   "DesignDataItem:Id_Item_GamblersToken": {
     "en": "Gambler's Token",
     "ru": "Жетон Игрока"
-  },
-  "DesignDataItem:Id_Item_GamblersToken_1": {
-    "en": "Gambler's Token I",
-    "ru": "Gambler's Token I"
-  },
-  "DesignDataItem:Id_Item_GamblersToken_2": {
-    "en": "Gambler's Token II",
-    "ru": "Gambler's Token II"
-  },
-  "DesignDataItem:Id_Item_GamblersToken_3": {
-    "en": "Gambler's Token III",
-    "ru": "Gambler's Token III"
-  },
-  "DesignDataItem:Id_Item_GamblersToken_4": {
-    "en": "Gambler's Token IV",
-    "ru": "Gambler's Token IV"
-  },
-  "DesignDataItem:Id_Item_GamblersToken_5": {
-    "en": "Gambler's Token V",
-    "ru": "Gambler's Token V"
-  },
-  "DesignDataItem:Id_Item_GamblersToken_6": {
-    "en": "Gambler's Token VI",
-    "ru": "Gambler's Token VI"
   },
   "DesignDataItem:Id_Item_GemNecklace": {
     "en": "Gem Necklace (Exquisite)",
@@ -1467,10 +1427,6 @@
     "en": "Great Helm",
     "ru": "Гранд-хелм"
   },
-  "DesignDataItem:Id_Item_GreatLuckPotion": {
-    "en": "Great Potion of Luck",
-    "ru": "Большое Зелье Удачи"
-  },
   "DesignDataItem:Id_Item_GreenThreadSpool": {
     "en": "Green Thread Spool",
     "ru": "Катушка с Зелёной Нитью"
@@ -1539,10 +1495,6 @@
     "en": "Heavy Gauntlets",
     "ru": "Тяжёлые Латные Рукавицы"
   },
-  "DesignDataItem:Id_Item_HeavyGauntlet_RS": {
-    "en": "Rubysilver Gauntlets",
-    "ru": "Рукавицы из Рубисильвера"
-  },
   "DesignDataItem:Id_Item_HeavyLeatherLeggings": {
     "en": "Heavy Leather Leggings",
     "ru": "Тяжёлые Кожаные Штаны"
@@ -1570,10 +1522,6 @@
   "DesignDataItem:Id_Item_HoneyblissPear": {
     "en": "Honeybliss Pear",
     "ru": "Медовая Груша"
-  },
-  "DesignDataItem:Id_Item_Hood_RS": {
-    "en": "Rubysilver Hood",
-    "ru": "Капюшон из Рубисильвера"
   },
   "DesignDataItem:Id_Item_HornOfCentaur": {
     "en": "Centaur Horn",
@@ -1743,10 +1691,6 @@
     "en": "Leather Cap",
     "ru": "Кожаный Чепец"
   },
-  "DesignDataItem:Id_Item_LeatherCap_RS": {
-    "en": "Rubysilver Cap",
-    "ru": "Чепец с Рубисильвером"
-  },
   "DesignDataItem:Id_Item_LeatherChausses": {
     "en": "Leather Chausses",
     "ru": "Кожаные Шоссы"
@@ -1762,10 +1706,6 @@
   "DesignDataItem:Id_Item_LeatherLeggings": {
     "en": "Leather Leggings",
     "ru": "Кожаные Поножи"
-  },
-  "DesignDataItem:Id_Item_LeatherLeggings_RS": {
-    "en": "Rubysilver Leggings",
-    "ru": "Поножи из Рубисильвера"
   },
   "DesignDataItem:Id_Item_Lifeleaf": {
     "en": "Lifeleaf",
@@ -1938,10 +1878,6 @@
   "DesignDataItem:Id_Item_MysticVestments": {
     "en": "Mystic Vestments",
     "ru": "Одеяние Мистика"
-  },
-  "DesignDataItem:Id_Item_MysticVestments_RS": {
-    "en": "Rubysilver Vestments",
-    "ru": "Одеяние из Рубисильвера"
   },
   "DesignDataItem:Id_Item_MysticalGem": {
     "en": "Mystical Gem",
@@ -2207,25 +2143,13 @@
     "en": "Pincushion",
     "ru": "Подушечка для Иголок"
   },
-  "DesignDataItem:Id_Item_Pipe": {
-    "en": "Pipe",
-    "ru": "Pipe"
-  },
   "DesignDataItem:Id_Item_PlateBoots": {
     "en": "Plate Boots",
     "ru": "Латные Сапоги"
   },
-  "DesignDataItem:Id_Item_PlateBoots_RS": {
-    "en": "Rubysilver Plate Boots",
-    "ru": "Латные Сапоги из Рубисильвера"
-  },
   "DesignDataItem:Id_Item_PlatePants": {
     "en": "Plate Pants",
     "ru": "Латные Поножи"
-  },
-  "DesignDataItem:Id_Item_PlatePants_RS": {
-    "en": "Rubysilver Plate Pants",
-    "ru": "Латные поножи из Рубисильвера"
   },
   "DesignDataItem:Id_Item_Plunderhosen": {
     "en": "Plunderhosen",
@@ -2286,10 +2210,6 @@
   "DesignDataItem:Id_Item_RawhideGloves": {
     "en": "Rawhide Gloves",
     "ru": "Сыромятные Перчатки"
-  },
-  "DesignDataItem:Id_Item_RawhideGloves_RS": {
-    "en": "Rubysilver Rawhide Gloves",
-    "ru": "Сыромятные Перчатки с Рубисильвером"
   },
   "DesignDataItem:Id_Item_RecurveBow": {
     "en": "Recurve Bow",
@@ -2383,21 +2303,69 @@
     "en": "Ruby (Exquisite)",
     "ru": "Рубин (Изящный)"
   },
+  "DesignDataItem:Id_Item_RubysilverAdventurerBoots": {
+    "en": "Rubysilver Adventurer Boots",
+    "ru": "Сапоги Авантюриста из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverBarbutaHelm": {
+    "en": "Rubysilver Barbuta Helm",
+    "ru": "Барбют из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverDoublet": {
+    "en": "Rubysilver Doublet",
+    "ru": "Дублет из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverFineCuirass": {
+    "en": "Rubysilver Cuirass",
+    "ru": "Кираса из Рубисильвера"
+  },
   "DesignDataItem:Id_Item_RubysilverHalberd": {
     "en": "Rubysilver Halberd",
     "ru": "Алебарда из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverHeavyGauntlet": {
+    "en": "Rubysilver Gauntlets",
+    "ru": "Рукавицы из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverHood": {
+    "en": "Rubysilver Hood",
+    "ru": "Капюшон из Рубисильвера"
   },
   "DesignDataItem:Id_Item_RubysilverIngots": {
     "en": "Rubysilver Ingot",
     "ru": "Слиток Рубисильвера"
   },
+  "DesignDataItem:Id_Item_RubysilverLeatherCap": {
+    "en": "Rubysilver Cap",
+    "ru": "Чепец с Рубисильвером"
+  },
+  "DesignDataItem:Id_Item_RubysilverLeatherLeggings": {
+    "en": "Rubysilver Leggings",
+    "ru": "Поножи из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverMysticVestments": {
+    "en": "Rubysilver Vestments",
+    "ru": "Одеяние из Рубисильвера"
+  },
   "DesignDataItem:Id_Item_RubysilverOres": {
     "en": "Rubysilver Ore",
     "ru": "Руда Рубисильвера"
   },
+  "DesignDataItem:Id_Item_RubysilverPlateBoots": {
+    "en": "Rubysilver Plate Boots",
+    "ru": "Латные Сапоги из Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverPlatePants": {
+    "en": "Rubysilver Plate Pants",
+    "ru": "Латные поножи из Рубисильвера"
+  },
   "DesignDataItem:Id_Item_RubysilverPowder": {
     "en": "Rubysilver Powder",
     "ru": "Порошок Рубисильвера"
+  },
+  "DesignDataItem:Id_Item_RubysilverRawhideGloves": {
+    "en": "Rubysilver Rawhide Gloves",
+    "ru": "Сыромятные Перчатки с Рубисильвером"
   },
   "DesignDataItem:Id_Item_RuggedBoots": {
     "en": "Rugged Boots",
@@ -3142,6 +3110,10 @@
   "DesignDataItem:Id_Item_WendigosEntrails": {
     "en": "Wendigo's Entrails",
     "ru": "Внутренности Вендиго"
+  },
+  "DesignDataItem:Id_Item_WhiteSash": {
+    "en": "Sash",
+    "ru": "Пояс"
   },
   "DesignDataItem:Id_Item_WhiteSharkFin": {
     "en": "White Shark Fin",
