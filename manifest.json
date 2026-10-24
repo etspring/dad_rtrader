@@ -1,9 +1,9 @@
 {
   "app": {
-    "version": "0.2.2",
-    "tag": "v0.2.2",
+    "version": "0.2.3",
+    "tag": "v0.2.3",
     "file": "DadRogueTrader-win-x64.zip",
-    "sha256": "1eb528f73b2120c379ab32e517af04738df4e495e9698d955095bea0aaa7713e"
+    "sha256": "7b74a081fd85fd08f5b322b7c0aa47a9b4ee8f30482f6f71692ce14542d31862"
   },
   "content": {
     "version": "2026.10.23"
